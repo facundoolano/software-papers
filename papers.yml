@@ -1,0 +1,44 @@
+- title: Preliminary Discussion of the Logical Design of an Electronic Computing Instrument
+  authors: Burks, Goldstine, Neumann
+  year: 1946
+  link: https://www.cs.princeton.edu/courses/archive/fall10/cos375/Burks.pdf
+  related:
+    - title: The Computer as von Neumann Planned It
+      authors: Godfrey, Hendry
+      year: 1993
+      link: https://www.infoamerica.org/documentos_pdf/neumann02.pdf
+
+- title: Computing Machinery and Intelligence
+  authors: Turing
+  year: 1950
+  link: https://phil415.pbworks.com/f/TuringComputing.pdf
+  related:
+    - title: ELIZA—a computer program for the study of natural language communication between man and machine
+      authors: Weizenbaum
+      year: 1966
+      link: http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf
+
+- title: The Education of a Computer
+  authors: Hopper
+  year: 1952
+  link: https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf
+
+- title: A Method for the Construction of Minimum-Redundancy Codes
+  authors: Huffman
+  year: 1952
+  link: https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf
+  related:
+    - title: A Universal Algorithm for Sequential Data Compression
+      authors: Ziv, Lempel
+      year: 1977
+      link: https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf
+
+- title: A Note on Two Problems in Connexion with Graphs
+  authors: Dijkstra
+  year: 1959
+  link: http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf
+  related:
+    - title: On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem
+      authors: Kruskal
+      year: 1956
+      link: http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf

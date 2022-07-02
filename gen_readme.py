@@ -23,7 +23,7 @@ for paper in papers:
 # build table of contents
 papers_toc = ''
 for paper in papers:
-    papers_toc += f'1. _[{paper["title"]}](#{paper["ref"]})_. {paper["authors"]} ({paper["year"]})\n'
+    papers_toc += f'1. [{paper["title"]}](#{paper["ref"]}). {paper["authors"]} ({paper["year"]})\n'
 
 
 # build detail sections
@@ -36,7 +36,7 @@ for n, paper in enumerate(papers, start=1):
     if paper.get('related'):
         papers_notes += "* Further reading:\n"
         for related in paper['related']:
-            papers_notes += f'  * _[{related["title"]}]({related["link"]})_. {related["authors"]} ({related["year"]}).\n'
+            papers_notes += f'  * [{related["title"]}]({related["link"]}). {related["authors"]} ({related["year"]}).\n'
             pass
 
 # inject into readme

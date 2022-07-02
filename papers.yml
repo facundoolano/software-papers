@@ -42,3 +42,46 @@
       authors: Kruskal
       year: 1956
       link: http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf
+
+- title: Recursive Functions of Symbolic Expressions and Their Computation by Machine
+  authors: McCarthy
+  year: 1960
+  link: http://jmc.stanford.edu/articles/recursive/recursive.pdf
+  related:
+    - title: The Art of the Interpreter
+      authors: Steele, Sussman
+      year: 1978
+      link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
+
+- title: Some Moral and Technical Consequences of Automation
+  authors: Wiener
+  year: 1960
+  link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
+
+- title: Cramming More Components onto Integrated Circuits
+  authors: Moore
+  year: 1965
+  link: https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf
+  related:
+    - title: Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities
+      authors: Amdahl
+      year: 1967
+      link: https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf
+
+- title: Goto statement considered harmful
+  authors: Dijkstra
+  year: 1968
+  link: https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
+  related:
+   - title: Recursive Programming
+     authors: Dijkstra
+     year: 1960
+     link: https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf
+   - title: The Structure of the \"THE\"-Multiprogramming System
+     authors: Dijkstra
+     year: 1968
+     link: https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf
+   - title: Program development by stepwise refinement
+     authors: Wirth
+     year: 1971
+     link: http://sunnyday.mit.edu/16.355/wirth-refinement.html

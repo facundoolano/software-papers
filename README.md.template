@@ -8,7 +8,9 @@ A curated list of papers that may be of interest to Software Engeneering student
 
 <br/>
 
-This project was inspired by the [Papers We Love](https://paperswelove.org/) project and the [Ideas That Created the Future ](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis. I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremly useful resource.
+This list was inspired by (and draws from) the [Papers We Love](https://paperswelove.org/) project and
+the [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis.
+I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremly useful resource.
 
 ## Meta reads
 
@@ -24,10 +26,12 @@ TODO
 4. They should be freely available online.
 5. Although historical relevance was taken into account, I omitted seminal papers in the cases where I found them hard to approach, when the main subject of the paper wasn't the thing that made them influential, etc.
    - That being said, where possible I preferred the original paper on each subject over modern updates or summary papers.
-6. I tended to prefer topics that I can relate to my professional practice, typically papers originated in the industry or about innovations that later saw wide adoption. Likewise I tended to skip more theorical papers, those focused on mathematical foundations for Computer Science, etc.
+6. I tended to prefer topics that I can relate to my professional practice, typically papers originated in the industry
+or about innovations that later saw wide adoption. Likewise I tended to skip more theoretical papers, those focused on mathematical foundations for Computer Science,
+on electronic aspects of hardware, etc.
 
 
-Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. It is a work in progress and I haven't read all of the papers in the list yet. As I do, I may find than some of the papers don't meet the criteria after all and remove them, or decide to add new ones.
+Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
 
 And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.
 

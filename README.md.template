@@ -12,15 +12,11 @@ This list was inspired by (and draws from) the [Papers We Love](https://paperswe
 the [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis.
 I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremly useful resource.
 
-## Meta reads
-
-TODO
-
-## Criteria for making the list
+## Selection criteria
 
 1. The list should stay short. Let's say no more than 30 papers.
    - The idea is not to include every interesting paper that I come across but rather to keep a representative list that's possible to read from start to finish with a similar level of effort as reading a technical book from cover to cover.
-   - I tried to include one paper per each major topic and author, referring to other relevant ones in the notes.
+   - I tried to include one paper per each major topic and author. Other related papers that I found interesting or noteworthy are included in sublists.
 2. The papers shouldn't be too long. For the same reasons as the previous item, I try to avoid papers longer than 20 or 30 pages.
 3. They should be self-contained and readable enough to be approachable by the casual technical reader.
 4. They should be freely available online.
@@ -35,6 +31,6 @@ Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of ro
 
 And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.
 
-## Paper details
+## Meta reads
 
-{{ PAPERS_NOTES }}
+TODO

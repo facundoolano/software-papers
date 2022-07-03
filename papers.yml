@@ -1,87 +1,152 @@
-- title: Preliminary Discussion of the Logical Design of an Electronic Computing Instrument
-  authors: Burks, Goldstine, Neumann
-  year: 1946
-  link: https://www.cs.princeton.edu/courses/archive/fall10/cos375/Burks.pdf
-  related:
-    - title: The Computer as von Neumann Planned It
-      authors: Godfrey, Hendry
-      year: 1993
-      link: https://www.infoamerica.org/documentos_pdf/neumann02.pdf
-
 - title: Computing Machinery and Intelligence
-  authors: Turing
+  author: Turing
   year: 1950
   link: https://phil415.pbworks.com/f/TuringComputing.pdf
   related:
     - title: ELIZA—a computer program for the study of natural language communication between man and machine
-      authors: Weizenbaum
+      author: Weizenbaum
       year: 1966
       link: http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf
 
 - title: The Education of a Computer
-  authors: Hopper
+  author: Hopper
   year: 1952
   link: https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf
 
 - title: A Method for the Construction of Minimum-Redundancy Codes
-  authors: Huffman
+  author: Huffman
   year: 1952
   link: https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf
   related:
     - title: A Universal Algorithm for Sequential Data Compression
-      authors: Ziv, Lempel
+      author: Ziv, Lempel
       year: 1977
       link: https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf
 
 - title: A Note on Two Problems in Connexion with Graphs
-  authors: Dijkstra
+  author: Dijkstra
   year: 1959
   link: http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf
   related:
     - title: On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem
-      authors: Kruskal
+      author: Kruskal
       year: 1956
       link: http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf
 
 - title: Recursive Functions of Symbolic Expressions and Their Computation by Machine
-  authors: McCarthy
+  author: McCarthy
   year: 1960
   link: http://jmc.stanford.edu/articles/recursive/recursive.pdf
   related:
     - title: The Art of the Interpreter
-      authors: Steele, Sussman
+      author: Steele, Sussman
       year: 1978
       link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
 
 - title: Some Moral and Technical Consequences of Automation
-  authors: Wiener
+  author: Wiener
   year: 1960
   link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
 
 - title: Cramming More Components onto Integrated Circuits
-  authors: Moore
+  author: Moore
   year: 1965
   link: https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf
   related:
     - title: Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities
-      authors: Amdahl
+      author: Amdahl
       year: 1967
       link: https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf
 
-- title: Goto statement considered harmful
-  authors: Dijkstra
+- title: Goto Statement Considered Harmful
+  author: Dijkstra
   year: 1968
   link: https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
   related:
    - title: Recursive Programming
-     authors: Dijkstra
+     author: Dijkstra
      year: 1960
      link: https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf
    - title: The Structure of the \"THE\"-Multiprogramming System
-     authors: Dijkstra
+     author: Dijkstra
      year: 1968
      link: https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf
    - title: Program development by stepwise refinement
-     authors: Wirth
+     author: Wirth
      year: 1971
      link: http://sunnyday.mit.edu/16.355/wirth-refinement.html
+
+- title: A Relational Model of Data for Large Shared Data Banks
+  author: Codd
+  year: 1970
+  link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
+
+- title: Space/Time Trade-offs in Hash Coding with Allowable Errors
+  author: Bloom
+  year: 1970
+  link: https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf
+  related:
+    - title: "HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm"
+      author: Flajolet et al
+      year: 2007
+      link: http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf
+
+- title: On the Criteria To Be Used in Decomposing Systems into Modules
+  author: Parnas
+  year: 1971
+  link: https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
+  related:
+    - title: Information Distribution Aspects of Design Methodology
+      author: Parnas
+      year: 1972
+      link: https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF
+    - title: Software Aging
+      author: Parnas
+      year: 1994
+      link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf
+    - title: Designing Software for Ease of Extension and Contraction
+      author: Parnas
+      year: 1979
+      link: https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf
+    - title: The Modular Structure of Complex Systems
+      author: Parnas, Clements, Weiss
+      year: 1984
+      link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.3812&rep=rep1&type=pdf
+
+- title: The UNIX Time- Sharing System
+  author: Ritchie, Thompson
+  year: 1974
+  link: https://dsf.berkeley.edu/cs262/unix.pdf
+  related:
+    - title: Reflections on Trusting Trust
+      author: Thompson
+      year: 1984
+      link: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+
+- title: A Protocol for Packet Network Intercommunication
+  author: Cerf, Kahn
+  year: 1974
+  link: https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
+  related:
+    - title: "Ethernet: Distributed packet switching for local computer networks"
+      author: Metcalfe, Boggs
+      year: 1978
+      link: https://ethernethistory.typepad.com/papers/EthernetPaper.pdf
+
+- title: Programming with Abstract Data Types
+  author: Liskov, Zilles
+  year: 1974
+  link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
+  related:
+    - title: A Design Methodology for Reliable Software Systems
+      author: Liskov
+      year: 1972
+      link: https://dl.acm.org/doi/pdf/10.1145/1479992.1480018
+    - title: On understanding types, data abstraction, and polymorphism
+      author: Cardelli, Wegner
+      year: 1985
+      link: https://dl.acm.org/doi/pdf/10.1145/6041.6042
+    - title: "SELF: The Power of Simplicity"
+      author: Ungar, Smith
+      year: 1991
+      link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps

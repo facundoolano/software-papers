@@ -16,14 +16,14 @@ with open('papers.yml') as file_:
 
 # set computed fields
 for paper in papers:
-    author = paper['authors'].split(',')[0].split(' ')[0].lower()
+    author = paper['author'].split(',')[0].split(' ')[0].lower()
     year = str(paper['year'])[2:]
     paper['ref'] = f'{author}{year}'
 
 # build table of contents
 papers_toc = ''
 for paper in papers:
-    papers_toc += f'1. _{paper["title"]}_. [{paper["authors"]} ({paper["year"]})](#{paper["ref"]}). \n'
+    papers_toc += f'1. _{paper["title"]}_. [{paper["author"]} ({paper["year"]})](#{paper["ref"]}). \n'
 
 
 # build detail sections
@@ -31,13 +31,12 @@ papers_notes = ''
 for n, paper in enumerate(papers, start=1):
     papers_notes += f"""
 ### {n}. <a name="{paper['ref']}"></a> {paper["title"]}
-* [{paper["authors"]} ({paper["year"]})]({paper["link"]}).
+* [{paper["author"]} ({paper["year"]})]({paper["link"]}).
 """
     if paper.get('related'):
         papers_notes += "* Further reading:\n"
-        for related in paper['related']:
-            papers_notes += f'  * _{related["title"]}_. [{related["authors"]} ({related["year"]})]({related["link"]}).\n'
-            pass
+        for related in sorted(paper['related'], key=lambda p: p["year"]):
+            papers_notes += f'  * _{related["title"]}_. [{related["author"]} ({related["year"]})]({related["link"]}).\n'
 
 # inject into readme
 with open('README.md.template') as template:

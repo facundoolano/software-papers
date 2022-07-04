@@ -20,7 +20,7 @@ for paper in papers:
 # build table of contents
 papers_toc = ''
 for paper in papers:
-    papers_toc += f'1. **{paper["title"]}**. [{paper["author"]} ({paper["year"]})](#{paper["link"]}).\n'
+    papers_toc += f'1. **{paper["title"]}**. [{paper["author"]} ({paper["year"]})]({paper["link"]}).\n'
     for related in sorted(paper.get('related', []), key=lambda p: p["year"]):
         papers_toc += f'    * <small>{related["title"]}. [{related["author"]} ({related["year"]})]({related["link"]}).</small>\n'
 

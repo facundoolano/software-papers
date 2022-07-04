@@ -238,10 +238,14 @@
       author: Lamport, Shostak, Pease
       year: 1982
       link: https://lamport.azurewebsites.net/pubs/byz.pdf
-    - title: Conflict-free Replicated Data Types
-      author: Shapiro et al
-      year: 2011
-      link: https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf
+    - title: Impossibility of Distributed Consensus With One Faulty Process
+      author: Fisher, Lynch, Patterson
+      year: 1985
+      link: https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
+    - title: "CRDTs: Consistency without concurrency control"
+      author: Leția, Preguiça, Shapiro
+      year: 2009
+      link: https://hal.inria.fr/file/index/docid/397981/filename/RR-6956.pdf
 
 - title: Communicating sequential processes
   author: Hoare
@@ -306,11 +310,15 @@
       year: 1999
       link: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
 
-- title: Harvest, Yield, and Scalable Tolerant Systems
-  author: Fox, Brewer
-  year: 1999
-  link: https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
+- title: Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services
+  author: Gilbert, Lynch
+  year: 2002
+  link: https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf
   related:
+    - title: Harvest, Yield, and Scalable Tolerant Systems
+      author: Fox, Brewer
+      year: 1999
+      link: https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
     - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
       author: Brewer
       year: 2012

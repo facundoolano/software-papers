@@ -56,9 +56,10 @@ A curated list of papers that may be of interest to Software Engineering student
     * <small>An Axiomatic Basis for Computer Programming. [Hoare (1969)](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf).</small>
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
     * <small>The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).</small>
+    * <small>Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).</small>
     * <small>The Part-Time Parliament. [Lamport (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf).</small>
     * <small>Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).</small>
-    * <small>Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf).</small>
+    * <small>CRDTs: Consistency without concurrency control. [Leția, Preguiça, Shapiro (2009)](https://hal.inria.fr/file/index/docid/397981/filename/RR-6956.pdf).</small>
     * <small>In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).</small>
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
     * <small>Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).</small>
@@ -70,7 +71,8 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
     * <small>As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).</small>
     * <small>The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf).</small>
-1. **Harvest, Yield, and Scalable Tolerant Systems**. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf).
+1. **Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services**. [Gilbert, Lynch (2002)](https://users.ece.cmu.edu/~adrian/731-sp04/readings/GL-cap.pdf).
+    * <small>Harvest, Yield, and Scalable Tolerant Systems. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf).</small>
     * <small>CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).</small>
     * <small>A Critique of the CAP Theorem. [Martin Kleppmann (2015)](https://www.cl.cam.ac.uk/research/dtg/www/files/publications/public/mk428/cap-critique.pdf).</small>
 1. **Dynamo, Amazon’s Highly Available Key-value store**. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).

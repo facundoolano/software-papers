@@ -1,6 +1,6 @@
 # Papers for Software Engineers
 
-A curated list of papers that may be of interest to Software Engeneering students or professionals.
+A curated list of papers that may be of interest to Software Engineering students or professionals.
 
 <br/>
 

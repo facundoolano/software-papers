@@ -7,6 +7,10 @@
       author: Weizenbaum
       year: 1966
       link: http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf
+    - title: Some Moral and Technical Consequences of Automation
+      author: Wiener
+      year: 1960
+      link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
 
 - title: The Education of a Computer
   author: Hopper
@@ -51,15 +55,6 @@
       author: Steele, Sussman
       year: 1978
       link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
-    - title: "Lisp: Good news, bad news, how to win big"
-      author: Gabriel
-      year: 1991
-      link: https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf
-
-- title: Some Moral and Technical Consequences of Automation
-  author: Wiener
-  year: 1960
-  link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
 
 - title: Cramming More Components onto Integrated Circuits
   author: Moore
@@ -70,6 +65,10 @@
       author: Amdahl
       year: 1967
       link: https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf
+    - title: A Simple Capacity Model of Massively Parallel Transaction Systems
+      author: Gunther
+      year: 1993
+      link: http://www.perfdynamics.com/Papers/njgCMG93.pdf
 
 - title: Goto Statement Considered Harmful
   author: Dijkstra
@@ -119,6 +118,10 @@
       author: Parnas, Clements, Weiss
       year: 1984
       link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.3812&rep=rep1&type=pdf
+    - title: "Software Engineering: An Unconsummated Marriage"
+      author: Parnas
+      year: 1997
+      link: https://www.fceia.unr.edu.ar/asist/parnas00.pdf
 
 - title: The UNIX Time- Sharing System
   author: Ritchie, Thompson
@@ -157,6 +160,10 @@
       author: Ungar, Smith
       year: 1991
       link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
+    - title: The paradigms of programming
+      author: Floyd
+      year: 1979
+      link: https://dl.acm.org/doi/pdf/10.1145/1283920.1283934
 
 - title: The Mythical Man Month
   author: Brooks
@@ -175,6 +182,10 @@
       author: Raymond
       year: 1998
       link: http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/cathedral-bazaar.ps
+    - title: "Lisp: Good news, bad news, how to win big"
+      author: Gabriel
+      year: 1991
+      link: https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf
 
 - title: Computer Programming as an Art
   author: Knuth
@@ -241,10 +252,6 @@
       author: Fisher, Lynch, Patterson
       year: 1985
       link: https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf
-    - title: "CRDTs: Consistency without concurrency control"
-      author: Leția, Preguiça, Shapiro
-      year: 2009
-      link: https://hal.inria.fr/file/index/docid/397981/filename/RR-6956.pdf
     - title: Self-stabilizing systems in spite of distributed control
       author: Dijkstra
       year: 1974
@@ -253,14 +260,28 @@
       author: Lampson
       year: 1996
       link: https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf
+    - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
+      author: Brewer
+      year: 2012
+      link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
+    - title: Consistency, Availability, and Convergence
+      author: Mahajan, Alvisi, Dahlin
+      year: 2014
+      link: https://www.cs.cornell.edu/lorenzo/papers/cac-tr.pdf
+
+- title: End-To-End Arguments in System Design
+  author: Saltzer, Reed, Clark
+  year: 1984
+  link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
+  related:
     - title: A Note on Distributed Computing
       author: Waldo et al
       year: 1994
       link: https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf
-    - title: End-To-End Arguments in System Design
-      author: Saltzer, Reed, Clark
-      year: 1984
-      link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
+    - title: The Network is Reliable
+      author: Bailis,  Kingsbury
+      year: 2014
+      link: https://queue.acm.org/detail.cfm?id=2655736
 
 - title: Communicating sequential processes
   author: Hoare
@@ -279,6 +300,10 @@
       author: Hoare
       year: 1974
       link: https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf
+    - title: The Emperor’s Old Clothes
+      author: Hoare
+      year: 1981
+      link: http://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf
 
 - title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks
@@ -289,6 +314,10 @@
       author: Moseley, Marks
       year: 2006
       link: http://curtclifton.net/papers/MoseleyMarks06a.pdf
+    - title: Hints for Computer System Design
+      author: Lampson
+      year: 1983
+      link: https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/
 
 
 - title: Why Functional Programming Matters
@@ -304,6 +333,10 @@
       author: Backus
       year: 1978
       link: https://dl.acm.org/doi/pdf/10.1145/359576.359579
+    - title: The Semantic Elegance of Applicative Languages
+      author: Turner
+      year: 1981
+      link: http://nsl.com/misc/sasl/paraffins-turner.pdf
 
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page
@@ -344,10 +377,6 @@
       author: Hunt et al
       year: 2010
       link: https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf
-    - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
-      author: Brewer
-      year: 2012
-      link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
 
 - title: On Designing and Deploying Internet Scale Services
   author: Hamilton

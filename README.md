@@ -53,6 +53,8 @@ A curated list of papers that may be of interest to Software Engineering student
     * <small>Calibrating Noise to Sensitivity in Private Data Analysis. [Dwork et al (2006)](https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf).</small>
 1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
     * <small>Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).</small>
+    * <small>Monitors: An operating system structuring concept. [Hoare (1974)](https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf).</small>
+    * <small>On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).</small>
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
     * <small>Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).</small>
     * <small>The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).</small>

@@ -316,6 +316,10 @@
   year: 2007
   link: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
   related:
+    - title: The Google File System
+      author: Ghemawat, Gobioff, Leung
+      year: 2003
+      link: https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
     - title: "MapReduce: Simplified Data Processing on Large Clusters"
       author: Dean, Ghemawat
       year: 2004

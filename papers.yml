@@ -36,7 +36,7 @@
       author: Dijkstra
       year: 1959
       link: http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf
-    - title: Big Omicron and Big Theta
+    - title: Big Omicron and big Omega and big Theta
       author: Knuth
       year: 1976
       link: https://dl.acm.org/doi/pdf/10.1145/1008328.1008329
@@ -44,7 +44,10 @@
       author: Karp
       year: 1972
       link: https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf
-
+    - title: Amortized Computational Complexity
+      author: Tarjan
+      year: 1985
+      link: http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf
 
 - title: Recursive Functions of Symbolic Expressions and Their Computation by Machine
   author: McCarthy
@@ -69,6 +72,24 @@
       author: Gunther
       year: 1993
       link: http://www.perfdynamics.com/Papers/njgCMG93.pdf
+
+- title: Scatter storage techniques
+  author: Morris
+  year: 1968
+  link: https://dl.acm.org/doi/10.1145/362851.362882
+  related:
+    - title: Ordered hash tables
+      author: Amble, Knuth
+      year: 1974
+      link: https://academic.oup.com/comjnl/article/17/2/135/525363
+    - title: Space/Time Trade-offs in Hash Coding with Allowable Errors
+      author: Bloom
+      year: 1970
+      link: https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf
+    - title: Making data structures persistent
+      author: Driscoll et al
+      year: 1986
+      link: https://dl.acm.org/doi/10.1145/12130.12142
 
 - title: Goto Statement Considered Harmful
   author: Dijkstra
@@ -128,6 +149,10 @@
   year: 1974
   link: https://dsf.berkeley.edu/cs262/unix.pdf
   related:
+    - title: An Experimental Time-Sharing System
+      author: Corbató, Merwin Daggett, Daley
+      year: 1962
+      link: http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/
     - title: Reflections on Trusting Trust
       author: Thompson
       year: 1984
@@ -304,6 +329,10 @@
       author: Hoare
       year: 1981
       link: http://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf
+    - title: Software Transactional Memory
+      author: Shavit, Touitou
+      year: 1997
+      link: https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf
 
 - title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks

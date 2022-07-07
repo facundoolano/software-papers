@@ -96,22 +96,18 @@
   year: 1968
   link: https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
   related:
-   - title: Recursive Programming
-     author: Dijkstra
-     year: 1960
-     link: https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf
-   - title: The Structure of the \"THE\"-Multiprogramming System
-     author: Dijkstra
-     year: 1968
-     link: https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf
-   - title: Program development by stepwise refinement
-     author: Wirth
-     year: 1971
-     link: http://sunnyday.mit.edu/16.355/wirth-refinement.html
-   - title: The Humble Programmer
-     author: Dijkstra
-     year: 1972
-     link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
+    - title: Recursive Programming
+      author: Dijkstra
+      year: 1960
+      link: https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf
+    - title: Program development by stepwise refinement
+      author: Wirth
+      year: 1971
+      link: http://sunnyday.mit.edu/16.355/wirth-refinement.html
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: A Relational Model of Data for Large Shared Data Banks
   author: Codd
@@ -139,16 +135,16 @@
       author: Parnas, Clements, Weiss
       year: 1984
       link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.3812&rep=rep1&type=pdf
-    - title: "Software Engineering: An Unconsummated Marriage"
-      author: Parnas
-      year: 1997
-      link: https://www.fceia.unr.edu.ar/asist/parnas00.pdf
 
 - title: The UNIX Time- Sharing System
   author: Ritchie, Thompson
   year: 1974
   link: https://dsf.berkeley.edu/cs262/unix.pdf
   related:
+    - title: The Structure of the \"THE\"-Multiprogramming System
+      author: Dijkstra
+      year: 1968
+      link: https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf
     - title: An Experimental Time-Sharing System
       author: Corbató, Merwin Daggett, Daley
       year: 1962
@@ -217,6 +213,10 @@
   year: 1974
   link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
   related:
+    - title: The Emperor’s Old Clothes
+      author: Hoare
+      year: 1981
+      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
     - title: Literate Programming
       author: Knuth
       year: 1984
@@ -229,6 +229,10 @@
       author: Naur
       year: 1985
       link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
+    - title: "Software Engineering: An Unconsummated Marriage"
+      author: Parnas
+      year: 1997
+      link: https://www.fceia.unr.edu.ar/asist/parnas00.pdf
 
 - title: New Directions in Cryptography
   author: Diffie, Hellman
@@ -325,10 +329,6 @@
       author: Hoare
       year: 1974
       link: https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf
-    - title: The Emperor’s Old Clothes
-      author: Hoare
-      year: 1981
-      link: http://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf
     - title: Software Transactional Memory
       author: Shavit, Touitou
       year: 1997

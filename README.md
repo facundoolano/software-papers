@@ -20,13 +20,12 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **Cramming More Components onto Integrated Circuits**. [Moore (1965)](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf).
     * Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf).
     * A Simple Capacity Model of Massively Parallel Transaction Systems. [Gunther (1993)](http://www.perfdynamics.com/Papers/njgCMG93.pdf).
-1. **Scatter storage techniques**. [Morris (1968)](https://dl.acm.org/doi/10.1145/362851.362882).
+1. **Scatter storage techniques**. [Morris (1968)](https://dl.acm.org/doi/pdf/10.1145/362851.362882).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
-    * Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article/17/2/135/525363).
-    * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/10.1145/12130.12142).
+    * Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf).
+    * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. **Goto Statement Considered Harmful**. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
     * Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).
-    * The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
     * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
     * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
@@ -35,9 +34,9 @@ A curated list of papers that may be of interest to Software Engineering student
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
     * The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.3812&rep=rep1&type=pdf).
     * Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
-    * Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://www.fceia.unr.edu.ar/asist/parnas00.pdf).
 1. **The UNIX Time- Sharing System**. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).
     * An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/).
+    * The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
     * Reflections on Trusting Trust. [Thompson (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf).
 1. **A Protocol for Packet Network Intercommunication**. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).
     * Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
@@ -48,8 +47,10 @@ A curated list of papers that may be of interest to Software Engineering student
     * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
     * An Axiomatic Basis for Computer Programming. [Hoare (1969)](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf).
+    * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
     * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
     * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
+    * Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://www.fceia.unr.edu.ar/asist/parnas00.pdf).
 1. **The Mythical Man Month**. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
@@ -64,7 +65,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
     * Monitors: An operating system structuring concept. [Hoare (1974)](https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf).
     * On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
-    * The Emperor’s Old Clothes. [Hoare (1981)](http://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf).
     * Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
     * Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
@@ -109,7 +109,7 @@ A curated list of papers that may be of interest to Software Engineering student
 <br/>
 
 <details>
-<summary>Show full list in chronological order: </summary>
+<summary>Show full list in chronological order </summary>
 <br/>
 
 1. As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf)
@@ -126,7 +126,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617)
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf)
 1. Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf)
-1. Scatter storage techniques. [Morris (1968)](https://dl.acm.org/doi/10.1145/362851.362882)
+1. Scatter storage techniques. [Morris (1968)](https://dl.acm.org/doi/pdf/10.1145/362851.362882)
 1. Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf)
 1. How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf)
@@ -144,7 +144,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. A Protocol for Packet Network Intercommunication. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)
 1. Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045)
 1. Computer Programming as an Art. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf)
-1. Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article/17/2/135/525363)
+1. Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf)
 1. Monitors: An operating system structuring concept. [Hoare (1974)](https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf)
 1. Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202)
 1. The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf)
@@ -161,7 +161,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf)
 1. The paradigms of programming. [Floyd (1979)](https://dl.acm.org/doi/pdf/10.1145/1283920.1283934)
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
-1. The Emperor’s Old Clothes. [Hoare (1981)](http://zoo.cs.yale.edu/classes/cs422/2010/bib/hoare81emperor.pdf)
+1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561)
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf)
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf)
 1. Hints for Computer System Design. [Lampson (1983)](https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/)
@@ -174,7 +174,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042)
 1. Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
-1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/10.1145/12130.12142)
+1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142)
 1. No Silver Bullet: Essence and Accidents of Software Engineering. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf)
 1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps)

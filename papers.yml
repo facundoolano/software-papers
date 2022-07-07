@@ -76,12 +76,12 @@
 - title: Scatter storage techniques
   author: Morris
   year: 1968
-  link: https://dl.acm.org/doi/10.1145/362851.362882
+  link: https://dl.acm.org/doi/pdf/10.1145/362851.362882
   related:
     - title: Ordered hash tables
       author: Amble, Knuth
       year: 1974
-      link: https://academic.oup.com/comjnl/article/17/2/135/525363
+      link: https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf
     - title: Space/Time Trade-offs in Hash Coding with Allowable Errors
       author: Bloom
       year: 1970
@@ -89,7 +89,7 @@
     - title: Making data structures persistent
       author: Driscoll et al
       year: 1986
-      link: https://dl.acm.org/doi/10.1145/12130.12142
+      link: https://dl.acm.org/doi/pdf/10.1145/12130.12142
 
 - title: Goto Statement Considered Harmful
   author: Dijkstra

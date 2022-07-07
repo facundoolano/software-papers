@@ -24,11 +24,23 @@ for paper in papers:
     for related in sorted(paper.get('related', []), key=lambda p: p["year"]):
         papers_toc += f'    * {related["title"]}. [{related["author"]} ({related["year"]})]({related["link"]}).\n'
 
+# build full flat list
+for paper in papers:
+    for rel in paper.get('related', []):
+        papers.append(rel)
+
+papers.sort(key=lambda p: p['year'])
+papers_full = ''
+for n, paper in enumerate(papers):
+    papers_full += f'1. {paper["title"]}. [{paper["author"]} ({paper["year"]})]({paper["link"]})\n'
+
 
 # inject into readme
 with open('README.md.template') as template:
     # this (and the previous markdown) could be rewritten to use some templating engine,
     # but at this size I find it simpler to format manually
-    output = template.read().replace('{{ PAPERS_TOC }}', papers_toc)
+    output = template.read().\
+        replace('{{ PAPERS_TOC }}', papers_toc).\
+        replace('{{ PAPERS_FULL }}', papers_full)
 
 print(output)

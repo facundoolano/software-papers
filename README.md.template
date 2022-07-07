@@ -8,6 +8,16 @@ A curated list of papers that may be of interest to Software Engineering student
 
 <br/>
 
+<details>
+<summary>Show full list in chronological order </summary>
+<br/>
+
+{{ PAPERS_FULL }}
+
+</details>
+
+<br/>
+
 This list was inspired by (and draws from) the [Papers We Love](https://paperswelove.org/) project and
 the [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis.
 I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremly useful resource.

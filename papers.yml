@@ -459,3 +459,7 @@
   author: Gregg
   year: 2012
   link: https://queue.acm.org/detail.cfm?id=2413037
+- title: "An algorithm for distributed computation of a Spanning Tree in an Extended LAN"
+  author: Perlman
+  year: 1985
+  link: https://dl.acm.org/doi/pdf/10.1145/319056.319004

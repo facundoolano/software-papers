@@ -166,6 +166,10 @@
       author: Metcalfe, Boggs
       year: 1978
       link: https://ethernethistory.typepad.com/papers/EthernetPaper.pdf
+    - title: An algorithm for distributed computation of a Spanning Tree in an Extended LAN
+      author: Perlman
+      year: 1985
+      link: https://dl.acm.org/doi/pdf/10.1145/319056.319004
 
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles

@@ -99,6 +99,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
     * ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
     * Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
+    * Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
     * Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
     * How Complex Systems Fail. [Cook (2000)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf).
@@ -219,6 +220,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Consistency, Availability, and Convergence. [Mahajan, Alvisi, Dahlin (2014)](https://www.cs.cornell.edu/lorenzo/papers/cac-tr.pdf)
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736)
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
+1. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf)
 1. Nines are Not Enough: Meaningful Metrics for Clouds. [Mogul, Wilkes (2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf)
 
 

@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Check README is updated
+        run: ./gen_readme.py | diff README.md -
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v4
         with:

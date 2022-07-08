@@ -73,11 +73,15 @@
       year: 1993
       link: http://www.perfdynamics.com/Papers/njgCMG93.pdf
 
-- title: Scatter storage techniques
-  author: Morris
-  year: 1968
-  link: https://dl.acm.org/doi/pdf/10.1145/362851.362882
+- title: The Ubiquitous B-Tree
+  author: Comer
+  year: 1979
+  link: http://carlosproal.com/ir/papers/p121-comer.pdf
   related:
+    - title: Scatter storage techniques
+      author: Morris
+      year: 1968
+      link: https://dl.acm.org/doi/pdf/10.1145/362851.362882
     - title: Ordered hash tables
       author: Amble, Knuth
       year: 1974
@@ -153,6 +157,10 @@
       author: Thompson
       year: 1984
       link: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+    - title: The Design and Implementation of a Log-Structured File System
+      author: Rosenblum, Ousterhout
+      year: 1991
+      link: https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf
 
 - title: A Protocol for Packet Network Intercommunication
   author: Cerf, Kahn
@@ -247,14 +255,14 @@
       author: Shamir
       year: 1979
       link: https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf
+    - title: A Certified Digital Signature
+      author: Merkle
+      year: 1979
+      link: https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf
     - title: "K-Anonymity: A Model For Protecting Privacy"
       author: Sweeney
       year: 2002
       link: https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf
-    - title: Calibrating Noise to Sensitivity in Private Data Analysis
-      author: Dwork et al
-      year: 2006
-      link: https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf
 
 - title: Time, Clocks, and the Ordering of Events in a Distributed System
   author: Lamport
@@ -289,6 +297,10 @@
       author: Lampson
       year: 1996
       link: https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf
+    - title: Harvest, Yield, and Scalable Tolerant Systems
+      author: Fox, Brewer
+      year: 1999
+      link: https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
     - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
       author: Brewer
       year: 2012

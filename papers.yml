@@ -16,6 +16,19 @@
   author: Hopper
   year: 1952
   link: https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf
+  related:
+    - title: Goto Statement Considered Harmful
+      author: Dijkstra
+      year: 1968
+      link: https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
+    - title: Recursive Programming
+      author: Dijkstra
+      year: 1960
+      link: https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf
+    - title: Program development by stepwise refinement
+      author: Wirth
+      year: 1971
+      link: http://sunnyday.mit.edu/16.355/wirth-refinement.html
 
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman
@@ -94,24 +107,6 @@
       author: Driscoll et al
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/12130.12142
-
-- title: Goto Statement Considered Harmful
-  author: Dijkstra
-  year: 1968
-  link: https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
-  related:
-    - title: Recursive Programming
-      author: Dijkstra
-      year: 1960
-      link: https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf
-    - title: Program development by stepwise refinement
-      author: Wirth
-      year: 1971
-      link: http://sunnyday.mit.edu/16.355/wirth-refinement.html
-    - title: The Humble Programmer
-      author: Dijkstra
-      year: 1972
-      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: A Relational Model of Data for Large Shared Data Banks
   author: Codd
@@ -241,6 +236,10 @@
       author: Parnas
       year: 1997
       link: https://www.fceia.unr.edu.ar/asist/parnas00.pdf
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: New Directions in Cryptography
   author: Diffie, Hellman

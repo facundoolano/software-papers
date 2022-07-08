@@ -8,6 +8,9 @@ A curated list of papers that may be of interest to Software Engineering student
     * Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf).
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
 1. **The Education of a Computer**. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
+    * Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).
+    * Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
+    * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
@@ -20,10 +23,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **Cramming More Components onto Integrated Circuits**. [Moore (1965)](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf).
     * Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf).
     * A Simple Capacity Model of Massively Parallel Transaction Systems. [Gunther (1993)](http://www.perfdynamics.com/Papers/njgCMG93.pdf).
-1. **Goto Statement Considered Harmful**. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
-    * Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).
-    * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
-    * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
 1. **On the Criteria To Be Used in Decomposing Systems into Modules**. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
@@ -44,6 +43,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
     * An Axiomatic Basis for Computer Programming. [Hoare (1969)](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf).
+    * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
     * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
     * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
     * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
@@ -140,9 +140,9 @@ A curated list of papers that may be of interest to Software Engineering student
 1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 1. Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html)
 1. Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
-1. The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf)
 1. Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF)
 1. A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018)
+1. The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf)
 1. The UNIX Time- Sharing System. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf)
 1. A Protocol for Packet Network Intercommunication. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)
 1. Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045)

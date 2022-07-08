@@ -4,7 +4,7 @@ A curated list of papers that may be of interest to Software Engineering student
 
 <br/>
 
-1. **Computing Machinery and Intelligence**. [Turing (1950)](https://phil415.pbworks.com/f/TuringComputing.pdf).
+1. **Computing Machinery and Intelligence**. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).
     * Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf).
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
 1. **The Education of a Computer**. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
@@ -117,7 +117,7 @@ A curated list of papers that may be of interest to Software Engineering student
 <br/>
 
 1. As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf)
-1. Computing Machinery and Intelligence. [Turing (1950)](https://phil415.pbworks.com/f/TuringComputing.pdf)
+1. Computing Machinery and Intelligence. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 1. The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf)
 1. A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf)
 1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf)

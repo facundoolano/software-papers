@@ -11,12 +11,6 @@ with open('papers.yml') as file_:
     papers = yaml.safe_load(file_)
     papers.sort(key=lambda p: p['year'])
 
-# set computed fields
-for paper in papers:
-    author = paper['author'].split(',')[0].split(' ')[0].lower()
-    year = str(paper['year'])[2:]
-    paper['ref'] = f'{author}{year}'
-
 # build table of contents
 papers_toc = ''
 for paper in papers:

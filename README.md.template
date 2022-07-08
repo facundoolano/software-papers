@@ -1,4 +1,4 @@
-# Papers for Software Engineers
+# Papers for Software Engineers [![workflow](https://github.com/facundoolano/software-papers/actions/workflows/tests.yml/badge.svg)](https://github.com/facundoolano/software-papers/actions/workflows/tests.yml)
 
 A curated list of papers that may be of interest to Software Engineering students or professionals.
 

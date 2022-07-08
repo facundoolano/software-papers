@@ -422,6 +422,11 @@
       year: 2010
       link: https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf
 
+- title: Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases
+  author: Verbitski et al
+  year: 2017
+  link: https://web.stanford.edu/class/cs245/readings/aurora.pdf
+  
 - title: On Designing and Deploying Internet Scale Services
   author: Hamilton
   year: 2007

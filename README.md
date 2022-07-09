@@ -53,7 +53,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
     * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
     * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
-    * Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://www.fceia.unr.edu.ar/asist/parnas00.pdf).
+    * Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://dl.acm.org/doi/pdf/10.1145/267896.267897).
 1. **The Mythical Man Month**. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
@@ -202,7 +202,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf)
 1. A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf)
 1. How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf)
-1. Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://www.fceia.unr.edu.ar/asist/parnas00.pdf)
+1. Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://dl.acm.org/doi/pdf/10.1145/267896.267897)
 1. Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf)
 1. The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf)
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/cathedral-bazaar.ps)

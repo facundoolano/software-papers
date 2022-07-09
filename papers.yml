@@ -260,7 +260,7 @@
     - title: "Software Engineering: An Unconsummated Marriage"
       author: Parnas
       year: 1997
-      link: https://www.fceia.unr.edu.ar/asist/parnas00.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/267896.267897
     - title: The Humble Programmer
       author: Dijkstra
       year: 1972

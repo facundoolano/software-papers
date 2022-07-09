@@ -112,6 +112,27 @@
   author: Codd
   year: 1970
   link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
+  related:
+    - title: Access Path Selection in a Relational Database Management System
+      author: Selinger et al
+      year: 1979
+      link: https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf
+    - title: Granularity of Locks and Degrees of Consistency in a Shared Data Base
+      author: Gray et al
+      year: 1975
+      link: https://www.alexdelis.eu/M149/gray.pdf
+    - title: "The Transaction Concept: Virtues and Limitations"
+      author: Gray
+      year: 1981
+      link: https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf
+    - title: "System R: Relational Approach to Database Management"
+      author: Astrahan et al.
+      year: 1976
+      link: https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF
+    - title: The design of POSTGRES
+      author: Stonebraker, Rowe
+      year: 1986
+      link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
 
 - title: On the Criteria To Be Used in Decomposing Systems into Modules
   author: Parnas

@@ -24,6 +24,11 @@ A curated list of papers that may be of interest to Software Engineering student
     * Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf).
     * A Simple Capacity Model of Massively Parallel Transaction Systems. [Gunther (1993)](http://www.perfdynamics.com/Papers/njgCMG93.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
+    * Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
+    * System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
+    * Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
+    * The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
+    * The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf).
 1. **On the Criteria To Be Used in Decomposing Systems into Modules**. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
@@ -153,9 +158,11 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202)
 1. Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf)
 1. The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf)
+1. Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf)
 1. New Directions in Cryptography. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf)
 1. Communicating sequential processes. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
 1. Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329)
+1. System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF)
 1. A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf)
 1. Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 1. The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf)
@@ -164,10 +171,12 @@ A curated list of papers that may be of interest to Software Engineering student
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf)
 1. Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 1. The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf)
+1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf)
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf)
 1. The paradigms of programming. [Floyd (1979)](https://dl.acm.org/doi/pdf/10.1145/1283920.1283934)
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
 1. A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf)
+1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf)
 1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561)
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf)
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf)
@@ -182,6 +191,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042)
 1. Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf)
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142)
 1. No Silver Bullet: Essence and Accidents of Software Engineering. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf)
 1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
@@ -231,12 +241,24 @@ A curated list of papers that may be of interest to Software Engineering student
 This list was inspired by (and draws from) the [Papers We Love](https://paperswelove.org/) project and
 the [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis.
 I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremly useful resource.
+For distributed systems I used [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
+and for Relational Data Bases I used the [Red Book](http://www.redbook.io/).
+
+## Meta reads
+
+A few interesting resources about reading papers from Papers We Love and elsewhere:
+
+- [Should I read papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+- [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+- How to Read a Paper. [Keshav (2007)](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
+- Efficient Reading of Papers in Science and Technology. [Hanson (1999)](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf).
+- On ICSE’s “Most Influential Papers”. [Parnas (1995)](http://sei.pku.edu.cn/~yaoguo/PhDReading07/parnas-review.pdf).
 
 ## Selection criteria
 
 1. The list should stay short. Let's say no more than 30 papers.
    - The idea is not to include every interesting paper that I come across but rather to keep a representative list that's possible to read from start to finish with a similar level of effort as reading a technical book from cover to cover.
-   - I tried to include one paper per each major topic and author. Since in the process I found a lot of noteworthy alternative, related or follow-up papers and I wanted to keep track of those as well, included them as sublist items (some of these sublists are currently longer than they should).
+   - I tried to include one paper per each major topic and author. Since in the process I found a lot of noteworthy alternative, related or follow-up papers and I wanted to keep track of those as well, I included them as sublist items (some of these sublists are currently longer than they should).
 2. The papers shouldn't be too long. For the same reasons as the previous item, I try to avoid papers longer than 20 or 30 pages.
 3. They should be self-contained and readable enough to be approachable by the casual technical reader.
 4. They should be freely available online.
@@ -249,14 +271,4 @@ or about innovations that later saw wide adoption. Likewise I tended to skip mor
 Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
 
 And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.
-
-## Meta reads
-
-A few interesting resources about reading papers from Papers We Love and elsewhere:
-
-- [Should I read papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
-- [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-- How to Read a Paper. [Keshav (2007)](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
-- Efficient Reading of Papers in Science and Technology. [Hanson (1999)](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf).
-- On ICSE’s “Most Influential Papers”. [Parnas (1995)](http://sei.pku.edu.cn/~yaoguo/PhDReading07/parnas-review.pdf).
 

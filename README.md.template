@@ -21,12 +21,24 @@ A curated list of papers that may be of interest to Software Engineering student
 This list was inspired by (and draws from) the [Papers We Love](https://paperswelove.org/) project and
 the [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis.
 I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremly useful resource.
+For distributed systems I used [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
+and for Relational Data Bases I used the [Red Book](http://www.redbook.io/).
+
+## Meta reads
+
+A few interesting resources about reading papers from Papers We Love and elsewhere:
+
+- [Should I read papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+- [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+- How to Read a Paper. [Keshav (2007)](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
+- Efficient Reading of Papers in Science and Technology. [Hanson (1999)](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf).
+- On ICSE’s “Most Influential Papers”. [Parnas (1995)](http://sei.pku.edu.cn/~yaoguo/PhDReading07/parnas-review.pdf).
 
 ## Selection criteria
 
 1. The list should stay short. Let's say no more than 30 papers.
    - The idea is not to include every interesting paper that I come across but rather to keep a representative list that's possible to read from start to finish with a similar level of effort as reading a technical book from cover to cover.
-   - I tried to include one paper per each major topic and author. Since in the process I found a lot of noteworthy alternative, related or follow-up papers and I wanted to keep track of those as well, included them as sublist items (some of these sublists are currently longer than they should).
+   - I tried to include one paper per each major topic and author. Since in the process I found a lot of noteworthy alternative, related or follow-up papers and I wanted to keep track of those as well, I included them as sublist items (some of these sublists are currently longer than they should).
 2. The papers shouldn't be too long. For the same reasons as the previous item, I try to avoid papers longer than 20 or 30 pages.
 3. They should be self-contained and readable enough to be approachable by the casual technical reader.
 4. They should be freely available online.
@@ -39,13 +51,3 @@ or about innovations that later saw wide adoption. Likewise I tended to skip mor
 Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
 
 And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.
-
-## Meta reads
-
-A few interesting resources about reading papers from Papers We Love and elsewhere:
-
-- [Should I read papers?](https://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
-- [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-- How to Read a Paper. [Keshav (2007)](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
-- Efficient Reading of Papers in Science and Technology. [Hanson (1999)](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf).
-- On ICSE’s “Most Influential Papers”. [Parnas (1995)](http://sei.pku.edu.cn/~yaoguo/PhDReading07/parnas-review.pdf).

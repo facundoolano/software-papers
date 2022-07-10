@@ -487,3 +487,12 @@
   author: Gregg
   year: 2012
   link: https://queue.acm.org/detail.cfm?id=2413037
+  related:
+    - title: Thinking Clearly about Performance
+      author: Millsap
+      year: 2010
+      link: https://queue.acm.org/detail.cfm?id=1854041
+    - title: Performance Anti-Patterns
+      author: Smaalders
+      year: 2006
+      link: https://queue.acm.org/detail.cfm?id=1117403

@@ -18,8 +18,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf).
     * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
     * Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
-1. **Recursive Functions of Symbolic Expressions and Their Computation by Machine**. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
-    * The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf).
 1. **Cramming More Components onto Integrated Circuits**. [Moore (1965)](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf).
     * Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf).
     * A Simple Capacity Model of Massively Parallel Transaction Systems. [Gunther (1993)](http://www.perfdynamics.com/Papers/njgCMG93.pdf).
@@ -89,9 +87,12 @@ A curated list of papers that may be of interest to Software Engineering student
     * Hints for Computer System Design. [Lampson (1983)](https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
+    * Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
+    * The Next 700 Programming Languages. [P. J. Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
     * Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
+    * The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf).
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
-    * Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
+    * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
     * As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
     * The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf).
@@ -130,13 +131,14 @@ A curated list of papers that may be of interest to Software Engineering student
 1. A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf)
 1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf)
 1. A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf)
-1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
 1. Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf)
 1. Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf)
+1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/)
 1. Cramming More Components onto Integrated Circuits. [Moore (1965)](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf)
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617)
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf)
+1. The Next 700 Programming Languages. [P. J. Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 1. Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf)
 1. Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf)
@@ -167,11 +169,11 @@ A curated list of papers that may be of interest to Software Engineering student
 1. System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF)
 1. A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf)
 1. Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
-1. The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf)
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf)
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf)
 1. Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
+1. The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf)
 1. The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf)
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf)
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf)
@@ -211,6 +213,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Part-Time Parliament. [Lamport (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 1. Harvest, Yield, and Scalable Tolerant Systems. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf)
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
+1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf)
 1. How Complex Systems Fail. [Cook (2000)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 1. K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf)
@@ -219,7 +222,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf)
 1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
-1. Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet)
 1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403)
 1. Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)

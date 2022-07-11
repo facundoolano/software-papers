@@ -403,6 +403,10 @@
       author: Steele, Sussman
       year: 1978
       link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
+    - title: "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"
+      author: Claessen, Hughes
+      year: 2000
+      link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
 
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page

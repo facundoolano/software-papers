@@ -421,10 +421,6 @@
   year: 1998
   link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
   related:
-    - title: As We May Think
-      author: Bush
-      year: 1945
-      link: https://web.mit.edu/STS.035/www/PDFs/think.pdf
     - title: "The PageRank Citation Ranking: Bringing Order to the Web"
       author: Page, Brin, Motwani
       year: 1999

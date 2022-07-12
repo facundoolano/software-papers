@@ -15,7 +15,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
-    * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
     * Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf).
     * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
     * Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
@@ -93,6 +92,8 @@ A curated list of papers that may be of interest to Software Engineering student
     * The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf).
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
+1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
+    * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
     * As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
     * The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf).
@@ -134,8 +135,8 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf)
 1. Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf)
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
-1. Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf)
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/)
+1. Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf)
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617)
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf)
 1. The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
@@ -203,6 +204,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps)
 1. Lisp: Good news, bad news, how to win big. [Gabriel (1991)](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf)
 1. Foundations for the Study of Software Architecture. [Perry, Wolf (1992)](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
+1. Engineering a Sort Function. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf)
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf)
 1. A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf)
 1. How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf)

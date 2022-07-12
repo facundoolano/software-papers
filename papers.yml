@@ -61,10 +61,6 @@
       author: Tarjan
       year: 1985
       link: http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf
-    - title: Quicksort
-      author: Hoare
-      year: 1962
-      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
 
 
 - title: The Ubiquitous B-Tree
@@ -405,6 +401,16 @@
       author: Claessen, Hughes
       year: 2000
       link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
+
+- title: Engineering a Sort Function
+  author: Bentley, McIlroy
+  year: 1993
+  link: https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf
+  related:
+    - title: Quicksort
+      author: Hoare
+      year: 1962
+      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
 
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page

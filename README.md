@@ -18,9 +18,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf).
     * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
     * Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
-1. **Cramming More Components onto Integrated Circuits**. [Moore (1965)](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf).
-    * Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf).
-    * A Simple Capacity Model of Massively Parallel Transaction Systems. [Gunther (1993)](http://www.perfdynamics.com/Papers/njgCMG93.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
     * Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
     * System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
@@ -135,11 +132,9 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf)
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/)
-1. Cramming More Components onto Integrated Circuits. [Moore (1965)](https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf)
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617)
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf)
 1. The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
-1. Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities. [Amdahl (1967)](https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf)
 1. Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf)
 1. How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf)
@@ -202,7 +197,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps)
 1. Lisp: Good news, bad news, how to win big. [Gabriel (1991)](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf)
-1. A Simple Capacity Model of Massively Parallel Transaction Systems. [Gunther (1993)](http://www.perfdynamics.com/Papers/njgCMG93.pdf)
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf)
 1. A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf)
 1. How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf)

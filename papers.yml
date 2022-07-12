@@ -63,20 +63,6 @@
       link: http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf
 
 
-- title: Cramming More Components onto Integrated Circuits
-  author: Moore
-  year: 1965
-  link: https://newsroom.intel.com/wp-content/uploads/sites/11/2018/05/moores-law-electronics.pdf
-  related:
-    - title: Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities
-      author: Amdahl
-      year: 1967
-      link: https://www3.cs.stonybrook.edu/~rezaul/Spring-2012/CSE613/reading/Amdahl-1967.pdf
-    - title: A Simple Capacity Model of Massively Parallel Transaction Systems
-      author: Gunther
-      year: 1993
-      link: http://www.perfdynamics.com/Papers/njgCMG93.pdf
-
 - title: The Ubiquitous B-Tree
   author: Comer
   year: 1979

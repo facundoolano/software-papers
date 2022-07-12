@@ -370,10 +370,6 @@
       author: Moseley, Marks
       year: 2006
       link: http://curtclifton.net/papers/MoseleyMarks06a.pdf
-    - title: Hints for Computer System Design
-      author: Lampson
-      year: 1983
-      link: https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/
 
 
 - title: Why Functional Programming Matters

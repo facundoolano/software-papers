@@ -84,7 +84,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf).
     * The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
-    * Hints for Computer System Design. [Lampson (1983)](https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
     * Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
@@ -184,7 +183,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561)
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf)
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf)
-1. Hints for Computer System Design. [Lampson (1983)](https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/)
 1. Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
 1. End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf)
 1. The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](https://dl.acm.org/doi/pdf/10.5555/800054.801999)

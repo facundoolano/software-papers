@@ -61,6 +61,10 @@
       author: Tarjan
       year: 1985
       link: http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf
+    - title: Quicksort
+      author: Hoare
+      year: 1962
+      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
 
 
 - title: The Ubiquitous B-Tree
@@ -131,7 +135,15 @@
     - title: The Modular Structure of Complex Systems
       author: Parnas, Clements, Weiss
       year: 1984
-      link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.3812&rep=rep1&type=pdf
+      link: https://dl.acm.org/doi/pdf/10.5555/800054.801999
+    - title: Toward higher-level abstractions for software systems
+      author: Shaw
+      year: 1990
+      link: http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf
+    - title: Foundations for the Study of Software Architecture
+      author: Perry, Wolf
+      year: 1992
+      link: http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf
 
 - title: The UNIX Time- Sharing System
   author: Ritchie, Thompson

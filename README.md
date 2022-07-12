@@ -7,10 +7,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **Computing Machinery and Intelligence**. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).
     * Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf).
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
-1. **The Education of a Computer**. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
-    * Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).
-    * Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
-    * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
@@ -18,6 +14,11 @@ A curated list of papers that may be of interest to Software Engineering student
     * Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf).
     * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
     * Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
+1. **Von Neumann's First Computer Program**. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).
+    * The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
+    * Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).
+    * Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
+    * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
     * Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
     * System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
@@ -128,8 +129,8 @@ A curated list of papers that may be of interest to Software Engineering student
 
 1. As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf)
 1. Computing Machinery and Intelligence. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
-1. The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf)
 1. A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf)
+1. The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf)
 1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf)
 1. A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf)
 1. Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf)
@@ -145,6 +146,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf)
 1. Scatter storage techniques. [Morris (1968)](https://dl.acm.org/doi/pdf/10.1145/362851.362882)
 1. An Axiomatic Basis for Computer Programming. [Hoare (1969)](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf)
+1. Von Neumann's First Computer Program. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581)
 1. A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 1. Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf)
 1. Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf)

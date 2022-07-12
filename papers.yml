@@ -12,11 +12,15 @@
       year: 1960
       link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
 
-- title: The Education of a Computer
-  author: Hopper
-  year: 1952
-  link: https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf
+- title: Von Neumann's First Computer Program
+  author: Knuth
+  year: 1970
+  link: https://dl.acm.org/doi/pdf/10.1145/356580.356581
   related:
+    - title: The Education of a Computer
+      author: Hopper
+      year: 1952
+      link: https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf
     - title: Goto Statement Considered Harmful
       author: Dijkstra
       year: 1968

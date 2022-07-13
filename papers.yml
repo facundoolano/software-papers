@@ -377,10 +377,6 @@
   year: 1990
   link: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
   related:
-    - title: The Next 700 Programming Languages
-      author: Landin
-      year: 1966
-      link: https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf
     - title: Can Programming Be Liberated from the von Neumann Style?
       author: Backus
       year: 1978

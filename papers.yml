@@ -76,10 +76,10 @@
   year: 1979
   link: http://carlosproal.com/ir/papers/p121-comer.pdf
   related:
-    - title: Scatter storage techniques
-      author: Morris
-      year: 1968
-      link: https://dl.acm.org/doi/pdf/10.1145/362851.362882
+    - title: Hash Table Methods
+      author: Maurer, Lewis
+      year: 1975
+      link: https://dl.acm.org/doi/pdf/10.1145/356643.356645
     - title: Ordered hash tables
       author: Amble, Knuth
       year: 1974

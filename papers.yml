@@ -326,7 +326,7 @@
       link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
     - title: "Life Beyond Distributed Transactions: An apostate's opinion"
       author: Helland
-      year: 2016
+      year: 2007
       link: https://queue.acm.org/detail.cfm?id=3025012
     - title: "The Dangers of Replication"
       author: Gray et al

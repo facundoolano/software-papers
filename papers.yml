@@ -417,6 +417,10 @@
       author: Page, Brin, Motwani
       year: 1999
       link: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
+    - title: "World-Wide Web: Information Universe"
+      author: Berners-Lee et al
+      year: 1992
+      link: https://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.324.3588&rep=rep1&type=pdf
 
 - title: Dynamo, Amazon’s Highly Available Key-value store
   author: DeCandia et al

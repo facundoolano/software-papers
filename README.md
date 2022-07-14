@@ -25,6 +25,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
     * The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
     * The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf).
+    * Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
 1. **On the Criteria To Be Used in Decomposing Systems into Modules**. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
@@ -213,6 +214,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf)
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/cathedral-bazaar.ps)
 1. The Part-Time Parliament. [Lamport (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf)
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf)
 1. How Complex Systems Fail. [Cook (2000)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)

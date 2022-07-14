@@ -114,6 +114,10 @@
       author: Stonebraker, Rowe
       year: 1986
       link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+    - title: Rules of Thumb in Data Engineering
+      author: Gray, Shenay
+      year: 1999
+      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
 
 - title: On the Criteria To Be Used in Decomposing Systems into Modules
   author: Parnas

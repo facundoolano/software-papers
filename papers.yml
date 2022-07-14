@@ -315,11 +315,15 @@
       year: 1996
       link: https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf
 
-- title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
-  author: Brewer
-  year: 2012
-  link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
+- title: Harvest, Yield, and Scalable Tolerant Systems
+  author: Fox, Brewer
+  year: 1999
+  link: https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
   related:
+    - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
+      author: Brewer
+      year: 2012
+      link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
     - title: "Life Beyond Distributed Transactions: An apostate's opinion"
       author: Helland
       year: 2016

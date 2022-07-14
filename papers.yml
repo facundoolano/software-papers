@@ -33,6 +33,10 @@
       author: Wirth
       year: 1971
       link: http://sunnyday.mit.edu/16.355/wirth-refinement.html
+    - title: The paradigms of programming
+      author: Floyd
+      year: 1979
+      link: https://dl.acm.org/doi/pdf/10.1145/1283920.1283934
 
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman
@@ -202,10 +206,7 @@
       author: Ungar, Smith
       year: 1991
       link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
-    - title: The paradigms of programming
-      author: Floyd
-      year: 1979
-      link: https://dl.acm.org/doi/pdf/10.1145/1283920.1283934
+
 
 - title: The Mythical Man Month
   author: Brooks

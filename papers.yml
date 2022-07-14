@@ -243,10 +243,6 @@
       author: Knuth
       year: 1984
       link: http://www.literateprogramming.com/knuthweb.pdf
-    - title: An Axiomatic Basis for Computer Programming
-      author: Hoare
-      year: 1969
-      link: http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf
     - title: Programming as Theory Building
       author: Naur
       year: 1985

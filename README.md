@@ -47,7 +47,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042).
     * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
-    * An Axiomatic Basis for Computer Programming. [Hoare (1969)](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf).
     * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
     * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
     * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
@@ -144,7 +143,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf)
 1. How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf)
 1. Scatter storage techniques. [Morris (1968)](https://dl.acm.org/doi/pdf/10.1145/362851.362882)
-1. An Axiomatic Basis for Computer Programming. [Hoare (1969)](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf)
 1. Von Neumann's First Computer Program. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581)
 1. A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 1. Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf)

@@ -6,7 +6,9 @@ A curated list of papers that may be of interest to Software Engineering student
 
 1. **Computing Machinery and Intelligence**. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).
     * Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf).
+    * Steps towards Artificial Intelligence. [Minsky (1960)](http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf).
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
+    * A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
@@ -26,7 +28,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
     * The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
     * The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf).
-    * Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
 1. **On the Criteria To Be Used in Decomposing Systems into Modules**. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
@@ -44,6 +45,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
     * A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
+    * A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
     * On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042).
     * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
@@ -71,20 +73,23 @@ A curated list of papers that may be of interest to Software Engineering student
     * Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
     * The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
     * Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
-    * How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf).
-    * The Part-Time Parliament. [Lamport (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf).
-    * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
-    * In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. **The Ubiquitous B-Tree**. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
     * Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf).
     * Hash Table Methods. [Maurer, Lewis (1975)](https://dl.acm.org/doi/pdf/10.1145/356643.356645).
     * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
-1. **End-To-End Arguments in System Design**. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf).
+    * HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm. [Flajolet et al (2007)](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf).
+1. **Hints for Computer System Design**. [Lampson (1983)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf).
+    * End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf).
     * A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf).
+    * Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
     * The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
+1. **Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial**. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
+    * How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf).
+    * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
+    * In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
     * Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
     * Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
@@ -97,6 +102,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.324.3588&rep=rep1&type=pdf).
     * The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf).
 1. **Harvest, Yield, and Scalable Tolerant Systems**. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf).
+    * Epidemic Algorithms for Replicated Database Maintenance. [Demers et al (1987)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf).
     * The Dangers of Replication. [Gray et al (1996)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/replication.pdf).
     * Life Beyond Distributed Transactions: An apostate's opinion. [Helland (2007)](https://queue.acm.org/detail.cfm?id=3025012).
     * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
@@ -133,6 +139,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf)
 1. A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf)
 1. Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf)
+1. Steps towards Artificial Intelligence. [Minsky (1960)](http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf)
 1. Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf)
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/)
@@ -169,6 +176,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf)
 1. Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf)
+1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf)
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf)
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf)
 1. Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
@@ -183,11 +191,13 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561)
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf)
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf)
+1. Hints for Computer System Design. [Lampson (1983)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 1. Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf)
-1. End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf)
+1. A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf)
 1. The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](https://dl.acm.org/doi/pdf/10.5555/800054.801999)
 1. Reflections on Trusting Trust. [Thompson (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 1. Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf)
+1. End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf)
 1. Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf)
 1. An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004)
 1. On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042)
@@ -196,6 +206,8 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf)
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142)
 1. No Silver Bullet: Essence and Accidents of Software Engineering. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf)
+1. Epidemic Algorithms for Replicated Database Maintenance. [Demers et al (1987)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf)
+1. Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf)
 1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 1. Toward higher-level abstractions for software systems. [Shaw (1990)](http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf)
 1. The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)
@@ -212,7 +224,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf)
 1. The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf)
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/cathedral-bazaar.ps)
-1. The Part-Time Parliament. [Lamport (1998)](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 1. Harvest, Yield, and Scalable Tolerant Systems. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf)
 1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf)
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
@@ -229,6 +240,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403)
 1. Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 1. On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf)
+1. HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm. [Flajolet et al (2007)](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
 1. Life Beyond Distributed Transactions: An apostate's opinion. [Helland (2007)](https://queue.acm.org/detail.cfm?id=3025012)
 1. Bitcoin, A peer-to-peer electronic cash system. [Nakomoto (2008)](https://bitcoin.org/bitcoin.pdf)
 1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf)
@@ -237,8 +249,8 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf)
 1. Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037)
 1. CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf)
-1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf)
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736)
+1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf)
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 1. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf)
 1. Nines are Not Enough: Meaningful Metrics for Clouds. [Mogul, Wilkes (2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf)
@@ -275,9 +287,10 @@ A few interesting resources about reading papers from Papers We Love and elsewhe
 5. Although historical relevance was taken into account, I omitted seminal papers in the cases where I found them hard to approach, when the main subject of the paper wasn't the thing that made them influential, etc.
    - That being said, where possible I preferred the original paper on each subject over modern updates or summary papers.
 6. I tended to prefer topics that I can relate to my professional practice, typically papers originated in the industry
-or about innovations that later saw wide adoption. Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
-
-
+or about innovations that later saw wide adoption.
+   - Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
+   - UI/UX and modern Machine Learning are missing because I'm not familiar enough with those areas to find relevant, non overly specific papers. Suggestions are welcome.
+   
 Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
 
 And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.

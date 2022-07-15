@@ -11,6 +11,14 @@
       author: Wiener
       year: 1960
       link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
+    - title: Steps towards Artificial Intelligence
+      author: Minsky
+      year: 1960
+      link: http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf
+    - title: A Theory of the Learnable
+      author: Valiant
+      year: 1984
+      link: https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
 
 - title: Von Neumann's First Computer Program
   author: Knuth
@@ -92,6 +100,10 @@
       author: Driscoll et al
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/12130.12142
+    - title: "HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm"
+      author: Flajolet et al
+      year: 2007
+      link: http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf
 
 - title: A Relational Model of Data for Large Shared Data Banks
   author: Codd
@@ -118,10 +130,6 @@
       author: Stonebraker, Rowe
       year: 1986
       link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
-    - title: Rules of Thumb in Data Engineering
-      author: Gray, Shenay
-      year: 1999
-      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
 
 - title: On the Criteria To Be Used in Decomposing Systems into Modules
   author: Parnas
@@ -206,6 +214,10 @@
       author: Ungar, Smith
       year: 1991
       link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
+    - title: A Theory of Type Polymorphism in Programming
+      author: Milner
+      year:  1978
+      link: https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
 
 
 - title: The Mythical Man Month
@@ -283,18 +295,6 @@
   year: 1978
   link: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
   related:
-    - title: The Part-Time Parliament
-      author: Lamport
-      year: 1998
-      link: https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
-    - title: Paxos made simple
-      author: Lamport
-      year: 2001
-      link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
-    - title: In Search of an Understandable Consensus Algorithm
-      author: Ongaro, Ousterhout
-      year: 2014
-      link: https://raft.github.io/raft.pdf
     - title: The Byzantine Generals Problem
       author: Lamport, Shostak, Pease
       year: 1982
@@ -307,10 +307,24 @@
       author: Dijkstra
       year: 1974
       link: https://dl.acm.org/doi/pdf/10.1145/361179.361202
+
+- title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
+  author: Schneider
+  year: 1990
+  link: https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
+  related:
     - title: How to Build a Highly Available System Using Consensus
       author: Lampson
       year: 1996
       link: https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf
+    - title: Paxos made simple
+      author: Lamport
+      year: 2001
+      link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+    - title: In Search of an Understandable Consensus Algorithm
+      author: Ongaro, Ousterhout
+      year: 2014
+      link: https://raft.github.io/raft.pdf
 
 - title: Harvest, Yield, and Scalable Tolerant Systems
   author: Fox, Brewer
@@ -333,12 +347,20 @@
       author: Helland, Campbell
       year: 2009
       link: https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf
+    - title: "Epidemic Algorithms for Replicated Database Maintenance"
+      author: Demers et al
+      year: 1987
+      link: http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf
 
-- title: End-To-End Arguments in System Design
-  author: Saltzer, Reed, Clark
-  year: 1984
-  link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
+- title: Hints for Computer System Design
+  author: Lampson
+  year: 1983
+  link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf
   related:
+    - title: End-To-End Arguments in System Design
+      author: Saltzer, Reed, Clark
+      year: 1984
+      link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
     - title: A Note on Distributed Computing
       author: Waldo et al
       year: 1994
@@ -347,6 +369,11 @@
       author: Bailis,  Kingsbury
       year: 2014
       link: https://queue.acm.org/detail.cfm?id=2655736
+    - title: Rules of Thumb in Data Engineering
+      author: Gray, Shenay
+      year: 1999
+      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
+
 
 - title: Communicating sequential processes
   author: Hoare

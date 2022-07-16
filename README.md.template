@@ -45,9 +45,10 @@ A few interesting resources about reading papers from Papers We Love and elsewhe
 5. Although historical relevance was taken into account, I omitted seminal papers in the cases where I found them hard to approach, when the main subject of the paper wasn't the thing that made them influential, etc.
    - That being said, where possible I preferred the original paper on each subject over modern updates or summary papers.
 6. I tended to prefer topics that I can relate to my professional practice, typically papers originated in the industry
-or about innovations that later saw wide adoption. Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
-
-
+or about innovations that later saw wide adoption.
+   - Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
+   - UI/UX and modern Machine Learning are missing because I'm not familiar enough with those areas to find relevant, non overly specific papers. Suggestions are welcome.
+   
 Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
 
 And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.

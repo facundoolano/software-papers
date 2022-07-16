@@ -1,17 +1,3 @@
-- title: Computing Machinery and Intelligence
-  author: Turing
-  year: 1950
-  link: https://www.csee.umbc.edu/courses/471/papers/turing.pdf
-  related:
-    - title: ELIZA—a computer program for the study of natural language communication between man and machine
-      author: Weizenbaum
-      year: 1966
-      link: http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf
-    - title: Some Moral and Technical Consequences of Automation
-      author: Wiener
-      year: 1960
-      link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
-
 - title: Von Neumann's First Computer Program
   author: Knuth
   year: 1970
@@ -37,6 +23,28 @@
       author: Floyd
       year: 1979
       link: https://dl.acm.org/doi/pdf/10.1145/1283920.1283934
+
+- title: Computing Machinery and Intelligence
+  author: Turing
+  year: 1950
+  link: https://www.csee.umbc.edu/courses/471/papers/turing.pdf
+  related:
+    - title: ELIZA—a computer program for the study of natural language communication between man and machine
+      author: Weizenbaum
+      year: 1966
+      link: http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf
+    - title: Some Moral and Technical Consequences of Automation
+      author: Wiener
+      year: 1960
+      link: https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf
+    - title: Steps towards Artificial Intelligence
+      author: Minsky
+      year: 1960
+      link: http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf
+    - title: A Theory of the Learnable
+      author: Valiant
+      year: 1984
+      link: https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
 
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman
@@ -70,16 +78,11 @@
       year: 1985
       link: http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf
 
-
 - title: The Ubiquitous B-Tree
   author: Comer
   year: 1979
   link: http://carlosproal.com/ir/papers/p121-comer.pdf
   related:
-    - title: Hash Table Methods
-      author: Maurer, Lewis
-      year: 1975
-      link: https://dl.acm.org/doi/pdf/10.1145/356643.356645
     - title: Ordered hash tables
       author: Amble, Knuth
       year: 1974
@@ -93,35 +96,85 @@
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/12130.12142
 
-- title: A Relational Model of Data for Large Shared Data Banks
-  author: Codd
-  year: 1970
-  link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
+- title: Engineering a Sort Function
+  author: Bentley, McIlroy
+  year: 1993
+  link: https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf
   related:
-    - title: Access Path Selection in a Relational Database Management System
-      author: Selinger et al
-      year: 1979
-      link: https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf
-    - title: Granularity of Locks and Degrees of Consistency in a Shared Data Base
-      author: Gray et al
-      year: 1975
-      link: https://www.alexdelis.eu/M149/gray.pdf
-    - title: "The Transaction Concept: Virtues and Limitations"
-      author: Gray
+    - title: Quicksort
+      author: Hoare
+      year: 1962
+      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
+
+- title: Computer Programming as an Art
+  author: Knuth
+  year: 1974
+  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
+  related:
+    - title: The Emperor’s Old Clothes
+      author: Hoare
       year: 1981
-      link: https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf
-    - title: "System R: Relational Approach to Database Management"
-      author: Astrahan et al.
-      year: 1976
-      link: https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF
-    - title: The design of POSTGRES
-      author: Stonebraker, Rowe
-      year: 1986
-      link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
-    - title: Rules of Thumb in Data Engineering
-      author: Gray, Shenay
-      year: 1999
-      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
+    - title: Literate Programming
+      author: Knuth
+      year: 1984
+      link: http://www.literateprogramming.com/knuthweb.pdf
+    - title: Programming as Theory Building
+      author: Naur
+      year: 1985
+      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
+
+- title: Programming with Abstract Data Types
+  author: Liskov, Zilles
+  year: 1974
+  link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
+  related:
+    - title: A Design Methodology for Reliable Software Systems
+      author: Liskov
+      year: 1972
+      link: https://dl.acm.org/doi/pdf/10.1145/1479992.1480018
+    - title: On understanding types, data abstraction, and polymorphism
+      author: Cardelli, Wegner
+      year: 1985
+      link: https://dl.acm.org/doi/pdf/10.1145/6041.6042
+    - title: "SELF: The Power of Simplicity"
+      author: Ungar, Smith
+      year: 1991
+      link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
+    - title: A Theory of Type Polymorphism in Programming
+      author: Milner
+      year:  1978
+      link: https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
+
+- title: Why Functional Programming Matters
+  author: Hughes
+  year: 1990
+  link: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+  related:
+    - title: Can Programming Be Liberated from the von Neumann Style?
+      author: Backus
+      year: 1978
+      link: https://dl.acm.org/doi/pdf/10.1145/359576.359579
+    - title: The Semantic Elegance of Applicative Languages
+      author: Turner
+      year: 1981
+      link: http://nsl.com/misc/sasl/paraffins-turner.pdf
+    - title: Recursive Functions of Symbolic Expressions and Their Computation by Machine
+      author: McCarthy
+      year: 1960
+      link: http://jmc.stanford.edu/articles/recursive/recursive.pdf
+    - title: The Art of the Interpreter
+      author: Steele, Sussman
+      year: 1978
+      link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
+    - title: "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"
+      author: Claessen, Hughes
+      year: 2000
+      link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
 
 - title: On the Criteria To Be Used in Decomposing Systems into Modules
   author: Parnas
@@ -152,6 +205,64 @@
       author: Perry, Wolf
       year: 1992
       link: http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf
+    - title: "Software Engineering: An Unconsummated Marriage"
+      author: Parnas
+      year: 1997
+      link: https://dl.acm.org/doi/pdf/10.1145/267896.267897
+
+- title: The Mythical Man Month
+  author: Brooks
+  year: 1975
+  link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf
+  related:
+    - title: How do committees invent?
+      author: Conway
+      year: 1968
+      link: https://www.melconway.com/Home/pdf/committees.pdf
+    - title: Managing the Development of Large Software Systems
+      author: Royce
+      year: 1970
+      link: https://www.praxisframework.org/files/royce1970.pdf
+    - title: The Cathedral and the Bazaar
+      author: Raymond
+      year: 1998
+      link: http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/cathedral-bazaar.ps
+    - title: "Lisp: Good news, bad news, how to win big"
+      author: Gabriel
+      year: 1991
+      link: https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf
+
+- title: "No Silver Bullet: Essence and Accidents of Software Engineering"
+  author: Brooks
+  year: 1987
+  link: http://www.cs.unc.edu/techreports/86-020.pdf
+  related:
+    - title: Out of the Tar Pit
+      author: Moseley, Marks
+      year: 2006
+      link: http://curtclifton.net/papers/MoseleyMarks06a.pdf
+
+- title: Communicating sequential processes
+  author: Hoare
+  year: 1976
+  link: https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+  related:
+    - title: Solution Of a Problem in Concurrent Program Control
+      author: Dijkstra
+      year: 1965
+      link: https://dl.acm.org/doi/pdf/10.1145/365559.365617
+    - title: On the Duality of Operating System Structures
+      author: Lauer, Needham
+      year: 1978
+      link: https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf
+    - title: "Monitors: An operating system structuring concept"
+      author: Hoare
+      year: 1974
+      link: https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf
+    - title: Software Transactional Memory
+      author: Shavit, Touitou
+      year: 1997
+      link: https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf
 
 - title: The UNIX Time- Sharing System
   author: Ritchie, Thompson
@@ -189,73 +300,6 @@
       year: 1985
       link: https://dl.acm.org/doi/pdf/10.1145/319056.319004
 
-- title: Programming with Abstract Data Types
-  author: Liskov, Zilles
-  year: 1974
-  link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
-  related:
-    - title: A Design Methodology for Reliable Software Systems
-      author: Liskov
-      year: 1972
-      link: https://dl.acm.org/doi/pdf/10.1145/1479992.1480018
-    - title: On understanding types, data abstraction, and polymorphism
-      author: Cardelli, Wegner
-      year: 1985
-      link: https://dl.acm.org/doi/pdf/10.1145/6041.6042
-    - title: "SELF: The Power of Simplicity"
-      author: Ungar, Smith
-      year: 1991
-      link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
-
-
-- title: The Mythical Man Month
-  author: Brooks
-  year: 1975
-  link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf
-  related:
-    - title: How do committees invent?
-      author: Conway
-      year: 1968
-      link: https://www.melconway.com/Home/pdf/committees.pdf
-    - title: Managing the Development of Large Software Systems
-      author: Royce
-      year: 1970
-      link: https://www.praxisframework.org/files/royce1970.pdf
-    - title: The Cathedral and the Bazaar
-      author: Raymond
-      year: 1998
-      link: http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/cathedral-bazaar.ps
-    - title: "Lisp: Good news, bad news, how to win big"
-      author: Gabriel
-      year: 1991
-      link: https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf
-
-- title: Computer Programming as an Art
-  author: Knuth
-  year: 1974
-  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
-  related:
-    - title: The Emperor’s Old Clothes
-      author: Hoare
-      year: 1981
-      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
-    - title: Literate Programming
-      author: Knuth
-      year: 1984
-      link: http://www.literateprogramming.com/knuthweb.pdf
-    - title: Programming as Theory Building
-      author: Naur
-      year: 1985
-      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
-    - title: "Software Engineering: An Unconsummated Marriage"
-      author: Parnas
-      year: 1997
-      link: https://dl.acm.org/doi/pdf/10.1145/267896.267897
-    - title: The Humble Programmer
-      author: Dijkstra
-      year: 1972
-      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
-
 - title: New Directions in Cryptography
   author: Diffie, Hellman
   year: 1976
@@ -278,23 +322,73 @@
       year: 2002
       link: https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf
 
+- title: Hints for Computer System Design
+  author: Lampson
+  year: 1983
+  link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf
+  related:
+    - title: End-To-End Arguments in System Design
+      author: Saltzer, Reed, Clark
+      year: 1984
+      link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
+    - title: A Note on Distributed Computing
+      author: Waldo et al
+      year: 1994
+      link: https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf
+    - title: The Network is Reliable
+      author: Bailis,  Kingsbury
+      year: 2014
+      link: https://queue.acm.org/detail.cfm?id=2655736
+    - title: Rules of Thumb in Data Engineering
+      author: Gray, Shenay
+      year: 1999
+      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
+
+- title: "Thinking Methodically about Performance"
+  author: Gregg
+  year: 2012
+  link: https://queue.acm.org/detail.cfm?id=2413037
+  related:
+    - title: Thinking Clearly about Performance
+      author: Millsap
+      year: 2010
+      link: https://queue.acm.org/detail.cfm?id=1854041
+    - title: Performance Anti-Patterns
+      author: Smaalders
+      year: 2006
+      link: https://queue.acm.org/detail.cfm?id=1117403
+
+- title: A Relational Model of Data for Large Shared Data Banks
+  author: Codd
+  year: 1970
+  link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
+  related:
+    - title: Access Path Selection in a Relational Database Management System
+      author: Selinger et al
+      year: 1979
+      link: https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf
+    - title: Granularity of Locks and Degrees of Consistency in a Shared Data Base
+      author: Gray et al
+      year: 1975
+      link: https://www.alexdelis.eu/M149/gray.pdf
+    - title: "The Transaction Concept: Virtues and Limitations"
+      author: Gray
+      year: 1981
+      link: https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf
+    - title: "System R: Relational Approach to Database Management"
+      author: Astrahan et al.
+      year: 1976
+      link: https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF
+    - title: The design of POSTGRES
+      author: Stonebraker, Rowe
+      year: 1986
+      link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+
 - title: Time, Clocks, and the Ordering of Events in a Distributed System
   author: Lamport
   year: 1978
   link: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
   related:
-    - title: The Part-Time Parliament
-      author: Lamport
-      year: 1998
-      link: https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf
-    - title: Paxos made simple
-      author: Lamport
-      year: 2001
-      link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
-    - title: In Search of an Understandable Consensus Algorithm
-      author: Ongaro, Ousterhout
-      year: 2014
-      link: https://raft.github.io/raft.pdf
     - title: The Byzantine Generals Problem
       author: Lamport, Shostak, Pease
       year: 1982
@@ -307,23 +401,37 @@
       author: Dijkstra
       year: 1974
       link: https://dl.acm.org/doi/pdf/10.1145/361179.361202
+
+- title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
+  author: Schneider
+  year: 1990
+  link: https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
+  related:
     - title: How to Build a Highly Available System Using Consensus
       author: Lampson
       year: 1996
       link: https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf
+    - title: Paxos made simple
+      author: Lamport
+      year: 2001
+      link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+    - title: In Search of an Understandable Consensus Algorithm
+      author: Ongaro, Ousterhout
+      year: 2014
+      link: https://raft.github.io/raft.pdf
 
-- title: Harvest, Yield, and Scalable Tolerant Systems
-  author: Fox, Brewer
-  year: 1999
-  link: https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
+- title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
+  author: Brewer
+  year: 2012
+  link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
   related:
-    - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
-      author: Brewer
-      year: 2012
-      link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
+    - title: Harvest, Yield, and Scalable Tolerant Systems
+      author: Fox, Brewer
+      year: 1999
+      link: https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
     - title: "Life Beyond Distributed Transactions: An apostate's opinion"
       author: Helland
-      year: 2007
+      year: 2016
       link: https://queue.acm.org/detail.cfm?id=3025012
     - title: "The Dangers of Replication"
       author: Gray et al
@@ -333,89 +441,10 @@
       author: Helland, Campbell
       year: 2009
       link: https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf
-
-- title: End-To-End Arguments in System Design
-  author: Saltzer, Reed, Clark
-  year: 1984
-  link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
-  related:
-    - title: A Note on Distributed Computing
-      author: Waldo et al
-      year: 1994
-      link: https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf
-    - title: The Network is Reliable
-      author: Bailis,  Kingsbury
-      year: 2014
-      link: https://queue.acm.org/detail.cfm?id=2655736
-
-- title: Communicating sequential processes
-  author: Hoare
-  year: 1976
-  link: https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
-  related:
-    - title: Solution Of a Problem in Concurrent Program Control
-      author: Dijkstra
-      year: 1965
-      link: https://dl.acm.org/doi/pdf/10.1145/365559.365617
-    - title: On the Duality of Operating System Structures
-      author: Lauer, Needham
-      year: 1978
-      link: https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf
-    - title: "Monitors: An operating system structuring concept"
-      author: Hoare
-      year: 1974
-      link: https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf
-    - title: Software Transactional Memory
-      author: Shavit, Touitou
-      year: 1997
-      link: https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf
-
-- title: "No Silver Bullet: Essence and Accidents of Software Engineering"
-  author: Brooks
-  year: 1987
-  link: http://www.cs.unc.edu/techreports/86-020.pdf
-  related:
-    - title: Out of the Tar Pit
-      author: Moseley, Marks
-      year: 2006
-      link: http://curtclifton.net/papers/MoseleyMarks06a.pdf
-
-
-- title: Why Functional Programming Matters
-  author: Hughes
-  year: 1990
-  link: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
-  related:
-    - title: Can Programming Be Liberated from the von Neumann Style?
-      author: Backus
-      year: 1978
-      link: https://dl.acm.org/doi/pdf/10.1145/359576.359579
-    - title: The Semantic Elegance of Applicative Languages
-      author: Turner
-      year: 1981
-      link: http://nsl.com/misc/sasl/paraffins-turner.pdf
-    - title: Recursive Functions of Symbolic Expressions and Their Computation by Machine
-      author: McCarthy
-      year: 1960
-      link: http://jmc.stanford.edu/articles/recursive/recursive.pdf
-    - title: The Art of the Interpreter
-      author: Steele, Sussman
-      year: 1978
-      link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
-    - title: "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"
-      author: Claessen, Hughes
-      year: 2000
-      link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
-
-- title: Engineering a Sort Function
-  author: Bentley, McIlroy
-  year: 1993
-  link: https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf
-  related:
-    - title: Quicksort
-      author: Hoare
-      year: 1962
-      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
+    - title: "Epidemic Algorithms for Replicated Database Maintenance"
+      author: Demers et al
+      year: 1987
+      link: http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf
 
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page
@@ -496,17 +525,3 @@
       author: Buterin
       year: 2014
       link: https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf
-
-- title: "Thinking Methodically about Performance"
-  author: Gregg
-  year: 2012
-  link: https://queue.acm.org/detail.cfm?id=2413037
-  related:
-    - title: Thinking Clearly about Performance
-      author: Millsap
-      year: 2010
-      link: https://queue.acm.org/detail.cfm?id=1854041
-    - title: Performance Anti-Patterns
-      author: Smaalders
-      year: 2006
-      link: https://queue.acm.org/detail.cfm?id=1117403

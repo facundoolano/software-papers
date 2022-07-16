@@ -9,7 +9,6 @@ import yaml
 # load paper specs
 with open('papers.yml') as file_:
     papers = yaml.safe_load(file_)
-    papers.sort(key=lambda p: p['year'])
 
 # build table of contents
 papers_toc = ''

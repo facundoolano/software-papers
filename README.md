@@ -15,6 +15,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * Steps towards Artificial Intelligence. [Minsky (1960)](http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf).
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
     * A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
+    * On Computable Numbers, with an Application to the Entscheidungs problem. [Turing, Church (1936)](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).

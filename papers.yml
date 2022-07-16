@@ -45,6 +45,10 @@
       author: Valiant
       year: 1984
       link: https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
+    - title: On Computable Numbers, with an Application to the Entscheidungs problem
+      author: Turing, Church
+      year: 1936
+      link: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman

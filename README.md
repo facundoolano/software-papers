@@ -19,7 +19,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
-    * Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf).
     * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
     * Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
 1. **The Ubiquitous B-Tree**. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
@@ -153,7 +152,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf)
 1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 1. Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html)
-1. Reducibility among Combinatorial Problems. [Karp (1972)](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
 1. The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf)
 1. A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018)
 1. Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF)

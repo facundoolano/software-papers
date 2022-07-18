@@ -69,10 +69,6 @@
       author: Knuth
       year: 1976
       link: https://dl.acm.org/doi/pdf/10.1145/1008328.1008329
-    - title: Reducibility among Combinatorial Problems
-      author: Karp
-      year: 1972
-      link: https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf
     - title: Amortized Computational Complexity
       author: Tarjan
       year: 1985

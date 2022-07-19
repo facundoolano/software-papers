@@ -7,6 +7,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **Von Neumann's First Computer Program**. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).
     * The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
     * Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).
+    * Programming Considered as a Human Activity. [Dijkstra (1965)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html).
     * Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
     * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
     * The paradigms of programming. [Floyd (1979)](https://dl.acm.org/doi/pdf/10.1145/1283920.1283934).
@@ -141,6 +142,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
 1. Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf)
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/)
+1. Programming Considered as a Human Activity. [Dijkstra (1965)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html)
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617)
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf)
 1. Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)

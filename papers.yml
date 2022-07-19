@@ -7,6 +7,10 @@
       author: Hopper
       year: 1952
       link: https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf
+    - title: Programming Considered as a Human Activity
+      author: Dijkstra
+      year: 1965
+      link: https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html
     - title: Goto Statement Considered Harmful
       author: Dijkstra
       year: 1968

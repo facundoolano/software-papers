@@ -136,11 +136,15 @@
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/6424.315691
 
-- title: On the Criteria To Be Used in Decomposing Systems into Modules
-  author: Parnas
-  year: 1971
-  link: https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
+- title: A Design Methodology for Reliable Software Systems
+  author: Liskov
+  year: 1972
+  link: https://dl.acm.org/doi/pdf/10.1145/1479992.1480018
   related:
+    - title: On the Criteria To Be Used in Decomposing Systems into Modules
+      author: Parnas
+      year: 1971
+      link: https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
     - title: Information Distribution Aspects of Design Methodology
       author: Parnas
       year: 1972
@@ -165,20 +169,12 @@
       author: Perry, Wolf
       year: 1992
       link: http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf
-    - title: "Software Engineering: An Unconsummated Marriage"
-      author: Parnas
-      year: 1997
-      link: https://dl.acm.org/doi/pdf/10.1145/267896.267897
 
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles
   year: 1974
   link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
   related:
-    - title: A Design Methodology for Reliable Software Systems
-      author: Liskov
-      year: 1972
-      link: https://dl.acm.org/doi/pdf/10.1145/1479992.1480018
     - title: On understanding types, data abstraction, and polymorphism
       author: Cardelli, Wegner
       year: 1985

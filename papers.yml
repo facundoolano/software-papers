@@ -127,6 +127,14 @@
       author: Hoare
       year: 1962
       link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
+    - title: "Programming pearls: algorithm design techniques"
+      author: Bentley
+      year: 1984
+      link: https://dl.acm.org/doi/pdf/10.1145/358234.381162
+    - title: "Programming pearls: little languages"
+      author: Bentley
+      year: 1986
+      link: https://dl.acm.org/doi/pdf/10.1145/6424.315691
 
 - title: On the Criteria To Be Used in Decomposing Systems into Modules
   author: Parnas

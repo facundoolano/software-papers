@@ -16,6 +16,11 @@ A curated list of papers that may be of interest to Software Engineering student
     * Steps towards Artificial Intelligence. [Minsky (1960)](http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf).
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
     * A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
+1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
+    * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
+    * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
+    * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
+    * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
@@ -28,11 +33,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
     * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
-1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
-    * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
-    * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
-    * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
-    * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
     * A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
     * A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
@@ -195,8 +195,8 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](https://dl.acm.org/doi/pdf/10.5555/800054.801999)
 1. Reflections on Trusting Trust. [Thompson (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 1. End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf)
-1. Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf)
 1. Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+1. Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf)
 1. On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042)
 1. An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004)
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)

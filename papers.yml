@@ -50,6 +50,28 @@
       year: 1984
       link: https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
 
+- title: Computer Programming as an Art
+  author: Knuth
+  year: 1974
+  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
+  related:
+    - title: The Emperor’s Old Clothes
+      author: Hoare
+      year: 1981
+      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
+    - title: Literate Programming
+      author: Knuth
+      year: 1984
+      link: http://www.literateprogramming.com/knuthweb.pdf
+    - title: Programming as Theory Building
+      author: Naur
+      year: 1985
+      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
+
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman
   year: 1952
@@ -105,28 +127,6 @@
       author: Hoare
       year: 1962
       link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
-
-- title: Computer Programming as an Art
-  author: Knuth
-  year: 1974
-  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
-  related:
-    - title: The Emperor’s Old Clothes
-      author: Hoare
-      year: 1981
-      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
-    - title: Literate Programming
-      author: Knuth
-      year: 1984
-      link: http://www.literateprogramming.com/knuthweb.pdf
-    - title: Programming as Theory Building
-      author: Naur
-      year: 1985
-      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
-    - title: The Humble Programmer
-      author: Dijkstra
-      year: 1972
-      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles

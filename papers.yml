@@ -128,6 +128,40 @@
       year: 1962
       link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
 
+- title: On the Criteria To Be Used in Decomposing Systems into Modules
+  author: Parnas
+  year: 1971
+  link: https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
+  related:
+    - title: Information Distribution Aspects of Design Methodology
+      author: Parnas
+      year: 1972
+      link: https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF
+    - title: Software Aging
+      author: Parnas
+      year: 1994
+      link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf
+    - title: Designing Software for Ease of Extension and Contraction
+      author: Parnas
+      year: 1979
+      link: https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf
+    - title: The Modular Structure of Complex Systems
+      author: Parnas, Clements, Weiss
+      year: 1984
+      link: https://dl.acm.org/doi/pdf/10.5555/800054.801999
+    - title: Toward higher-level abstractions for software systems
+      author: Shaw
+      year: 1990
+      link: http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf
+    - title: Foundations for the Study of Software Architecture
+      author: Perry, Wolf
+      year: 1992
+      link: http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf
+    - title: "Software Engineering: An Unconsummated Marriage"
+      author: Parnas
+      year: 1997
+      link: https://dl.acm.org/doi/pdf/10.1145/267896.267897
+
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles
   year: 1974
@@ -175,40 +209,6 @@
       author: Claessen, Hughes
       year: 2000
       link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
-
-- title: On the Criteria To Be Used in Decomposing Systems into Modules
-  author: Parnas
-  year: 1971
-  link: https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
-  related:
-    - title: Information Distribution Aspects of Design Methodology
-      author: Parnas
-      year: 1972
-      link: https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF
-    - title: Software Aging
-      author: Parnas
-      year: 1994
-      link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf
-    - title: Designing Software for Ease of Extension and Contraction
-      author: Parnas
-      year: 1979
-      link: https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf
-    - title: The Modular Structure of Complex Systems
-      author: Parnas, Clements, Weiss
-      year: 1984
-      link: https://dl.acm.org/doi/pdf/10.5555/800054.801999
-    - title: Toward higher-level abstractions for software systems
-      author: Shaw
-      year: 1990
-      link: http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf
-    - title: Foundations for the Study of Software Architecture
-      author: Perry, Wolf
-      year: 1992
-      link: http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf
-    - title: "Software Engineering: An Unconsummated Marriage"
-      author: Parnas
-      year: 1997
-      link: https://dl.acm.org/doi/pdf/10.1145/267896.267897
 
 - title: The Mythical Man Month
   author: Brooks

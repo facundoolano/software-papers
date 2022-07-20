@@ -33,6 +33,14 @@ A curated list of papers that may be of interest to Software Engineering student
     * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
     * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
+1. **On the Criteria To Be Used in Decomposing Systems into Modules**. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
+    * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
+    * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
+    * The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](https://dl.acm.org/doi/pdf/10.5555/800054.801999).
+    * Toward higher-level abstractions for software systems. [Shaw (1990)](http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf).
+    * Foundations for the Study of Software Architecture. [Perry, Wolf (1992)](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf).
+    * Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
+    * Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://dl.acm.org/doi/pdf/10.1145/267896.267897).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
     * A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
     * A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
@@ -44,14 +52,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * The Art of the Interpreter. [Steele, Sussman (1978)](http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf).
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
-1. **On the Criteria To Be Used in Decomposing Systems into Modules**. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
-    * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
-    * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
-    * The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](https://dl.acm.org/doi/pdf/10.5555/800054.801999).
-    * Toward higher-level abstractions for software systems. [Shaw (1990)](http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf).
-    * Foundations for the Study of Software Architecture. [Perry, Wolf (1992)](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf).
-    * Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
-    * Software Engineering: An Unconsummated Marriage. [Parnas (1997)](https://dl.acm.org/doi/pdf/10.1145/267896.267897).
 1. **The Mythical Man Month**. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
@@ -155,8 +155,8 @@ A curated list of papers that may be of interest to Software Engineering student
 1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 1. Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html)
 1. The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf)
-1. A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018)
 1. Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF)
+1. A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018)
 1. Computer Programming as an Art. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf)
 1. Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045)
 1. The UNIX Time- Sharing System. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf)

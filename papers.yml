@@ -183,6 +183,10 @@
       author: Ungar, Smith
       year: 1991
       link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
+    - title: The Smalltalk-76 Programming System Design and Implementation
+      author: Ingalls
+      year: 1978
+      link: https://dl.acm.org/doi/pdf/10.1145/512760.512762
     - title: A Theory of Type Polymorphism in Programming
       author: Milner
       year:  1978
@@ -205,10 +209,6 @@
       author: McCarthy
       year: 1960
       link: http://jmc.stanford.edu/articles/recursive/recursive.pdf
-    - title: The Art of the Interpreter
-      author: Steele, Sussman
-      year: 1978
-      link: http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/ai/aim/AIM-453.pdf
     - title: "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"
       author: Claessen, Hughes
       year: 2000

@@ -241,6 +241,10 @@
   year: 1987
   link: http://www.cs.unc.edu/techreports/86-020.pdf
   related:
+    - title: On Building Systems That Will Fail
+      author: Corbató
+      year: 1991
+      link: https://dl.acm.org/doi/pdf/10.1145/114669.114686
     - title: Out of the Tar Pit
       author: Moseley, Marks
       year: 2006
@@ -263,6 +267,10 @@
       author: Hoare
       year: 1974
       link: https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf
+    - title: The Development of Erlang
+      author: Joe Armstrong
+      year: 1997
+      link: https://dl.acm.org/doi/pdf/10.1145/258948.258967
     - title: Software Transactional Memory
       author: Shavit, Touitou
       year: 1997

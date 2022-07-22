@@ -4,25 +4,40 @@ A curated list of papers that may be of interest to Software Engineering student
 
 <br/>
 
-{{ PAPERS_TOC }}
+{{ PAPERS_FULL }}
 
 <br/>
 
 <details>
-<summary>Show full list in chronological order </summary>
+<summary>Top-level papers only</summary>
 <br/>
 
-{{ PAPERS_FULL }}
+{{ PAPERS_TOC }}
 
 </details>
 
 <br/>
 
-This list was inspired by (and draws from) the [Papers We Love](https://paperswelove.org/) project and
-the [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future) book by Harry R. Lewis.
-I also found [the morning paper](https://blog.acolyer.org/) blog to be an extremely useful resource.
-For distributed systems, I used [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
-and for Relational Data Bases, I used the [Red Book](http://www.redbook.io/).
+<details>
+<summary>All papers in chronological order </summary>
+<br/>
+
+{{ PAPERS_SORTED }}
+
+</details>
+
+<br/>
+
+## Sources
+This list was inspired by (and draws from) several books and paper collections:
+
+* [Papers We Love](https://paperswelove.org/)
+* [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future)
+* [The Innovators](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781476708706)
+* [The morning paper](https://blog.acolyer.org/)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
+* [Readings in Database Systems (the Red Book)](http://www.redbook.io/)
+* [Fermat's Library](https://fermatslibrary.com/journal_club)
 
 ## Meta reads
 

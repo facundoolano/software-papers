@@ -470,11 +470,16 @@
       year: 1987
       link: http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf
 
+
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page
   year: 1998
   link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
   related:
+    - title: A Statistical Interpretation of Term Specificity in Retrieval
+      author: Spärck Jones
+      year: 1972
+      link: http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf
     - title: "The PageRank Citation Ranking: Bringing Order to the Web"
       author: Page, Brin, Motwani
       year: 1999

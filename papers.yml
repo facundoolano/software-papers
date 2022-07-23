@@ -298,11 +298,15 @@
       year: 1991
       link: https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf
 
-- title: A Protocol for Packet Network Intercommunication
-  author: Cerf, Kahn
-  year: 1974
-  link: https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
+- title: The Design Philosophy of the DARPA Internet Protocols
+  author: Clark
+  year: 1988
+  link: http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf
   related:
+    - title: A Protocol for Packet Network Intercommunication
+      author: Cerf, Kahn
+      year: 1974
+      link: https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
     - title: "Ethernet: Distributed packet switching for local computer networks"
       author: Metcalfe, Boggs
       year: 1978
@@ -311,6 +315,14 @@
       author: Perlman
       year: 1985
       link: https://dl.acm.org/doi/pdf/10.1145/319056.319004
+    - title: "TOR: The second generation onion router"
+      author: Dingledine et al
+      year: 2004
+      link: https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf
+    - title: Why the Internet only just works
+      author: Handley
+      year: 2006
+      link: http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf
 
 - title: New Directions in Cryptography
   author: Diffie, Hellman
@@ -470,7 +482,7 @@
     - title: "World-Wide Web: Information Universe"
       author: Berners-Lee et al
       year: 1992
-      link: https://www.w3.org/History/1992/ENRAP/Article_9202.ps
+      link: https://www.w3.org/History/1992/ENRAP/Article_9202.pdf
 
 - title: Dynamo, Amazon’s Highly Available Key-value store
   author: DeCandia et al

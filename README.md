@@ -74,19 +74,16 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **The Design Philosophy of the DARPA Internet Protocols**. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
     * A Protocol for Packet Network Intercommunication. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).
     * Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
+    * End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf).
     * An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
     * TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
     * Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
+    * The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).
     * A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
     * How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
     * A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
     * K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf).
-1. **Hints for Computer System Design**. [Lampson (1983)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf).
-    * End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf).
-    * A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf).
-    * Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
-    * The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
     * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
     * Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
@@ -96,6 +93,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
     * The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
     * The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dsf.berkeley.edu/papers/ERL-M85-95.pdf).
+    * Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
     * Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
     * The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
@@ -153,7 +151,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **The UNIX Time- Sharing System**. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).
 1. **The Design Philosophy of the DARPA Internet Protocols**. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).
-1. **Hints for Computer System Design**. [Lampson (1983)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
@@ -231,7 +228,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
-1. **Hints for Computer System Design**. [Lampson (1983)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf).
 1. Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
 1. A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
 1. Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
@@ -260,7 +256,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
-1. A Note on Distributed Computing. [Waldo et al (1994)](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf).
 1. How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf).
 1. The Dangers of Replication. [Gray et al (1996)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/replication.pdf).
 1. The Development of Erlang. [Joe Armstrong (1997)](https://dl.acm.org/doi/pdf/10.1145/258948.258967).

@@ -307,6 +307,10 @@
       author: Metcalfe, Boggs
       year: 1978
       link: https://ethernethistory.typepad.com/papers/EthernetPaper.pdf
+    - title: End-To-End Arguments in System Design
+      author: Saltzer, Reed, Clark
+      year: 1984
+      link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
     - title: An algorithm for distributed computation of a Spanning Tree in an Extended LAN
       author: Perlman
       year: 1985
@@ -319,6 +323,10 @@
       author: Handley
       year: 2006
       link: http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf
+    - title: The Network is Reliable
+      author: Bailis,  Kingsbury
+      year: 2014
+      link: https://queue.acm.org/detail.cfm?id=2655736
 
 - title: New Directions in Cryptography
   author: Diffie, Hellman
@@ -342,27 +350,6 @@
       year: 2002
       link: https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf
 
-- title: Hints for Computer System Design
-  author: Lampson
-  year: 1983
-  link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf
-  related:
-    - title: End-To-End Arguments in System Design
-      author: Saltzer, Reed, Clark
-      year: 1984
-      link: https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf
-    - title: A Note on Distributed Computing
-      author: Waldo et al
-      year: 1994
-      link: https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf
-    - title: The Network is Reliable
-      author: Bailis,  Kingsbury
-      year: 2014
-      link: https://queue.acm.org/detail.cfm?id=2655736
-    - title: Rules of Thumb in Data Engineering
-      author: Gray, Shenay
-      year: 1999
-      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
 
 - title: "Thinking Methodically about Performance"
   author: Gregg
@@ -403,6 +390,10 @@
       author: Stonebraker, Rowe
       year: 1986
       link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+    - title: Rules of Thumb in Data Engineering
+      author: Gray, Shenay
+      year: 1999
+      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
 
 - title: Time, Clocks, and the Ordering of Events in a Distributed System
   author: Lamport

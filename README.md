@@ -26,7 +26,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
     * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
-    * Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
 1. **The Ubiquitous B-Tree**. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
     * Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf).
@@ -241,7 +240,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Reflections on Trusting Trust. [Thompson (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf).
 1. End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf).
 1. Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
-1. Amortized Computational Complexity. [Tarjan (1985)](http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf).
 1. On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042).
 1. An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).

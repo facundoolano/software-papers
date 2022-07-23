@@ -95,10 +95,6 @@
       author: Knuth
       year: 1976
       link: https://dl.acm.org/doi/pdf/10.1145/1008328.1008329
-    - title: Amortized Computational Complexity
-      author: Tarjan
-      year: 1985
-      link: http://www.cs.duke.edu/courses/fall11/cps234/reading/Tarjan85_AmortizedComplexity.pdf
 
 - title: The Ubiquitous B-Tree
   author: Comer

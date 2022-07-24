@@ -389,7 +389,7 @@
     - title: The design of POSTGRES
       author: Stonebraker, Rowe
       year: 1986
-      link: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/16856.16888
     - title: Rules of Thumb in Data Engineering
       author: Gray, Shenay
       year: 1999

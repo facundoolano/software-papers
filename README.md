@@ -25,15 +25,14 @@ A curated list of papers that may be of interest to Software Engineering student
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
-    * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
-1. **The Ubiquitous B-Tree**. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
     * Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf).
+    * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
+    * The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
     * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
     * Programming pearls: algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
-    * Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
 1. **A Design Methodology for Reliable Software Systems**. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
     * On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
@@ -143,7 +142,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
 1. **On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem**. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
-1. **The Ubiquitous B-Tree**. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
 1. **A Design Methodology for Reliable Software Systems**. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
@@ -222,7 +220,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
 1. The paradigms of programming. [Floyd (1979)](https://dl.acm.org/doi/pdf/10.1145/1283920.1283934).
-1. **The Ubiquitous B-Tree**. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
+1. The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
 1. A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
@@ -245,7 +243,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
-1. Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
 1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dl.acm.org/doi/pdf/10.1145/16856.16888).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
 1. Epidemic Algorithms for Replicated Database Maintenance. [Demers et al (1987)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf).

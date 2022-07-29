@@ -95,12 +95,10 @@
       author: Knuth
       year: 1976
       link: https://dl.acm.org/doi/pdf/10.1145/1008328.1008329
-
-- title: The Ubiquitous B-Tree
-  author: Comer
-  year: 1979
-  link: http://carlosproal.com/ir/papers/p121-comer.pdf
-  related:
+    - title: The Ubiquitous B-Tree
+      author: Comer
+      year: 1979
+      link: http://carlosproal.com/ir/papers/p121-comer.pdf
     - title: Ordered hash tables
       author: Amble, Knuth
       year: 1974
@@ -127,10 +125,6 @@
       author: Bentley
       year: 1984
       link: https://dl.acm.org/doi/pdf/10.1145/358234.381162
-    - title: "Programming pearls: little languages"
-      author: Bentley
-      year: 1986
-      link: https://dl.acm.org/doi/pdf/10.1145/6424.315691
 
 - title: A Design Methodology for Reliable Software Systems
   author: Liskov

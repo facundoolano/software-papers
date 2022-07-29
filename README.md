@@ -84,6 +84,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
     * How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
     * A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
+    * Protocols for Public Key Cryptosystems. [Merkle (1980)](http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf).
     * K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
     * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
@@ -225,6 +226,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
 1. A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
+1. Protocols for Public Key Cryptosystems. [Merkle (1980)](http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf).
 1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).

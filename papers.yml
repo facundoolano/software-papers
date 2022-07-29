@@ -349,6 +349,10 @@
       author: Merkle
       year: 1979
       link: https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf
+    - title: Protocols for Public Key Cryptosystems
+      author: Merkle
+      year: 1980
+      link: http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf
     - title: "K-Anonymity: A Model For Protecting Privacy"
       author: Sweeney
       year: 2002

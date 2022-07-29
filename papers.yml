@@ -296,6 +296,50 @@
       year: 1991
       link: https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf
 
+- title: "Thinking Methodically about Performance"
+  author: Gregg
+  year: 2012
+  link: https://queue.acm.org/detail.cfm?id=2413037
+  related:
+    - title: Thinking Clearly about Performance
+      author: Millsap
+      year: 2010
+      link: https://queue.acm.org/detail.cfm?id=1854041
+    - title: Performance Anti-Patterns
+      author: Smaalders
+      year: 2006
+      link: https://queue.acm.org/detail.cfm?id=1117403
+
+- title: A Relational Model of Data for Large Shared Data Banks
+  author: Codd
+  year: 1970
+  link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
+  related:
+    - title: Access Path Selection in a Relational Database Management System
+      author: Selinger et al
+      year: 1979
+      link: https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf
+    - title: Granularity of Locks and Degrees of Consistency in a Shared Data Base
+      author: Gray et al
+      year: 1975
+      link: https://www.alexdelis.eu/M149/gray.pdf
+    - title: "The Transaction Concept: Virtues and Limitations"
+      author: Gray
+      year: 1981
+      link: https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf
+    - title: "System R: Relational Approach to Database Management"
+      author: Astrahan et al.
+      year: 1976
+      link: https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF
+    - title: The design of POSTGRES
+      author: Stonebraker, Rowe
+      year: 1986
+      link: https://dl.acm.org/doi/pdf/10.1145/16856.16888
+    - title: Rules of Thumb in Data Engineering
+      author: Gray, Shenay
+      year: 1999
+      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
+
 - title: The Design Philosophy of the DARPA Internet Protocols
   author: Clark
   year: 1988
@@ -355,51 +399,6 @@
       author: Sweeney
       year: 2002
       link: https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf
-
-
-- title: "Thinking Methodically about Performance"
-  author: Gregg
-  year: 2012
-  link: https://queue.acm.org/detail.cfm?id=2413037
-  related:
-    - title: Thinking Clearly about Performance
-      author: Millsap
-      year: 2010
-      link: https://queue.acm.org/detail.cfm?id=1854041
-    - title: Performance Anti-Patterns
-      author: Smaalders
-      year: 2006
-      link: https://queue.acm.org/detail.cfm?id=1117403
-
-- title: A Relational Model of Data for Large Shared Data Banks
-  author: Codd
-  year: 1970
-  link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
-  related:
-    - title: Access Path Selection in a Relational Database Management System
-      author: Selinger et al
-      year: 1979
-      link: https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf
-    - title: Granularity of Locks and Degrees of Consistency in a Shared Data Base
-      author: Gray et al
-      year: 1975
-      link: https://www.alexdelis.eu/M149/gray.pdf
-    - title: "The Transaction Concept: Virtues and Limitations"
-      author: Gray
-      year: 1981
-      link: https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf
-    - title: "System R: Relational Approach to Database Management"
-      author: Astrahan et al.
-      year: 1976
-      link: https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF
-    - title: The design of POSTGRES
-      author: Stonebraker, Rowe
-      year: 1986
-      link: https://dl.acm.org/doi/pdf/10.1145/16856.16888
-    - title: Rules of Thumb in Data Engineering
-      author: Gray, Shenay
-      year: 1999
-      link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
 
 - title: Time, Clocks, and the Ordering of Events in a Distributed System
   author: Lamport

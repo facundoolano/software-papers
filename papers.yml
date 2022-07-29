@@ -241,6 +241,10 @@
   year: 1987
   link: http://www.cs.unc.edu/techreports/86-020.pdf
   related:
+    - title: Software Aspects of Strategic Defense Systems
+      author: Parnas
+      year: 1985
+      link: https://web.stanford.edu/class/cs99r/readings/parnas1.pdf
     - title: On Building Systems That Will Fail
       author: Corbató
       year: 1991

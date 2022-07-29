@@ -52,6 +52,7 @@ A curated list of papers that may be of interest to Software Engineering student
     * Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
+    * Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
 1. **The Mythical Man Month**. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
@@ -274,6 +275,7 @@ A curated list of papers that may be of interest to Software Engineering student
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
 1. TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
 1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).
+1. Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
 1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).

@@ -209,6 +209,10 @@
       author: Claessen, Hughes
       year: 2000
       link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
+    - title: Church's Thesis and Functional Programming
+      author: Turner
+      year: 2006
+      link: https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet
 
 - title: The Mythical Man Month
   author: Brooks

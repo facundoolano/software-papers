@@ -58,7 +58,6 @@ A curated list of papers that may be of interest to Software Engineering student
     * Lisp: Good news, bad news, how to win big. [Gabriel (1991)](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf).
     * The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
-    * Software Aspects of Strategic Defense Systems. [Parnas (1985)](https://web.stanford.edu/class/cs99r/readings/parnas1.pdf).
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
@@ -239,7 +238,6 @@ A curated list of papers that may be of interest to Software Engineering student
 1. End-To-End Arguments in System Design. [Saltzer, Reed, Clark (1984)](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf).
 1. Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
 1. On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042).
-1. Software Aspects of Strategic Defense Systems. [Parnas (1985)](https://web.stanford.edu/class/cs99r/readings/parnas1.pdf).
 1. An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).

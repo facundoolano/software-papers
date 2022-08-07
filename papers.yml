@@ -306,6 +306,48 @@
       year: 2006
       link: https://queue.acm.org/detail.cfm?id=1117403
 
+- title: "Designing for Usability: Key Principles and What Designers Think"
+  author: Gould, Lewis
+  year: 1985
+  link: https://dl.acm.org/doi/pdf/10.1145/3166.3170
+  related:
+    - title: As We May Think
+      author: Bush
+      year: 1945
+      link: https://web.mit.edu/STS.035/www/PDFs/think.pdf
+    - title: Man-Computer symbiosis
+      author: Licklider
+      year: 1958
+      link: http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf
+    - title: Some Thoughts About the Social Implications of Accessible Computing
+      author: David, Fano
+      year: 1965
+      link: https://dl.acm.org/doi/pdf/10.1145/1463891.1463917
+    - title: Tutorials for the First-Time Computer User
+      author: Al-Awar, Chapanis, Ford
+      year: 1981
+      link: https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing
+    - title: "The star user interface: an overview"
+      author: Smith, Irby, Kimball
+      year: 1982
+      link: https://www.tech-insider.org/star/research/acrobat/8206.pdf
+    - title: Design Principles for Human-Computer Interfaces
+      author: Norman
+      year: 1983
+      link: https://dl.acm.org/doi/pdf/10.1145/800045.801571
+    - title: Design Rules Based on Analyses of Human Error
+      author: Norman
+      year: 1983
+      link: https://dl.acm.org/doi/pdf/10.1145/2163.358092
+    - title: Heuristic Evaluation of User Interfaces
+      author: Nielsen, Molich
+      year: 1990
+      link: https://dl.acm.org/doi/pdf/10.1145/97243.97281
+    - title: Towards Accessible Human-Computer Interaction
+      author: Bergman, Johnson
+      year: 1997
+      link: https://drive.google.com/file/d/1jg0OCuOfdadJDgWYkcNiSeeKG0GJ4VJC/view
+
 - title: A Relational Model of Data for Large Shared Data Banks
   author: Codd
   year: 1970

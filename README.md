@@ -325,8 +325,6 @@ A curated list of papers that may be of interest to Software Engineering student
 
 </details>
 
-<br/>
-
 ## Sources
 This list was inspired by (and draws from) several books and paper collections:
 
@@ -362,7 +360,7 @@ A few interesting resources about reading papers from Papers We Love and elsewhe
 6. I tended to prefer topics that I can relate to my professional practice, typically papers originated in the industry
 or about innovations that later saw wide adoption.
    - Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
-   - Machine Learning is mostly missing because I'm not familiar enough with the area to find relevant, non overly specific papers. Suggestions are welcome. 
+   - Machine Learning is mostly missing because I'm not familiar enough with the area to find relevant, non overly specific papers. Suggestions are welcome.
    
 Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
 

@@ -203,6 +203,10 @@
       author: Claessen, Hughes
       year: 2000
       link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
+    - title: The essence of functional programming
+      author: Wadler
+      year: 1992
+      link: https://dl.acm.org/doi/pdf/10.1145/143165.143169
     - title: Church's Thesis and Functional Programming
       author: Turner
       year: 2006

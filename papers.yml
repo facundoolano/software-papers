@@ -50,28 +50,6 @@
       year: 1984
       link: https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
 
-- title: Computer Programming as an Art
-  author: Knuth
-  year: 1974
-  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
-  related:
-    - title: The Emperor’s Old Clothes
-      author: Hoare
-      year: 1981
-      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
-    - title: Literate Programming
-      author: Knuth
-      year: 1984
-      link: http://www.literateprogramming.com/knuthweb.pdf
-    - title: Programming as Theory Building
-      author: Naur
-      year: 1985
-      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
-    - title: The Humble Programmer
-      author: Dijkstra
-      year: 1972
-      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
-
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman
   year: 1952
@@ -125,6 +103,28 @@
       author: Bentley
       year: 1984
       link: https://dl.acm.org/doi/pdf/10.1145/358234.381162
+
+- title: Computer Programming as an Art
+  author: Knuth
+  year: 1974
+  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
+  related:
+    - title: The Emperor’s Old Clothes
+      author: Hoare
+      year: 1981
+      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
+    - title: Literate Programming
+      author: Knuth
+      year: 1984
+      link: http://www.literateprogramming.com/knuthweb.pdf
+    - title: Programming as Theory Building
+      author: Naur
+      year: 1985
+      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: A Design Methodology for Reliable Software Systems
   author: Liskov
@@ -296,62 +296,6 @@
       year: 1991
       link: https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf
 
-- title: "Thinking Methodically about Performance"
-  author: Gregg
-  year: 2012
-  link: https://queue.acm.org/detail.cfm?id=2413037
-  related:
-    - title: Thinking Clearly about Performance
-      author: Millsap
-      year: 2010
-      link: https://queue.acm.org/detail.cfm?id=1854041
-    - title: Performance Anti-Patterns
-      author: Smaalders
-      year: 2006
-      link: https://queue.acm.org/detail.cfm?id=1117403
-
-- title: "Designing for Usability: Key Principles and What Designers Think"
-  author: Gould, Lewis
-  year: 1985
-  link: https://dl.acm.org/doi/pdf/10.1145/3166.3170
-  related:
-    - title: As We May Think
-      author: Bush
-      year: 1945
-      link: https://web.mit.edu/STS.035/www/PDFs/think.pdf
-    - title: Man-Computer symbiosis
-      author: Licklider
-      year: 1958
-      link: http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf
-    - title: Some Thoughts About the Social Implications of Accessible Computing
-      author: David, Fano
-      year: 1965
-      link: https://dl.acm.org/doi/pdf/10.1145/1463891.1463917
-    - title: Tutorials for the First-Time Computer User
-      author: Al-Awar, Chapanis, Ford
-      year: 1981
-      link: https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing
-    - title: "The star user interface: an overview"
-      author: Smith, Irby, Kimball
-      year: 1982
-      link: https://www.tech-insider.org/star/research/acrobat/8206.pdf
-    - title: Design Principles for Human-Computer Interfaces
-      author: Norman
-      year: 1983
-      link: https://dl.acm.org/doi/pdf/10.1145/800045.801571
-    - title: Design Rules Based on Analyses of Human Error
-      author: Norman
-      year: 1983
-      link: https://dl.acm.org/doi/pdf/10.1145/2163.358092
-    - title: Heuristic Evaluation of User Interfaces
-      author: Nielsen, Molich
-      year: 1990
-      link: https://dl.acm.org/doi/pdf/10.1145/97243.97281
-    - title: Towards Accessible Human-Computer Interaction
-      author: Bergman, Johnson
-      year: 1997
-      link: https://drive.google.com/file/d/1jg0OCuOfdadJDgWYkcNiSeeKG0GJ4VJC/view
-
 - title: A Relational Model of Data for Large Shared Data Banks
   author: Codd
   year: 1970
@@ -478,6 +422,66 @@
       year: 2014
       link: https://raft.github.io/raft.pdf
 
+- title: "Designing for Usability: Key Principles and What Designers Think"
+  author: Gould, Lewis
+  year: 1985
+  link: https://dl.acm.org/doi/pdf/10.1145/3166.3170
+  related:
+    - title: As We May Think
+      author: Bush
+      year: 1945
+      link: https://web.mit.edu/STS.035/www/PDFs/think.pdf
+    - title: Man-Computer symbiosis
+      author: Licklider
+      year: 1958
+      link: http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf
+    - title: Some Thoughts About the Social Implications of Accessible Computing
+      author: David, Fano
+      year: 1965
+      link: https://dl.acm.org/doi/pdf/10.1145/1463891.1463917
+    - title: Tutorials for the First-Time Computer User
+      author: Al-Awar, Chapanis, Ford
+      year: 1981
+      link: https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing
+    - title: "The star user interface: an overview"
+      author: Smith, Irby, Kimball
+      year: 1982
+      link: https://www.tech-insider.org/star/research/acrobat/8206.pdf
+    - title: Design Principles for Human-Computer Interfaces
+      author: Norman
+      year: 1983
+      link: https://dl.acm.org/doi/pdf/10.1145/800045.801571
+    - title: Design Rules Based on Analyses of Human Error
+      author: Norman
+      year: 1983
+      link: https://dl.acm.org/doi/pdf/10.1145/2163.358092
+    - title: Heuristic Evaluation of User Interfaces
+      author: Nielsen, Molich
+      year: 1990
+      link: https://dl.acm.org/doi/pdf/10.1145/97243.97281
+    - title: Towards Accessible Human-Computer Interaction
+      author: Bergman, Johnson
+      year: 1997
+      link: https://drive.google.com/file/d/1jg0OCuOfdadJDgWYkcNiSeeKG0GJ4VJC/view
+
+- title: The anatomy of a large-scale hypertextual Web search engine
+  author: Brin, Page
+  year: 1998
+  link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
+  related:
+    - title: A Statistical Interpretation of Term Specificity in Retrieval
+      author: Spärck Jones
+      year: 1972
+      link: http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf
+    - title: "The PageRank Citation Ranking: Bringing Order to the Web"
+      author: Page, Brin, Motwani
+      year: 1999
+      link: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
+    - title: "World-Wide Web: Information Universe"
+      author: Berners-Lee et al
+      year: 1992
+      link: https://www.w3.org/History/1992/ENRAP/Article_9202.pdf
+
 - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
   author: Brewer
   year: 2012
@@ -503,25 +507,6 @@
       author: Demers et al
       year: 1987
       link: http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf
-
-
-- title: The anatomy of a large-scale hypertextual Web search engine
-  author: Brin, Page
-  year: 1998
-  link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
-  related:
-    - title: A Statistical Interpretation of Term Specificity in Retrieval
-      author: Spärck Jones
-      year: 1972
-      link: http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf
-    - title: "The PageRank Citation Ranking: Bringing Order to the Web"
-      author: Page, Brin, Motwani
-      year: 1999
-      link: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
-    - title: "World-Wide Web: Information Universe"
-      author: Berners-Lee et al
-      year: 1992
-      link: https://www.w3.org/History/1992/ENRAP/Article_9202.pdf
 
 - title: Dynamo, Amazon’s Highly Available Key-value store
   author: DeCandia et al
@@ -578,6 +563,20 @@
       author: Mogul, Wilkes
       year: 2019
       link: https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf
+
+- title: "Thinking Methodically about Performance"
+  author: Gregg
+  year: 2012
+  link: https://queue.acm.org/detail.cfm?id=2413037
+  related:
+    - title: Thinking Clearly about Performance
+      author: Millsap
+      year: 2010
+      link: https://queue.acm.org/detail.cfm?id=1854041
+    - title: Performance Anti-Patterns
+      author: Smaalders
+      year: 2006
+      link: https://queue.acm.org/detail.cfm?id=1117403
 
 - title: Bitcoin, A peer-to-peer electronic cash system
   author: Nakomoto

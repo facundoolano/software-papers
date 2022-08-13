@@ -382,15 +382,15 @@
       year: 1999
       link: http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf
 
-- title: The Design Philosophy of the DARPA Internet Protocols
-  author: Clark
-  year: 1988
-  link: http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf
+- title: A Protocol for Packet Network Intercommunication
+  author: Cerf, Kahn
+  year: 1974
+  link: https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
   related:
-    - title: A Protocol for Packet Network Intercommunication
-      author: Cerf, Kahn
-      year: 1974
-      link: https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
+    - title: The Design Philosophy of the DARPA Internet Protocols
+      author: Clark
+      year: 1988
+      link: http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf
     - title: "Ethernet: Distributed packet switching for local computer networks"
       author: Metcalfe, Boggs
       year: 1978

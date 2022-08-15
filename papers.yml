@@ -60,11 +60,27 @@
       year: 1977
       link: https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf
 
-- title: On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem
-  author: Kruskal
-  year: 1956
-  link: http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf
+- title: Engineering a Sort Function
+  author: Bentley, McIlroy
+  year: 1993
+  link: https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf
   related:
+    - title: Quicksort
+      author: Hoare
+      year: 1962
+      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
+    - title: "Programming pearls: Algorithm design techniques"
+      author: Bentley
+      year: 1984
+      link: https://dl.acm.org/doi/pdf/10.1145/358234.381162
+    - title: "Programming pearls: The back of the envelope"
+      author: Bentley
+      year: 1984
+      link: https://dl.acm.org/doi/pdf/10.1145/357994.381168
+    - title: On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem
+      author: Kruskal
+      year: 1956
+      link: http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf
     - title: A Note on Two Problems in Connexion with Graphs
       author: Dijkstra
       year: 1959
@@ -89,20 +105,6 @@
       author: Driscoll et al
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/12130.12142
-
-- title: Engineering a Sort Function
-  author: Bentley, McIlroy
-  year: 1993
-  link: https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf
-  related:
-    - title: Quicksort
-      author: Hoare
-      year: 1962
-      link: https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf
-    - title: "Programming pearls: algorithm design techniques"
-      author: Bentley
-      year: 1984
-      link: https://dl.acm.org/doi/pdf/10.1145/358234.381162
 
 - title: Computer Programming as an Art
   author: Knuth
@@ -212,11 +214,15 @@
       year: 2006
       link: https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet
 
-- title: The Mythical Man Month
+- title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks
-  year: 1975
-  link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf
+  year: 1987
+  link: http://www.cs.unc.edu/techreports/86-020.pdf
   related:
+    - title: The Mythical Man Month
+      author: Brooks
+      year: 1975
+      link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf
     - title: How do committees invent?
       author: Conway
       year: 1968
@@ -233,12 +239,6 @@
       author: Gabriel
       year: 1991
       link: https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf
-
-- title: "No Silver Bullet: Essence and Accidents of Software Engineering"
-  author: Brooks
-  year: 1987
-  link: http://www.cs.unc.edu/techreports/86-020.pdf
-  related:
     - title: On Building Systems That Will Fail
       author: Corbató
       year: 1991
@@ -391,6 +391,10 @@
   year: 1978
   link: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
   related:
+    - title: Crash Recovery in a Distributed Data Storage System
+      author: Lampson, Sturigs
+      year: 1979
+      link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-21.pdf
     - title: The Byzantine Generals Problem
       author: Lamport, Shostak, Pease
       year: 1982
@@ -403,12 +407,10 @@
       author: Dijkstra
       year: 1974
       link: https://dl.acm.org/doi/pdf/10.1145/361179.361202
-
-- title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
-  author: Schneider
-  year: 1990
-  link: https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
-  related:
+    - title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
+      author: Schneider
+      year: 1990
+      link: https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
     - title: How to Build a Highly Available System Using Consensus
       author: Lampson
       year: 1996
@@ -533,6 +535,10 @@
       author: Hunt et al
       year: 2010
       link: https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf
+    - title: The Hadoop Distributed File System
+      author: Shvachko et al
+      year: 2010
+      link: https://storageconference.us/2010/Papers/MSST/Shvachko.pdf
     - title: "Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases"
       author: Verbitski et al
       year: 2017

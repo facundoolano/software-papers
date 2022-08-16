@@ -213,6 +213,10 @@
       author: Turner
       year: 2006
       link: https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet
+    - title: The Semantics of Predicate Logic as a Programming Language
+      author: Van Emden, Kowalski
+      year: 1976
+      link: https://dl.acm.org/doi/pdf/10.1145/321978.321991
 
 - title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks

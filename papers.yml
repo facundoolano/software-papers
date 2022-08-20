@@ -218,6 +218,48 @@
       year: 1976
       link: https://dl.acm.org/doi/pdf/10.1145/321978.321991
 
+- title: An Incremental Approach to Compiler Construction
+  author: Ghuloum
+  year: 2006
+  link: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+  related:
+    - title: "Programming pearls: little languages"
+      author: Bentley
+      year: 1986
+      link: https://dl.acm.org/doi/pdf/10.1145/6424.315691
+    - title: "MetaII: A Syntax Oriented Compiler Writing Language"
+      author: Schorrem
+      year: 1964
+      link: https://dl.acm.org/doi/pdf/10.1145/800257.808896
+    - title: A Nanopass Framework for Compiler Education
+      author: Sarkar, Waddell, Dybvig
+      year: 2005
+      link: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.5578&rep=rep1&type=pdf
+    - title: "LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation"
+      author: Lattner, Adve
+      year: 2004
+      link: https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf
+    - title: Bringing the Web up to Speed with WebAssembly
+      year: 2017
+      author: Haas
+      link: https://dl.acm.org/doi/pdf/10.1145/3062341.3062363
+    - title: A Brief History of Just-In-Time
+      author: Aycock
+      year: 2003
+      link: http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf
+    - title: The Essence of Compiling with Continuations
+      author: Flanagan et al
+      year: 1993
+      link: https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
+    - title: A Micro-Manual for LISP - Not the whole truth
+      author: McCarthy
+      year: 1978
+      link: https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf
+    - title: The Next 700 Programming Languages
+      author: Landin
+      year: 1966
+      link: https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf
+
 - title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks
   year: 1987

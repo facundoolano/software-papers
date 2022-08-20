@@ -60,6 +60,16 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
     * Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
+1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
+    * MetaII: A Syntax Oriented Compiler Writing Language. [Schorrem (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896).
+    * The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
+    * A Micro-Manual for LISP - Not the whole truth. [McCarthy (1978)](https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf).
+    * Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
+    * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf).
+    * A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
+    * LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
+    * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.5578&rep=rep1&type=pdf).
+    * Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
@@ -166,6 +176,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Design Methodology for Reliable Software Systems**. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
+1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
 1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 1. **The UNIX Time- Sharing System**. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).
@@ -203,10 +214,12 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
 1. Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/).
+1. MetaII: A Syntax Oriented Compiler Writing Language. [Schorrem (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896).
 1. Programming Considered as a Human Activity. [Dijkstra (1965)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html).
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
 1. Some Thoughts About the Social Implications of Accessible Computing. [David, Fano (1965)](https://dl.acm.org/doi/pdf/10.1145/1463891.1463917).
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
+1. The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
 1. Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
 1. How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
@@ -238,6 +251,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Smalltalk-76 Programming System Design and Implementation. [Ingalls (1978)](https://dl.acm.org/doi/pdf/10.1145/512760.512762).
 1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
 1. Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
+1. A Micro-Manual for LISP - Not the whole truth. [McCarthy (1978)](https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf).
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
@@ -272,6 +286,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
+1. Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
 1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dl.acm.org/doi/pdf/10.1145/16856.16888).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
 1. Epidemic Algorithms for Replicated Database Maintenance. [Demers et al (1987)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf).
@@ -288,6 +303,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
 1. World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
+1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf).
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
 1. How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf).
 1. The Dangers of Replication. [Gray et al (1996)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/replication.pdf).
@@ -304,11 +320,15 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
 1. K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf).
 1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
+1. A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
 1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf).
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
+1. LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
 1. TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
 1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).
+1. A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.5578&rep=rep1&type=pdf).
 1. Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
+1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
 1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
@@ -327,6 +347,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 1. Life Beyond Distributed Transactions: An apostate's opinion. [Helland (2016)](https://queue.acm.org/detail.cfm?id=3025012).
+1. Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 1. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf).
 1. Nines are Not Enough: Meaningful Metrics for Clouds. [Mogul, Wilkes (2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf).
 
@@ -344,6 +365,7 @@ This list was inspired by (and draws from) several books and paper collections:
 * [Readings in Database Systems (the Red Book)](http://www.redbook.io/)
 * [Fermat's Library](https://fermatslibrary.com/journal_club)
 * [Classics in Human-Computer Interaction](https://medium.com/@aschugart/classics-in-hci-research-papers-critical-to-the-field-of-human-computer-interaction-1344039334a5)
+* [Awesome Compilers](https://github.com/aalhour/awesome-compilers#papers)
 
 ## Meta reads
 

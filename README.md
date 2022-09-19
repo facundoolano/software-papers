@@ -112,13 +112,12 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
     * Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
-    * Crash Recovery in a Distributed Data Storage System. [Lampson, Sturigs (1979)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-21.pdf).
     * The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
     * Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
-    * Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
-    * How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf).
     * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
-    * In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
+1. **In Search of an Understandable Consensus Algorithm**. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
+    * Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
+    * Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
     * As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
     * Man-Computer symbiosis. [Licklider (1958)](http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf).
@@ -184,6 +183,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Protocol for Packet Network Intercommunication**. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
+1. **In Search of an Understandable Consensus Algorithm**. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
 1. **CAP Twelve Years Later: How the "Rules" Have Changed**. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
@@ -262,7 +262,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
 1. A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
-1. Crash Recovery in a Distributed Data Storage System. [Lampson, Sturigs (1979)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-21.pdf).
 1. Protocols for Public Key Cryptosystems. [Merkle (1980)](http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf).
 1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
@@ -305,7 +304,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
 1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf).
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
-1. How to Build a Highly Available System Using Consensus. [Lampson (1996)](https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf).
 1. The Dangers of Replication. [Gray et al (1996)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/replication.pdf).
 1. The Development of Erlang. [Joe Armstrong (1997)](https://dl.acm.org/doi/pdf/10.1145/258948.258967).
 1. Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
@@ -313,6 +311,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
 1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
+1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf).
 1. Harvest, Yield, and Scalable Tolerant Systems. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf).
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
@@ -344,7 +343,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **CAP Twelve Years Later: How the "Rules" Have Changed**. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
-1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
+1. **In Search of an Understandable Consensus Algorithm**. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 1. Life Beyond Distributed Transactions: An apostate's opinion. [Helland (2016)](https://queue.acm.org/detail.cfm?id=3025012).
 1. Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).

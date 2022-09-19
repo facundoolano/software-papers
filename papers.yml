@@ -437,10 +437,6 @@
   year: 1978
   link: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
   related:
-    - title: Crash Recovery in a Distributed Data Storage System
-      author: Lampson, Sturigs
-      year: 1979
-      link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-21.pdf
     - title: The Byzantine Generals Problem
       author: Lamport, Shostak, Pease
       year: 1982
@@ -453,22 +449,24 @@
       author: Dijkstra
       year: 1974
       link: https://dl.acm.org/doi/pdf/10.1145/361179.361202
-    - title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
-      author: Schneider
-      year: 1990
-      link: https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
-    - title: How to Build a Highly Available System Using Consensus
-      author: Lampson
-      year: 1996
-      link: https://www.microsoft.com/en-us/research/uploads/prod/1996/10/Acrobat-58-Copy.pdf
     - title: Paxos made simple
       author: Lamport
       year: 2001
       link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
-    - title: In Search of an Understandable Consensus Algorithm
-      author: Ongaro, Ousterhout
-      year: 2014
-      link: https://raft.github.io/raft.pdf
+
+- title: In Search of an Understandable Consensus Algorithm
+  author: Ongaro, Ousterhout
+  year: 2014
+  link: https://raft.github.io/raft.pdf
+  related:
+    - title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
+      author: Schneider
+      year: 1990
+      link: https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf
+    - title: Practical Byzantine Fault Tolerance
+      author: Castro, Liskov
+      year: 1999
+      link: https://pmg.csail.mit.edu/papers/osdi99.pdf
 
 - title: "Designing for Usability: Key Principles and What Designers Think"
   author: Gould, Lewis

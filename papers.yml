@@ -453,12 +453,10 @@
       author: Lamport
       year: 2001
       link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
-
-- title: In Search of an Understandable Consensus Algorithm
-  author: Ongaro, Ousterhout
-  year: 2014
-  link: https://raft.github.io/raft.pdf
-  related:
+    - title: In Search of an Understandable Consensus Algorithm
+      author: Ongaro, Ousterhout
+      year: 2014
+      link: https://raft.github.io/raft.pdf
     - title: "Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial"
       author: Schneider
       year: 1990

@@ -114,10 +114,10 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
     * The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
     * Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
-    * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
-1. **In Search of an Understandable Consensus Algorithm**. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
     * Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
     * Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
+    * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
+    * In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
     * As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
     * Man-Computer symbiosis. [Licklider (1958)](http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf).
@@ -183,7 +183,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Protocol for Packet Network Intercommunication**. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
-1. **In Search of an Understandable Consensus Algorithm**. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
 1. **CAP Twelve Years Later: How the "Rules" Have Changed**. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
@@ -343,7 +342,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **CAP Twelve Years Later: How the "Rules" Have Changed**. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
-1. **In Search of an Understandable Consensus Algorithm**. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
+1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 1. Life Beyond Distributed Transactions: An apostate's opinion. [Helland (2016)](https://queue.acm.org/detail.cfm?id=3025012).
 1. Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).

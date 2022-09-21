@@ -65,7 +65,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
     * A Micro-Manual for LISP - Not the whole truth. [McCarthy (1978)](https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf).
     * Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
-    * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf).
+    * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
     * A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
     * LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
     * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.5578&rep=rep1&type=pdf).
@@ -302,7 +302,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
 1. World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
-1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf).
+1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
 1. The Dangers of Replication. [Gray et al (1996)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/replication.pdf).
 1. The Development of Erlang. [Joe Armstrong (1997)](https://dl.acm.org/doi/pdf/10.1145/258948.258967).

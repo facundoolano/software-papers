@@ -250,7 +250,7 @@
     - title: The Essence of Compiling with Continuations
       author: Flanagan et al
       year: 1993
-      link: https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/173262.155113
     - title: A Micro-Manual for LISP - Not the whole truth
       author: McCarthy
       year: 1978

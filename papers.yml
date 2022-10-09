@@ -55,6 +55,10 @@
   year: 1952
   link: https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf
   related:
+    - title: Fifty Years of Shannon Theory
+      author: Verdú
+      year: 1998
+      link: https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf
     - title: A Universal Algorithm for Sequential Data Compression
       author: Ziv, Lempel
       year: 1977

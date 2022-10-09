@@ -115,6 +115,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
     * Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
     * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
+    * Paxos made live - An Engineering Perspective. [Chandra, Griesemer, Redstone (2007)](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf).
     * In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
     * As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
@@ -325,6 +326,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
 1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
 1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
+1. Paxos made live - An Engineering Perspective. [Chandra, Griesemer, Redstone (2007)](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf).
 1. **Dynamo, Amazon’s Highly Available Key-value store**. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
 1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakomoto (2008)](https://bitcoin.org/bitcoin.pdf).

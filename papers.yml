@@ -445,6 +445,10 @@
       author: Lamport
       year: 2001
       link: https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+    - title: "Paxos made live - An Engineering Perspective"
+      author: Chandra, Griesemer, Redstone
+      year: 2007
+      link: https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf
     - title: In Search of an Understandable Consensus Algorithm
       author: Ongaro, Ousterhout
       year: 2014

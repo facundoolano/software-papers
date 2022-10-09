@@ -28,8 +28,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
     * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
-    * Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf).
-    * Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
     * The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
     * Programming pearls: The back of the envelope. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/357994.381168).
@@ -45,7 +43,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
     * The Modular Structure of Complex Systems. [Parnas, Clements, Weiss (1984)](https://dl.acm.org/doi/pdf/10.5555/800054.801999).
     * Toward higher-level abstractions for software systems. [Shaw (1990)](http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf).
-    * Foundations for the Study of Software Architecture. [Perry, Wolf (1992)](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf).
     * Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
     * The Smalltalk-76 Programming System Design and Implementation. [Ingalls (1978)](https://dl.acm.org/doi/pdf/10.1145/512760.512762).
@@ -125,7 +122,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).
     * The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
     * Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
-    * Design Rules Based on Analyses of Human Error. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/2163.358092).
     * Heuristic Evaluation of User Interfaces. [Nielsen, Molich (1990)](https://dl.acm.org/doi/pdf/10.1145/97243.97281).
     * Towards Accessible Human-Computer Interaction. [Bergman, Johnson (1997)](https://drive.google.com/file/d/1jg0OCuOfdadJDgWYkcNiSeeKG0GJ4VJC/view).
 1. **The anatomy of a large-scale hypertextual Web search engine**. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).
@@ -232,7 +228,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Design Methodology for Reliable Software Systems**. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
 1. Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
 1. A Statistical Interpretation of Term Specificity in Retrieval. [Spärck Jones (1972)](http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf).
-1. Ordered hash tables. [Amble, Knuth (1974)](https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf).
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
 1. Monitors: An operating system structuring concept. [Hoare (1974)](https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf).
@@ -241,7 +236,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
 1. The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
 1. Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
-1. Big Omicron and big Omega and big Theta. [Knuth (1976)](https://dl.acm.org/doi/pdf/10.1145/1008328.1008329).
 1. The Semantics of Predicate Logic as a Programming Language. [Van Emden, Kowalski (1976)](https://dl.acm.org/doi/pdf/10.1145/321978.321991).
 1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 1. System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
@@ -269,7 +263,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
 1. The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
 1. Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
-1. Design Rules Based on Analyses of Human Error. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/2163.358092).
 1. Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
 1. A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
 1. Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
@@ -297,7 +290,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Lisp: Good news, bad news, how to win big. [Gabriel (1991)](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf).
 1. On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
 1. The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf).
-1. Foundations for the Study of Software Architecture. [Perry, Wolf (1992)](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf).
 1. The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
 1. World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).

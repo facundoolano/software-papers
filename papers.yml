@@ -85,18 +85,10 @@
       author: Dijkstra
       year: 1959
       link: http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf
-    - title: Big Omicron and big Omega and big Theta
-      author: Knuth
-      year: 1976
-      link: https://dl.acm.org/doi/pdf/10.1145/1008328.1008329
     - title: The Ubiquitous B-Tree
       author: Comer
       year: 1979
       link: http://carlosproal.com/ir/papers/p121-comer.pdf
-    - title: Ordered hash tables
-      author: Amble, Knuth
-      year: 1974
-      link: https://academic.oup.com/comjnl/article-pdf/17/2/135/1405739/170135.pdf
     - title: Space/Time Trade-offs in Hash Coding with Allowable Errors
       author: Bloom
       year: 1970
@@ -157,10 +149,6 @@
       author: Shaw
       year: 1990
       link: http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf
-    - title: Foundations for the Study of Software Architecture
-      author: Perry, Wolf
-      year: 1992
-      link: http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf
 
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles
@@ -495,10 +483,6 @@
       author: Norman
       year: 1983
       link: https://dl.acm.org/doi/pdf/10.1145/800045.801571
-    - title: Design Rules Based on Analyses of Human Error
-      author: Norman
-      year: 1983
-      link: https://dl.acm.org/doi/pdf/10.1145/2163.358092
     - title: Heuristic Evaluation of User Interfaces
       author: Nielsen, Molich
       year: 1990

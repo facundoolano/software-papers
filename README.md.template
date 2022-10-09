@@ -65,12 +65,11 @@ A few interesting resources about reading papers from Papers We Love and elsewhe
 3. They should be self-contained and readable enough to be approachable by the casual technical reader.
 4. They should be freely available online.
 5. Although historical relevance was taken into account, I omitted seminal papers in the cases where I found them hard to approach, when the main subject of the paper wasn't the thing that made them influential, etc.
-   - That being said, where possible I preferred the original paper on each subject over modern updates or summary papers.
+   - Examples of this are classic works by Von Neumann, Turing and Shannon.
+   - That being said, where possible I preferred the original paper on each subject over modern updates or survey papers.
 6. I tended to prefer topics that I can relate to my professional practice, typically papers originated in the industry
 or about innovations that later saw wide adoption.
    - Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
    - Machine Learning is mostly missing because I'm not familiar enough with the area to find relevant, non overly specific papers. Suggestions are welcome.
+7. I sorted the list by a mix of relatedness of topics and a vague chronological relevance, such that it makes sense to read it in the suggested order. For example, historical and seminal topics go first, contemporary internet-era developments last, networking precedes distributed systems, etc.
    
-Disclaimer: I'm not a frequent paper reader, so I made this list as a sort of roadmap for myself. I haven't read all of the papers in the list yet; as I do, I may find than some don't meet the described criteria after all and remove them, or decide to add new ones.
-
-And, yes, this repository is a way to procrastinate on the actual reading after I finished making the list.

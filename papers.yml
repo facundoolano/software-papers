@@ -411,18 +411,10 @@
       author: Shamir
       year: 1979
       link: https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf
-    - title: A Certified Digital Signature
+    - title: A Digital Signature Based on a Conventional Encryption Function
       author: Merkle
-      year: 1979
-      link: https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf
-    - title: Protocols for Public Key Cryptosystems
-      author: Merkle
-      year: 1980
-      link: http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf
-    - title: "K-Anonymity: A Model For Protecting Privacy"
-      author: Sweeney
-      year: 2002
-      link: https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf
+      year: 1987
+      link: https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf
 
 - title: Time, Clocks, and the Ordering of Events in a Distributed System
   author: Lamport

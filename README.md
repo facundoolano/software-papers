@@ -105,9 +105,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).
     * A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
     * How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
-    * A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
-    * Protocols for Public Key Cryptosystems. [Merkle (1980)](http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf).
-    * K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf).
+    * A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System**. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).
     * Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
     * The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
@@ -256,8 +254,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
-1. A Certified Digital Signature. [Merkle (1979)](https://link.springer.com/content/pdf/10.1007/0-387-34805-0_21.pdf).
-1. Protocols for Public Key Cryptosystems. [Merkle (1980)](http://diyhpl.us/~bryan/papers2/bitcoin/Protocols%20for%20public-key%20cryptosystems.pdf).
 1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
@@ -282,6 +278,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
 1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dl.acm.org/doi/pdf/10.1145/16856.16888).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
+1. A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 1. Epidemic Algorithms for Replicated Database Maintenance. [Demers et al (1987)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf).
 1. The Design Philosophy of the DARPA Internet Protocols. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
 1. Toward higher-level abstractions for software systems. [Shaw (1990)](http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf).
@@ -311,7 +308,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
 1. How Complex Systems Fail. [Cook (2000)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf).
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
-1. K-Anonymity: A Model For Protecting Privacy. [Sweeney (2002)](https://epic.org/wp-content/uploads/privacy/reidentification/Sweeney_Article.pdf).
 1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
 1. A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
 1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf).

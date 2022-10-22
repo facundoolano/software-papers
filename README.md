@@ -66,7 +66,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
     * A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
     * LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
-    * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.5578&rep=rep1&type=pdf).
+    * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
     * Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
@@ -315,7 +315,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
 1. TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
 1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).
-1. A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.5578&rep=rep1&type=pdf).
+1. A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
 1. Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
 1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).

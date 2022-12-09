@@ -243,10 +243,6 @@
       author: Flanagan et al
       year: 1993
       link: https://dl.acm.org/doi/pdf/10.1145/173262.155113
-    - title: A Micro-Manual for LISP - Not the whole truth
-      author: McCarthy
-      year: 1978
-      link: https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf
     - title: The Next 700 Programming Languages
       author: Landin
       year: 1966
@@ -273,10 +269,6 @@
       author: Raymond
       year: 1998
       link: http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf
-    - title: "Lisp: Good news, bad news, how to win big"
-      author: Gabriel
-      year: 1991
-      link: https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf
     - title: On Building Systems That Will Fail
       author: Corbató
       year: 1991

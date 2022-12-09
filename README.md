@@ -61,7 +61,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
     * MetaII: A Syntax Oriented Compiler Writing Language. [Schorrem (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896).
     * The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
-    * A Micro-Manual for LISP - Not the whole truth. [McCarthy (1978)](https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf).
     * Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
     * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
     * A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
@@ -72,7 +71,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
     * The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
-    * Lisp: Good news, bad news, how to win big. [Gabriel (1991)](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf).
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
     * The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
@@ -244,7 +242,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Smalltalk-76 Programming System Design and Implementation. [Ingalls (1978)](https://dl.acm.org/doi/pdf/10.1145/512760.512762).
 1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
 1. Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
-1. A Micro-Manual for LISP - Not the whole truth. [McCarthy (1978)](https://raw.githubusercontent.com/jaseemabid/micromanual/master/Micro%20Manual.pdf).
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
@@ -286,7 +283,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
 1. Heuristic Evaluation of User Interfaces. [Nielsen, Molich (1990)](https://dl.acm.org/doi/pdf/10.1145/97243.97281).
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
-1. Lisp: Good news, bad news, how to win big. [Gabriel (1991)](https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf).
 1. On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
 1. The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf).
 1. The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).

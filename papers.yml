@@ -145,14 +145,6 @@
       author: Parnas
       year: 1979
       link: https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf
-    - title: The Modular Structure of Complex Systems
-      author: Parnas, Clements, Weiss
-      year: 1984
-      link: https://dl.acm.org/doi/pdf/10.5555/800054.801999
-    - title: Toward higher-level abstractions for software systems
-      author: Shaw
-      year: 1990
-      link: http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf
 
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles

@@ -559,10 +559,6 @@
   year: 2007
   link: https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf
   related:
-    - title: Ironies of automation
-      author: Bainbridge
-      year: 1983
-      link: https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf
     - title: "Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies"
       author: Patterson et al
       year: 2002
@@ -571,10 +567,6 @@
       author: Candea, Fox
       year: 2003
       link: https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf
-    - title: How Complex Systems Fail
-      author: Cook
-      year: 2000
-      link: https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf
     - title: "Nines are Not Enough: Meaningful Metrics for Clouds"
       author: Mogul, Wilkes
       year: 2019

@@ -139,8 +139,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
     * Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
-    * Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
-    * How Complex Systems Fail. [Cook (2000)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf).
     * Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
     * Nines are Not Enough: Meaningful Metrics for Clouds. [Mogul, Wilkes (2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf).
@@ -256,7 +254,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
 1. The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
 1. Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
-1. Ironies of automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
 1. A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
 1. Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
 1. Programming pearls: The back of the envelope. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/357994.381168).
@@ -298,7 +295,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1999)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf).
 1. Harvest, Yield, and Scalable Tolerant Systems. [Fox, Brewer (1999)](https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf).
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
-1. How Complex Systems Fail. [Cook (2000)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf).
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
 1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
 1. A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).

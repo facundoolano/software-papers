@@ -35,7 +35,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. **Computer Programming as an Art**. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
     * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
-    * The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
     * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
     * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
 1. **A Design Methodology for Reliable Software Systems**. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).
@@ -247,7 +246,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
 1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
-1. The Emperor’s Old Clothes. [Hoare (1981)](https://dl.acm.org/doi/pdf/10.1145/358549.358561).
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
 1. Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).

@@ -107,10 +107,6 @@
   year: 1974
   link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
   related:
-    - title: The Emperor’s Old Clothes
-      author: Hoare
-      year: 1981
-      link: https://dl.acm.org/doi/pdf/10.1145/358549.358561
     - title: Literate Programming
       author: Knuth
       year: 1984

@@ -25,7 +25,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
     * Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).
 1. **Engineering a Sort Function**. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
-    * On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
+    * On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
     * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
@@ -193,7 +193,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Computing Machinery and Intelligence**. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).
 1. The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
 1. **A Method for the Construction of Minimum-Redundancy Codes**. [Huffman (1952)](https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf).
-1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](http://5010.mathed.usu.edu/Fall2018/THigham/Krukskal.pdf).
+1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).
 1. Man-Computer symbiosis. [Licklider (1958)](http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf).
 1. A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf).
 1. Recursive Programming. [Dijkstra (1960)](https://www.ics.uci.edu/~jajones/INF102-S18/readings/07_dijkstra.pdf).

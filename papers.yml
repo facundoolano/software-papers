@@ -459,14 +459,6 @@
       author: Norman
       year: 1983
       link: https://dl.acm.org/doi/pdf/10.1145/800045.801571
-    - title: Heuristic Evaluation of User Interfaces
-      author: Nielsen, Molich
-      year: 1990
-      link: https://dl.acm.org/doi/pdf/10.1145/97243.97281
-    - title: Towards Accessible Human-Computer Interaction
-      author: Bergman, Johnson
-      year: 1997
-      link: https://drive.google.com/file/d/1jg0OCuOfdadJDgWYkcNiSeeKG0GJ4VJC/view
 
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page

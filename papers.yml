@@ -207,10 +207,6 @@
       author: Bentley
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/6424.315691
-    - title: "MetaII: A Syntax Oriented Compiler Writing Language"
-      author: Schorrem
-      year: 1964
-      link: https://dl.acm.org/doi/pdf/10.1145/800257.808896
     - title: A Nanopass Framework for Compiler Education
       author: Sarkar, Waddell, Dybvig
       year: 2005

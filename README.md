@@ -56,7 +56,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
     * Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
 1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
-    * MetaII: A Syntax Oriented Compiler Writing Language. [Schorrem (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896).
     * The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
     * Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
     * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
@@ -197,7 +196,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
 1. Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/).
-1. MetaII: A Syntax Oriented Compiler Writing Language. [Schorrem (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896).
 1. Programming Considered as a Human Activity. [Dijkstra (1965)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html).
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
 1. Some Thoughts About the Social Implications of Accessible Computing. [David, Fano (1965)](https://dl.acm.org/doi/pdf/10.1145/1463891.1463917).

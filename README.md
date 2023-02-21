@@ -63,7 +63,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
     * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
     * Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
-1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
+1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).
     * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
     * The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
@@ -158,7 +158,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Programming with Abstract Data Types**. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
 1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
-1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
+1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).
 1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 1. **The UNIX Time- Sharing System**. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
@@ -257,7 +257,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
 1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dl.acm.org/doi/pdf/10.1145/16856.16888).
-1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://www.cs.unc.edu/techreports/86-020.pdf).
+1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).
 1. A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 1. The Design Philosophy of the DARPA Internet Protocols. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
@@ -342,7 +342,7 @@ A few interesting resources about reading papers from Papers We Love and elsewhe
 
 1. The list should stay short. Let's say no more than 30 papers.
    - The idea is not to include every interesting paper that I come across but rather to keep a representative list that's possible to read from start to finish with a similar level of effort as reading a technical book from cover to cover.
-   - I tried to include one paper per each major topic and author. Since in the process I found a lot of noteworthy alternatives, related or follow-up papers and I wanted to keep track of those as well, I included them as sublist items (some of these sublists are currently longer than they should).
+   - I tried to include one paper per each major topic and author. Since in the process I found a lot of noteworthy alternatives, related or follow-up papers and I wanted to keep track of those as well, I included them as sublist items.
 2. The papers shouldn't be too long. For the same reasons as the previous item, I try to avoid papers longer than 20 or 30 pages.
 3. They should be self-contained and readable enough to be approachable by the casual technical reader.
 4. They should be freely available online.

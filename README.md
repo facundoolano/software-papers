@@ -132,7 +132,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
-    * Nines are Not Enough: Meaningful Metrics for Clouds. [Mogul, Wilkes (2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
     * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
     * Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
@@ -308,7 +307,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 1. Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 1. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf).
-1. Nines are Not Enough: Meaningful Metrics for Clouds. [Mogul, Wilkes (2019)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf).
 
 
 </details>

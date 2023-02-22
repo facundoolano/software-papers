@@ -529,10 +529,6 @@
       author: Candea, Fox
       year: 2003
       link: https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf
-    - title: "Nines are Not Enough: Meaningful Metrics for Clouds"
-      author: Mogul, Wilkes
-      year: 2019
-      link: https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf
 
 - title: "Thinking Methodically about Performance"
   author: Gregg

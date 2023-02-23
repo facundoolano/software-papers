@@ -27,6 +27,14 @@
       author: Floyd
       year: 1979
       link: https://dl.acm.org/doi/pdf/10.1145/1283920.1283934
+    - title: Computer Programming as an Art
+      author: Knuth
+      year: 1974
+      link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
+    - title: Literate Programming
+      author: Knuth
+      year: 1984
+      link: http://www.literateprogramming.com/knuthweb.pdf
 
 - title: Computing Machinery and Intelligence
   author: Turing
@@ -102,24 +110,6 @@
       year: 1986
       link: https://dl.acm.org/doi/pdf/10.1145/12130.12142
 
-- title: Computer Programming as an Art
-  author: Knuth
-  year: 1974
-  link: http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf
-  related:
-    - title: Literate Programming
-      author: Knuth
-      year: 1984
-      link: http://www.literateprogramming.com/knuthweb.pdf
-    - title: Programming as Theory Building
-      author: Naur
-      year: 1985
-      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
-    - title: The Humble Programmer
-      author: Dijkstra
-      year: 1972
-      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
-
 - title: A Design Methodology for Reliable Software Systems
   author: Liskov
   year: 1972
@@ -141,6 +131,14 @@
       author: Parnas
       year: 1979
       link: https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf
+    - title: Programming as Theory Building
+      author: Naur
+      year: 1985
+      link: https://pages.cs.wisc.edu/~remzi/Naur.pdf
+    - title: Towards a Theory of Conceptual Design for Software
+      author: Jackson
+      year: 2015
+      link: https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf
 
 - title: Programming with Abstract Data Types
   author: Liskov, Zilles

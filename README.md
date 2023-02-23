@@ -50,7 +50,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
     * Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
     * The Semantics of Predicate Logic as a Programming Language. [Van Emden, Kowalski (1976)](https://dl.acm.org/doi/pdf/10.1145/321978.321991).
-    * Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
+    * Can Programming Be Liberated from the von Neumann Style? [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
     * The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
@@ -64,7 +64,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
     * Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).
-    * How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
+    * How do committees invent? [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
     * The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
@@ -131,7 +131,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
     * Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://web.stanford.edu/class/cs245/readings/aurora.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
-    * Why do computers stop and what can be done about it?. [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
+    * Why do computers stop and what can be done about it? [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
     * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
@@ -199,7 +199,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
 1. The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
 1. Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
-1. How do committees invent?. [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
+1. How do committees invent? [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
 1. **Von Neumann's First Computer Program**. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).
 1. Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
@@ -226,7 +226,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. The Smalltalk-76 Programming System Design and Implementation. [Ingalls (1978)](https://dl.acm.org/doi/pdf/10.1145/512760.512762).
 1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
-1. Can Programming Be Liberated from the von Neumann Style?. [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
+1. Can Programming Be Liberated from the von Neumann Style? [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
@@ -253,7 +253,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
 1. Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
 1. **Designing for Usability: Key Principles and What Designers Think**. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).
-1. Why do computers stop and what can be done about it?. [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
+1. Why do computers stop and what can be done about it? [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
 1. Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
 1. Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
 1. The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dl.acm.org/doi/pdf/10.1145/16856.16888).

@@ -10,7 +10,9 @@ import yaml
 def load_papers():
     def markdown(paper, bold=False):
         title = f'**{paper["title"]}**' if bold else paper['title']
-        return f'{title}. [{paper["author"]} ({paper["year"]})]({paper["link"]}).\n'
+        entry = f'{title}. [{paper["author"]} ({paper["year"]})]({paper["link"]}).\n'
+        # if the title ends with ? don't append a period
+        return entry.replace('?.', '?')
 
     with open('papers.yml') as file_:
         papers = yaml.safe_load(file_)

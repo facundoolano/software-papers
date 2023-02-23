@@ -525,6 +525,10 @@
   year: 2007
   link: https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf
   related:
+    - title: Why do computers stop and what can be done about it?
+      author: Gray
+      year: 1985
+      link: https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf
     - title: Crash-Only Software
       author: Candea, Fox
       year: 2003

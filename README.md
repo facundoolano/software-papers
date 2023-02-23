@@ -135,7 +135,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
     * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
     * Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
-1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakomoto (2008)](https://bitcoin.org/bitcoin.pdf).
+1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).
     * Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 
 
@@ -168,7 +168,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Dynamo, Amazon’s Highly Available Key-value store**. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
-1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakomoto (2008)](https://bitcoin.org/bitcoin.pdf).
+1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).
 
 
 </details>
@@ -294,7 +294,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Paxos made live - An Engineering Perspective. [Chandra, Griesemer, Redstone (2007)](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf).
 1. **Dynamo, Amazon’s Highly Available Key-value store**. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
-1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakomoto (2008)](https://bitcoin.org/bitcoin.pdf).
+1. **Bitcoin, A peer-to-peer electronic cash system**. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).
 1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).

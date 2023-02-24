@@ -70,7 +70,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
     * The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
-1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
+1. **Communicating sequential processes**. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
     * Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
     * Monitors: An operating system structuring concept. [Hoare (1974)](https://dl.acm.org/doi/pdf/10.1145/355620.361161).
     * On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
@@ -156,7 +156,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
 1. **An Incremental Approach to Compiler Construction**. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
 1. **No Silver Bullet: Essence and Accidents of Software Engineering**. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).
-1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
+1. **Communicating sequential processes**. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 1. **The UNIX Time- Sharing System**. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
 1. **A Protocol for Packet Network Intercommunication**. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).
@@ -217,13 +217,13 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
 1. Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
 1. The Semantics of Predicate Logic as a Programming Language. [Van Emden, Kowalski (1976)](https://dl.acm.org/doi/pdf/10.1145/321978.321991).
-1. **Communicating sequential processes**. [Hoare (1976)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 1. System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).
 1. A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
 1. The Smalltalk-76 Programming System Design and Implementation. [Ingalls (1978)](https://dl.acm.org/doi/pdf/10.1145/512760.512762).
 1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
 1. Can Programming Be Liberated from the von Neumann Style? [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
+1. **Communicating sequential processes**. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).

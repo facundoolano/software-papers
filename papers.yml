@@ -276,7 +276,7 @@
     - title: "Monitors: An operating system structuring concept"
       author: Hoare
       year: 1974
-      link: https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/355620.361161
     - title: Software Transactional Memory
       author: Shavit, Touitou
       year: 1997

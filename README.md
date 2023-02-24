@@ -74,7 +74,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
     * Monitors: An operating system structuring concept. [Hoare (1974)](https://www.cs.ubc.ca/~norm/508/2009W1/summaries/monitors.pdf).
     * On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
-    * ERLANG - an experimental telephony programming language. [Armstrong, Virding (1990)](https://citeseerx.ist.psu.edu/pdf/793d88b97d969af7b4cc2e2c7c05275f0de3ad78).
     * Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
 1. **The UNIX Time- Sharing System**. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).
     * An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/).
@@ -259,7 +258,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 1. The Design Philosophy of the DARPA Internet Protocols. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
 1. **Why Functional Programming Matters**. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
-1. ERLANG - an experimental telephony programming language. [Armstrong, Virding (1990)](https://citeseerx.ist.psu.edu/pdf/793d88b97d969af7b4cc2e2c7c05275f0de3ad78).
 1. Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
 1. On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).

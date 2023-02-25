@@ -123,7 +123,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf).
     * MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).
     * Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf).
-    * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
     * ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
     * The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).
     * Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
@@ -132,6 +131,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **On Designing and Deploying Internet Scale Services**. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).
     * Why do computers stop and what can be done about it? [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
+    * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
 1. **Thinking Methodically about Performance**. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).
     * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
     * Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).

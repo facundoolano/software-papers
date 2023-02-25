@@ -493,10 +493,6 @@
       author: Brewer
       year: 2012
       link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf
-    - title: Building on Quicksand
-      author: Helland, Campbell
-      year: 2009
-      link: https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf
     - title: "Kafka: a Distributed Messaging System for Log Processing"
       author: Kreps, Narkhede, Rao
       year: 2011
@@ -527,6 +523,10 @@
       author: Candea, Fox
       year: 2003
       link: https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf
+    - title: Building on Quicksand
+      author: Helland, Campbell
+      year: 2009
+      link: https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf
 
 - title: "Thinking Methodically about Performance"
   author: Gregg

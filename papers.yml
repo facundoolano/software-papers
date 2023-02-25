@@ -316,7 +316,7 @@
     - title: Granularity of Locks and Degrees of Consistency in a Shared Data Base
       author: Gray et al
       year: 1975
-      link: https://www.alexdelis.eu/M149/gray.pdf
+      link: http://web.eecs.umich.edu/~jag/eecs584/papers/lock-granularity.pdf
     - title: "The Transaction Concept: Virtues and Limitations"
       author: Gray
       year: 1981

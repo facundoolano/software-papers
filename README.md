@@ -81,7 +81,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Reflections on Trusting Trust. [Thompson (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf).
     * The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks**. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).
-    * Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
+    * Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](http://web.eecs.umich.edu/~jag/eecs584/papers/lock-granularity.pdf).
     * System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
     * Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
     * The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
@@ -215,7 +215,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Protocol for Packet Network Intercommunication**. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).
 1. Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
 1. The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
-1. Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](https://www.alexdelis.eu/M149/gray.pdf).
+1. Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](http://web.eecs.umich.edu/~jag/eecs584/papers/lock-granularity.pdf).
 1. The Semantics of Predicate Logic as a Programming Language. [Van Emden, Kowalski (1976)](https://dl.acm.org/doi/pdf/10.1145/321978.321991).
 1. System R: Relational Approach to Database Management. [Astrahan et al. (1976)](https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF).
 1. **New Directions in Cryptography**. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).

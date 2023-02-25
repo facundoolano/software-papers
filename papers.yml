@@ -321,10 +321,6 @@
       author: Gray
       year: 1981
       link: https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf
-    - title: "System R: Relational Approach to Database Management"
-      author: Astrahan et al.
-      year: 1976
-      link: https://www.seas.upenn.edu/~zives/cis650/papers/System-R.PDF
     - title: The design of POSTGRES
       author: Stonebraker, Rowe
       year: 1986

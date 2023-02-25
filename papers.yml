@@ -461,8 +461,8 @@
       link: http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf
     - title: "The PageRank Citation Ranking: Bringing Order to the Web"
       author: Page, Brin, Motwani
-      year: 1999
-      link: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
+      year: 1998
+      link: http://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf
     - title: "World-Wide Web: Information Universe"
       author: Berners-Lee et al
       year: 1992

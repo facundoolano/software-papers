@@ -320,6 +320,7 @@ This list was inspired by (and draws from) several books and paper collections:
 * [Fermat's Library](https://fermatslibrary.com/journal_club)
 * [Classics in Human-Computer Interaction](https://medium.com/@aschugart/classics-in-hci-research-papers-critical-to-the-field-of-human-computer-interaction-1344039334a5)
 * [Awesome Compilers](https://github.com/aalhour/awesome-compilers#papers)
+* [Distributed Consensus Reading List](https://heidihoward.github.io/distributed-consensus-reading-list/)
 
 ## Meta reads
 

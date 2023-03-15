@@ -17,6 +17,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Programming Considered as a Human Activity. [Dijkstra (1965)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html).
     * Goto Statement Considered Harmful. [Dijkstra (1968)](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf).
     * Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
+    * The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
     * Computer Programming as an Art. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).
     * The paradigms of programming. [Floyd (1979)](https://dl.acm.org/doi/pdf/10.1145/1283920.1283934).
     * Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
@@ -185,6 +186,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     \
     <sub>Operations; Reliability; Fault-tolerance</sub>
     * Why do computers stop and what can be done about it? [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
+    * Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
     * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
 
@@ -267,6 +269,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).**
 1. Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
 1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
+1. The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
 1. **A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).**
 1. Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
 1. A Statistical Interpretation of Term Specificity in Retrieval. [Spärck Jones (1972)](http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf).
@@ -337,6 +340,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
+1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
 1. A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
 1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf).
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).

@@ -36,6 +36,10 @@
       author: Knuth
       year: 1984
       link: http://www.literateprogramming.com/knuthweb.pdf
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: Computing Machinery and Intelligence
   author: Turing
@@ -534,6 +538,10 @@
       author: Gray
       year: 1985
       link: https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf
+    - title: "Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies"
+      author: Patterson et al
+      year: 2002
+      link: http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf
     - title: Crash-Only Software
       author: Candea, Fox
       year: 2003

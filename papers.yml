@@ -2,6 +2,7 @@
   author: Knuth
   year: 1970
   link: https://dl.acm.org/doi/pdf/10.1145/356580.356581
+  topics: [Computer History, Early Programming]
   related:
     - title: The Education of a Computer
       author: Hopper
@@ -35,11 +36,16 @@
       author: Knuth
       year: 1984
       link: http://www.literateprogramming.com/knuthweb.pdf
+    - title: The Humble Programmer
+      author: Dijkstra
+      year: 1972
+      link: http://rkka21.ru/docs/turing-award/ed1972e.pdf
 
 - title: Computing Machinery and Intelligence
   author: Turing
   year: 1950
   link: https://www.csee.umbc.edu/courses/471/papers/turing.pdf
+  topics: [Early Artificial Intelligence]
   related:
     - title: ELIZA—a computer program for the study of natural language communication between man and machine
       author: Weizenbaum
@@ -62,6 +68,7 @@
   author: Huffman
   year: 1952
   link: https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf
+  topics: [Information Theory]
   related:
     - title: Fifty Years of Shannon Theory
       author: Verdú
@@ -76,6 +83,7 @@
   author: Bentley, McIlroy
   year: 1993
   link: https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf
+  topics: [Data Structures, Algorithms]
   related:
     - title: Quicksort
       author: Hoare
@@ -114,6 +122,7 @@
   author: Liskov
   year: 1972
   link: https://dl.acm.org/doi/pdf/10.1145/1479992.1480018
+  topics: [Software Design]
   related:
     - title: On the Criteria To Be Used in Decomposing Systems into Modules
       author: Parnas
@@ -144,6 +153,7 @@
   author: Liskov, Zilles
   year: 1974
   link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
+  topics: [Abstract Data Types, Object-Oriented Programming]
   related:
     - title: On understanding types, data abstraction, and polymorphism
       author: Cardelli, Wegner
@@ -166,6 +176,7 @@
   author: Hughes
   year: 1990
   link: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+  topics: [Functional Programming]
   related:
     - title: Can Programming Be Liberated from the von Neumann Style?
       author: Backus
@@ -200,6 +211,7 @@
   author: Ghuloum
   year: 2006
   link: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+  topics: [Language Design, Compilers]
   related:
     - title: "Programming pearls: little languages"
       author: Bentley
@@ -234,6 +246,7 @@
   author: Brooks
   year: 1987
   link: http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
+  topics: [Software Engineering, Project Management]
   related:
     - title: The Mythical Man Month
       author: Brooks
@@ -264,6 +277,7 @@
   author: Hoare
   year: 1978
   link: https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+  topics: [Concurrency]
   related:
     - title: Solution Of a Problem in Concurrent Program Control
       author: Dijkstra
@@ -286,6 +300,7 @@
   author: Ritchie, Thompson
   year: 1974
   link: https://dsf.berkeley.edu/cs262/unix.pdf
+  topics: [Operating Systems]
   related:
     - title: The Structure of the \"THE\"-Multiprogramming System
       author: Dijkstra
@@ -308,6 +323,7 @@
   author: Codd
   year: 1970
   link: https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
+  topics: [Databases]
   related:
     - title: Access Path Selection in a Relational Database Management System
       author: Selinger et al
@@ -334,6 +350,7 @@
   author: Cerf, Kahn
   year: 1974
   link: https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf
+  topics: [Networking]
   related:
     - title: The Design Philosophy of the DARPA Internet Protocols
       author: Clark
@@ -368,6 +385,7 @@
   author: Diffie, Hellman
   year: 1976
   link: https://ee.stanford.edu/~hellman/publications/24.pdf
+  topics: [Cryptography]
   related:
     - title: A Method for Obtaining Digital Signatures and Public-Key Cryptosystems
       author: Rivest, Shamir, Adleman
@@ -386,6 +404,7 @@
   author: Lamport
   year: 1978
   link: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
+  topics: [Distributed Systems]
   related:
     - title: The Byzantine Generals Problem
       author: Lamport, Shostak, Pease
@@ -424,6 +443,7 @@
   author: Gould, Lewis
   year: 1985
   link: https://dl.acm.org/doi/pdf/10.1145/3166.3170
+  topics: [Human-Computer Interaction, User Interfaces]
   related:
     - title: As We May Think
       author: Bush
@@ -454,6 +474,7 @@
   author: Brin, Page
   year: 1998
   link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
+  topics: [Information Retrieval, World-Wide Web]
   related:
     - title: A Statistical Interpretation of Term Specificity in Retrieval
       author: Spärck Jones
@@ -472,6 +493,7 @@
   author: DeCandia et al
   year: 2007
   link: https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+  topics: [Internet Scale Data Systems]
   related:
     - title: The Google File System
       author: Ghemawat, Gobioff, Leung
@@ -510,11 +532,16 @@
   author: Hamilton
   year: 2007
   link: https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf
+  topics: [Operations, Reliability, Fault-tolerance]
   related:
     - title: Why do computers stop and what can be done about it?
       author: Gray
       year: 1985
       link: https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf
+    - title: "Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies"
+      author: Patterson et al
+      year: 2002
+      link: http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf
     - title: Crash-Only Software
       author: Candea, Fox
       year: 2003
@@ -528,6 +555,7 @@
   author: Gregg
   year: 2012
   link: https://queue.acm.org/detail.cfm?id=2413037
+  topics: [Performance]
   related:
     - title: Thinking Clearly about Performance
       author: Millsap
@@ -542,6 +570,7 @@
   author: Nakamoto
   year: 2008
   link: https://bitcoin.org/bitcoin.pdf
+  topics: [Crytpocurrencies]
   related:
     - title: "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform"
       author: Buterin

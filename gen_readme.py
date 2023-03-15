@@ -9,8 +9,12 @@ import yaml
 
 def load_papers():
     def markdown(paper, bold=False):
-        title = f'**{paper["title"]}**' if bold else paper['title']
-        entry = f'{title}. [{paper["author"]} ({paper["year"]})]({paper["link"]}).\n'
+        entry = f'{paper["title"]}. [{paper["author"]} ({paper["year"]})]({paper["link"]}).'
+        if bold:
+            entry = f'**{entry}**'
+
+        entry += '\n'
+
         # if the title ends with ? don't append a period
         return entry.replace('?.', '?')
 
@@ -35,8 +39,12 @@ def render_readme(papers):
     papers_full = ''
     for paper in papers:
         papers_full += '1. ' + paper['markdown']
+        papers_full += '    \\\n'
+        topics = '; '.join(paper['topics'])
+        papers_full += f"    <sub>{topics}</sub>\n"
         for related in paper['related']:
             papers_full += '    * ' + related['markdown']
+        papers_full += '\n'
     readme = readme.replace('{{ PAPERS_FULL }}', papers_full)
 
     # top-level only

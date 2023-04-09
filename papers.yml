@@ -580,3 +580,34 @@
       author: Buterin
       year: 2014
       link: https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf
+
+- title: A Few Useful Things to Know About Machine Learning
+  author: Domingos
+  year: 2012
+  link: https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+  topics: [Machine Learning]
+  related:
+    - title: Deep Learning
+      author: LeCun, Bengio, Hinton
+      year: 2015
+      link: https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+    - title: "Statistical Modeling: The Two Cultures"
+      author: Breiman
+      year: 2001
+      link: http://www2.math.uu.se/~thulin/mm/breiman.pdf
+    - title: The Unreasonable Effectiveness of Data
+      author: Halevy, Norvig, Pereira
+      year: 2009
+      link: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pd
+    - title: Attention Is All You Need
+      author: Vaswani et al
+      year: 2017
+      link: https://arxiv.org/pdf/1706.03762.pdf
+    - title: Generative Adversarial Nets
+      author: Goodfellow et al
+      year: 2014
+      link: https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf
+    - title: Playing Atari with Deep Reinforcement Learning
+      author: Mnih et al
+      year: 2013
+      link: https://arxiv.org/pdf/1312.5602.pdf

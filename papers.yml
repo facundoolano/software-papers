@@ -469,6 +469,10 @@
       author: Norman
       year: 1983
       link: https://dl.acm.org/doi/pdf/10.1145/800045.801571
+    - title: "Human-Computer Interaction: Psychology as a Science of Design"
+      author: Carroll
+      year: 1997
+      link: https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf
 
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page

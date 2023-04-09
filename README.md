@@ -162,6 +162,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).
     * The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
     * Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
+    * Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 
 1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).**
     \
@@ -332,6 +333,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
 1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
 1. Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
+1. Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 1. Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
 1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf).**

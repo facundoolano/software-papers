@@ -206,7 +206,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     \
     <sub>Machine Learning</sub>
     * Statistical Modeling: The Two Cultures. [Breiman (2001)](http://www2.math.uu.se/~thulin/mm/breiman.pdf).
-    * The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pd).
+    * The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://research.google/pubs/pub35179.pdf).
     * Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
     * Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
     * Deep Learning. [LeCun, Bengio, Hinton (2015)](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
@@ -373,7 +373,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
 1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
-1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pd).
+1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://research.google/pubs/pub35179.pdf).
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).
 1. Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).

@@ -207,6 +207,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     <sub>Machine Learning</sub>
     * Statistical Modeling: The Two Cultures. [Breiman (2001)](http://www2.math.uu.se/~thulin/mm/breiman.pdf).
     * The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://research.google/pubs/pub35179.pdf).
+    * ImageNet Classification with Deep Convolutional Neural Networks. [Krizhevsky, Sutskever, Hinton (2013)](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
     * Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
     * Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
     * Deep Learning. [LeCun, Bengio, Hinton (2015)](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
@@ -381,6 +382,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
 1. **Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).**
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
+1. ImageNet Classification with Deep Convolutional Neural Networks. [Krizhevsky, Sutskever, Hinton (2013)](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
 1. Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
@@ -408,6 +410,7 @@ This list was inspired by (and draws from) several books and paper collections:
 * [Classics in Human-Computer Interaction](https://medium.com/@aschugart/classics-in-hci-research-papers-critical-to-the-field-of-human-computer-interaction-1344039334a5)
 * [Awesome Compilers](https://github.com/aalhour/awesome-compilers#papers)
 * [Distributed Consensus Reading List](https://heidihoward.github.io/distributed-consensus-reading-list/)
+* [The Decade of Deep Learning](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 
 ## Meta reads
 

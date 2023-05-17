@@ -241,6 +241,11 @@
       author: Landin
       year: 1966
       link: https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf
+    - title: A Unified Theory of Garbage Collection
+      author: Bacon, Cheng, Rajan
+      year: 2004
+      link: https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf
+
 
 - title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks

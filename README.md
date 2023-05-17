@@ -85,6 +85,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
     * A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
     * LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
+    * A Unified Theory of Garbage Collection. [Bacon, Cheng, Rajan (2004)](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf).
     * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
     * Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 
@@ -360,6 +361,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf).
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
 1. LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
+1. A Unified Theory of Garbage Collection. [Bacon, Cheng, Rajan (2004)](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf).
 1. TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
 1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf).
 1. A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).

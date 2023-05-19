@@ -535,7 +535,7 @@
     - title: "Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases"
       author: Verbitski et al
       year: 2017
-      link: https://web.stanford.edu/class/cs245/readings/aurora.pdf
+      link: https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf
 
 - title: On Designing and Deploying Internet Scale Services
   author: Hamilton

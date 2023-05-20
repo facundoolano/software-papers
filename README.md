@@ -139,7 +139,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     \
     <sub>Cryptography</sub>
     * A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
-    * How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
+    * How To Share A Secret. [Shamir (1979)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
     * A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 
 1. **Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).**
@@ -310,7 +310,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
-1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
+1. How To Share A Secret. [Shamir (1979)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
 1. Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).

@@ -395,11 +395,11 @@
     - title: A Method for Obtaining Digital Signatures and Public-Key Cryptosystems
       author: Rivest, Shamir, Adleman
       year: 1978
-      link: https://people.csail.mit.edu/rivest/Rsapaper.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/359340.359342
     - title: How To Share A Secret
       author: Shamir
       year: 1979
-      link: https://dl.acm.org/doi/pdf/10.1145/359340.359342
+      link: https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf
     - title: A Digital Signature Based on a Conventional Encryption Function
       author: Merkle
       year: 1987

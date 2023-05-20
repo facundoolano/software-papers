@@ -138,8 +138,8 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **New Directions in Cryptography. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).**
     \
     <sub>Cryptography</sub>
-    * A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
-    * How To Share A Secret. [Shamir (1979)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
+    * A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
+    * How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
     * A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 
 1. **Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).**
@@ -304,13 +304,13 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Communicating sequential processes. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).**
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://ethernethistory.typepad.com/papers/EthernetPaper.pdf).
-1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://people.csail.mit.edu/rivest/Rsapaper.pdf).
+1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).**
 1. The paradigms of programming. [Floyd (1979)](https://dl.acm.org/doi/pdf/10.1145/1283920.1283934).
 1. The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
 1. Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
 1. Access Path Selection in a Relational Database Management System. [Selinger et al (1979)](https://courses.cs.duke.edu/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf).
-1. How To Share A Secret. [Shamir (1979)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
+1. How To Share A Secret. [Shamir (1979)](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf).
 1. The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
 1. Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).

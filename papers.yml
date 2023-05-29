@@ -543,6 +543,10 @@
   link: https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf
   topics: [Operations, Reliability, Fault-tolerance]
   related:
+    - title: Ironies of Automation
+      author: Bainbridge
+      year: 1983
+      link: https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf
     - title: Why do computers stop and what can be done about it?
       author: Gray
       year: 1985

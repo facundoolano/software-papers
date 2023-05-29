@@ -187,6 +187,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
     \
     <sub>Operations; Reliability; Fault-tolerance</sub>
+    * Ironies of Automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
     * Why do computers stop and what can be done about it? [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
     * Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
@@ -317,6 +318,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
 1. The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
 1. Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
+1. Ironies of Automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
 1. Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).
 1. A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
 1. Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).

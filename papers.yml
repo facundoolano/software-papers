@@ -404,6 +404,10 @@
       author: Merkle
       year: 1987
       link: https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf
+    - title: The Salsa20 family of stream ciphers
+      author: Bernstein
+      year: 2007
+      link: https://cr.yp.to/snuffle/salsafamily-20071225.pdf
 
 - title: Time, Clocks, and the Ordering of Events in a Distributed System
   author: Lamport

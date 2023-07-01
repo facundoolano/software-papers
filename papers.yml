@@ -67,7 +67,7 @@
 - title: A Method for the Construction of Minimum-Redundancy Codes
   author: Huffman
   year: 1952
-  link: https://www.ic.tu-berlin.de/fileadmin/fg121/Source-Coding_WS12/selected-readings/10_04051119.pdf
+  link: http://pzs.dstu.dp.ua/ComputerGraphics/ic/bibl/huffman.pdf
   topics: [Information Theory]
   related:
     - title: Fifty Years of Shannon Theory
@@ -104,7 +104,7 @@
     - title: A Note on Two Problems in Connexion with Graphs
       author: Dijkstra
       year: 1959
-      link: http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf
+      link: https://jmvidal.cse.sc.edu/library/dijkstra59a.pdf
     - title: The Ubiquitous B-Tree
       author: Comer
       year: 1979

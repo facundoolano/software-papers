@@ -462,7 +462,9 @@ A few interesting resources about reading papers from Papers We Love and elsewhe
    - Similarly, I tended to skip more theoretical papers, those focusing on mathematical foundations for Computer Science, electronic aspects of hardware, etc.
 7. I sorted the list by a mix of relatedness of topics and a vague chronological relevance, such that it makes sense to read it in the suggested order. For example, historical and seminal topics go first, contemporary internet-era developments last, networking precedes distributed systems, etc.
 
-## In case you are interested in all articles and want to download them all - run this simple script locally
+## extract.py [extract.py](https://github.com/alikatgh/software-papers/blob/main/extract.py).
+
+In case you are interested in all articles and want to download them all - run this simple script locally
 
 ```
 import os

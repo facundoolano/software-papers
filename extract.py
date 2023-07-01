@@ -52,7 +52,7 @@ def extract_urls_from_webpage(webpage_url):
 
 if __name__ == '__main__':
     webpage_url = input("Please enter the URL of the webpage: ")
-    save_folder = '/Users/work/Documents/projects/extract/articles'
+    save_folder = '/folder you need to save'
     if not os.path.exists(save_folder):
         os.makedirs(save_folder)
 

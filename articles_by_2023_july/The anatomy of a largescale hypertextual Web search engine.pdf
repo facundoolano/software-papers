@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if !IE]> --> <html lang="en" dir="ltr"> <!-- <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/srcf_404" />
+<link rel="shortlink" href="/node/5532" />
+<link href="https://plus.google.com/104072558786482255668" rel="publisher" />
+<link rel="shortcut icon" href="https://cs.stanford.edu/sites/all/themes/stanford_wilbur/favicon.ico" type="image/vnd.microsoft.icon" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resource Unavailable Due to SRCF Datacenter Shutdown | Stanford Computer Science</title>
+  <style type="text/css" media="all">
+@import url("https://cs.stanford.edu/modules/system/system.base.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/system/system.menus.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/system/system.messages.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/system/system.theme.css?rx3fjh");
+</style>
+<style type="text/css" media="all">
+@import url("https://cs.stanford.edu/modules/book/book.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/modules/calendar/css/calendar_multiday.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/comment/comment.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/field/theme/field.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/node/node.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/search/search.css?rx3fjh");
+@import url("https://cs.stanford.edu/modules/user/user.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/modules/views/css/views.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/modules/ckeditor/css/ckeditor.css?rx3fjh");
+</style>
+<style type="text/css" media="all">
+@import url("https://cs.stanford.edu/sites/all/modules/shib_auth/shib_auth.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/modules/ctools/css/ctools.css?rx3fjh");
+</style>
+<style type="text/css" media="all">
+@import url("https://cs.stanford.edu/sites/all/themes/open_framework/bootstrap/css/bootstrap.min.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/open_framework/bootstrap/css/bootstrap-responsive.min.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/open_framework/fontawesome/css/font-awesome.min.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/open_framework/css/open_framework.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/stanford_framework/css/ie.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/stanford_framework/css/stanford_framework.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/stanford_framework/css/su-identity.css?rx3fjh");
+@import url("https://cs.stanford.edu/sites/all/themes/stanford_wilbur/css/stanford_wilbur.css?rx3fjh");
+</style>
+<style type="text/css" media="print">
+@import url("https://cs.stanford.edu/sites/all/themes/open_framework/css/open_framework_print.css?rx3fjh");
+</style>
+<style type="text/css" media="all">
+@import url("https://cs.stanford.edu/sites/default/files/css_injector/css_injector_1.css?rx3fjh");
+</style>
+  <script type="text/javascript" defer="defer" src="https://cs.stanford.edu/sites/default/files/google_tag/google_tag.script.js?rx3fjh"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js'>\x3C/script>")</script>
+<script type="text/javascript" src="https://cs.stanford.edu/misc/jquery-extend-3.4.0.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/misc/drupal.js?rx3fjh"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/modules/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/misc/form-single-submit.js?v=7.98"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/modules/google_analytics/googleanalytics.js?rx3fjh"></script>
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-31295838-1"></script>
+<script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-31295838-1", {"groups":"default","anonymize_ip":true});</script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/themes/open_framework/bootstrap/js/bootstrap.min.js?rx3fjh"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/themes/open_framework/js/open_framework.js?rx3fjh"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/themes/open_framework/js/override.js?rx3fjh"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/themes/stanford_framework/js/stanford_framework.js?rx3fjh"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/all/themes/stanford_wilbur/js/stanford_wilbur.js?rx3fjh"></script>
+<script type="text/javascript" src="https://cs.stanford.edu/sites/default/files/js_injector/js_injector_1.js?rx3fjh"></script>
+<script type="text/javascript"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RJLQH43QXH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RJLQH43QXH');
+</script></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"stanford_wilbur","theme_token":"zSQklYAUzM5XBKMXRja799RvSOB-v605NEFs1ab4hj8","js":{"public:\/\/google_tag\/google_tag.script.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.12.4\/jquery.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-31295838-1":1,"1":1,"sites\/all\/themes\/open_framework\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/open_framework\/js\/open_framework.js":1,"sites\/all\/themes\/open_framework\/js\/override.js":1,"sites\/all\/themes\/stanford_framework\/js\/stanford_framework.js":1,"sites\/all\/themes\/stanford_wilbur\/js\/stanford_wilbur.js":1,"sites\/default\/files\/js_injector\/js_injector_1.js":1,"2":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/open_framework\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/themes\/open_framework\/bootstrap\/css\/bootstrap-responsive.min.css":1,"sites\/all\/themes\/open_framework\/fontawesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework.css":1,"sites\/all\/themes\/stanford_framework\/css\/ie.css":1,"sites\/all\/themes\/stanford_framework\/css\/stanford_framework.css":1,"sites\/all\/themes\/stanford_framework\/css\/su-identity.css":1,"sites\/all\/themes\/stanford_wilbur\/css\/stanford_wilbur.css":1,"sites\/all\/themes\/open_framework\/css\/open_framework_print.css":1,"public:\/\/css_injector\/css_injector_1.css":1}},"googleanalytics":{"account":["UA-31295838-1"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/srcf_404\/":true}});</script>
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/sites/all/themes/open_framework/fontawesome/css/font-awesome-ie7.min.css">
+  <![endif]-->
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/open_framework/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-5532 node-type-page       "  >
+  <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTLWT5K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div id="su-wrap">
+  <!-- #su-wrap start -->
+<div id="su-content">
+  <!-- #su-content start -->
+<div id="wrap" class="site-title-underneath ">
+  <div id="skipnav" class="element-invisible">
+    <div class="container">
+      <p>Skip to:</p>
+      <ul>
+        <li><a href="#content" class="element-invisible element-focusable">Skip to content</a></li>
+                <li><a href="#main-menu" class="element-invisible element-focusable">Skip to navigation</a></li>
+              </ul>
+    </div>
+  </div>
+  <!-- /#skipnav -->
+<!-- /#admin-shortcuts -->
+  <div id="global-header">
+    <div class="container">
+      <div class="row-fluid">
+        <div id="top-logo" class="span4"><a href="http://www.stanford.edu"><img src="/sites/all/themes/stanford_wilbur/images/header-stanford-logo@2x.png" alt="Stanford University"></a></div>
+                <div id="top-menu" class="span8"><div class="region region-global-header clearfix">
+  <div id="block-shib-auth-login-box" class="clearfix block block-shib-auth">     <h2>Shibboleth login</h2>
+      <div class="content"> <div id="shib_login_url">
+  <a href="https://cs.stanford.edu/Shibboleth.sso/Login?target=https%3A%2F%2Fcs.stanford.edu%2F%3Fq%3Dshib_login%2Fnode%2F5532">CSID Login</a>
+</div>
+ </div>
+</div></div>
+ <!-- /.region -->
+</div>
+              </div>
+    </div>
+  </div>
+  <!-- /#global-header -->
+  <div id="header" class="clearfix header" role="banner">
+    <div class="container">
+      <div class="row">
+        <div class="span8">
+                    <div id="logo" class="logo-mobile  "> <a href="/" title="Home" rel="home"> <img src="https://cs.stanford.edu/sites/all/themes/stanford_wilbur/logo.png" alt="Stanford" role="presentation"> </a></div>
+                    <!-- /#logo -->
+                    <div id="name-and-slogan">
+                                    <div id="site-title-first-line" class="site-title-uppercase "><a href="/" title="Home" rel="home">ENGINEERING</a></div>
+                                    <div id="site-title-second-line" class="site-title-underneath "><a href="/" title="Home" rel="home">Computer Science</a></div>
+                                  </div>
+                              <!-- /#name-and-slogan -->
+                    <!-- /#header-content --> 
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /#header -->
+    <div id="main-menu" class="clearfix site-main-menu">
+    <div class="container">
+      <div class="navbar">
+                <div class="navbar-inner">
+          <div class="container">
+                                    <div id="nav-search" class="nav-search"> <div class="region region-search-box clearfix">
+  <div id="block-search-form" class="clearfix block block-search" role="search">       <div class="content"> <form action="/srcf_404/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="input-medium search-query form-text" placeholder="Search this site..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="btn-search form-submit" alt="Search" type="image" id="edit-submit" name="submit" src="https://cs.stanford.edu/sites/all/themes/open_framework/images/searchbutton.png" /></div><input type="hidden" name="form_build_id" value="form-v29582W0m3-a55fdyhWiGR3W62zxWaqBerOB9Cl5zEE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+                        <div class="nav-collapse collapse">
+              <nav role="navigation">
+                                <ul class="menu nav"><li class="first expanded dropdown"><a href="/about" class="dropdown-toggle" data-toggle="dropdown" data-target="#">About <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://healthalerts.stanford.edu/" title="">Info on COVID-19</a></li>
+<li class="leaf"><a href="/content/support-black-lives-matter">Black Lives Matter</a></li>
+<li class="leaf"><a href="/about/department-overview">Department Overview</a></li>
+<li class="leaf"><a href="/about/directions">Directions</a></li>
+<li class="leaf"><a href="/about/gates-computer-science-building" title="">Gates Computer Science Building</a></li>
+<li class="expanded dropdown-submenu"><a href="/jobs" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Job Opportunities</a><ul class="dropdown-menu"><li class="first leaf"><a href="/jobs/resources-students-alumni">Resources for Students &amp; Alumni</a></li>
+<li class="leaf"><a href="/faculty-opening">Faculty Opening</a></li>
+<li class="last leaf"><a href="/jobs/postdoctoral-opening">Postdoctoral Opening</a></li>
+</ul></li>
+<li class="leaf"><a href="/about/strategic-plan">Strategic Plan</a></li>
+<li class="expanded dropdown-submenu"><a href="/department-newsletter" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Department Newsletter</a><ul class="dropdown-menu"><li class="first last leaf"><a href="/department-newsletter/past-newsletters">Past Newsletters</a></li>
+</ul></li>
+<li class="leaf"><a href="/forum">Computer Forum</a></li>
+<li class="leaf"><a href="/about/giving-computer-science">Giving to Computer Science</a></li>
+<li class="last leaf"><a href="/about/contact-us" title="">Contact Us</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/directory" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">People <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/directory/faculty">Faculty</a></li>
+<li class="leaf"><a href="/directory/research-staff" title="">Research Staff</a></li>
+<li class="leaf"><a href="/directory/administrative-staff" title="">Administrative Staff</a></li>
+<li class="leaf"><a href="/directory/phd-students" title="">Ph.D Students</a></li>
+<li class="leaf"><a href="/directory/masters-students" title="">Masters Students</a></li>
+<li class="leaf"><a href="/directory/undergraduate-students" title="">Undergraduate Students</a></li>
+<li class="leaf"><a href="/directory/phd-alumni" title="">Ph.D Alumni</a></li>
+<li class="leaf"><a href="/directory/masters-alumni" title="">Masters Alumni</a></li>
+<li class="leaf"><a href="/directory/undergraduate-alumni" title="">Undergraduate Alumni</a></li>
+<li class="last leaf"><a href="/memoriam" title="">In Memoriam</a></li>
+</ul></li>
+<li class="leaf"><a href="/research">Research</a></li>
+<li class="expanded dropdown"><a href="/academics" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Academics <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/academics/courses">Courses</a></li>
+<li class="leaf"><a href="http://cs.stanford.edu/degrees/undergrad/" title="">Undergraduate</a></li>
+<li class="expanded dropdown-submenu"><a href="/academics/masters" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Masters</a><ul class="dropdown-menu"><li class="first leaf"><a href="/academics/masters/choosing-classes">Choosing Classes</a></li>
+<li class="leaf"><a href="/academics/masters/choosing-specialization">Choosing a Specialization</a></li>
+<li class="leaf"><a href="/academics/masters/coterm-faq">Coterm FAQ</a></li>
+<li class="leaf"><a href="/academics/masters/faq">FAQ</a></li>
+<li class="leaf"><a href="/academics/masters/ms-advising">MS Advising</a></li>
+<li class="leaf"><a href="/academics/masters/masters-program-sheets">Master&#039;s Program Sheets</a></li>
+<li class="collapsed"><a href="/academics/prospective-masters">Prospective Masters</a></li>
+<li class="last leaf"><a href="http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html" title="">MS in CS Ed</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/academics/phd" class="dropdown-toggle" data-toggle="dropdown" data-target="#">PhD</a><ul class="dropdown-menu"><li class="first leaf"><a href="/academics/phd/cs300-seminar">CS300 Seminar</a></li>
+<li class="leaf"><a href="/academics/phd/first-year-research-rotation-program">First-Year Research Rotation Program</a></li>
+<li class="leaf"><a href="/academics/phd/breadth-requirements">Breadth Requirements</a></li>
+<li class="collapsed"><a href="/academics/phd/phd-requirements">PhD Requirements</a></li>
+<li class="leaf"><a href="/academics/phd/qualifying-exams">Qualifying Exams</a></li>
+<li class="leaf"><a href="/academics/phd/monitoring-progress">Monitoring Progress</a></li>
+<li class="leaf"><a href="/academics/phd/phd-advising">PhD Advising</a></li>
+<li class="leaf"><a href="/academics/phd/cpt">CPT</a></li>
+<li class="collapsed"><a href="/academics/phd/research-assistantship">Research Assistantship</a></li>
+<li class="leaf"><a href="/academics/phd/phd-orientation-slides">PhD Orientation Slides</a></li>
+<li class="last leaf"><a href="/academics/phd/graduate-student-forms">Graduate Student Forms</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/academics/joint-degree-programs" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Joint Degree Programs</a><ul class="dropdown-menu"><li class="first leaf"><a href="/academics/joint-degree-programs/joint-cs-mslaw-degree">Joint CS MS/Law Degree</a></li>
+<li class="last leaf"><a href="/academics/joint-degree-programs/joint-cs-msmba-degree">Joint CS MS/MBA Degree</a></li>
+</ul></li>
+<li class="leaf"><a href="/academics/ca">Course Assistants (CAs)</a></li>
+<li class="expanded dropdown-submenu"><a href="/new-student-orientation" class="dropdown-toggle" data-toggle="dropdown" data-target="#">New Student Orientation</a><ul class="dropdown-menu"><li class="first leaf"><a href="/new-student-orientation/cs-resources">CS Resources</a></li>
+<li class="leaf"><a href="/new-student-orientation/stanford-resources">Stanford resources</a></li>
+<li class="leaf"><a href="/new-student-orientation/getting-know-stanford">Getting to know Stanford</a></li>
+<li class="leaf"><a href="/new-student-orientation/new-graduate-student-checklist">New Graduate Student Checklist</a></li>
+<li class="leaf"><a href="/new-student-orientation/incoming-ms-students">Incoming MS Students</a></li>
+<li class="last leaf"><a href="/new-student-orientation/incoming-phd-students">Incoming PhD Students</a></li>
+</ul></li>
+<li class="leaf"><a href="http://wellness.stanford.edu/" title="">Stanford Wellness Network</a></li>
+<li class="leaf"><a href="/academics/stanford-computer-science-graduate-student-preview-day">Graduate Student Preview Day</a></li>
+<li class="leaf"><a href="/content/stanford-cs-ms-phd-pathways-program">M.S. to Ph.D. Pathways Program</a></li>
+<li class="leaf"><a href="/linxs">LINXS Summer Research Program</a></li>
+<li class="last leaf"><a href="/academics/commencement">CS Diploma Ceremony</a></li>
+</ul></li>
+<li class="leaf"><a href="/advising">BS/MS Advising</a></li>
+<li class="expanded dropdown"><a href="/admissions" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Admissions <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded dropdown-submenu"><a href="/admissions/phd" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">PhD</a><ul class="dropdown-menu"><li class="first leaf"><a href="/admissions/phd/general-information">General Information</a></li>
+<li class="leaf"><a href="/admissions/phd/application-requirements">Application Requirements</a></li>
+<li class="leaf"><a href="/admissions/phd/application-checklist">Application Checklist</a></li>
+<li class="leaf"><a href="/admissions/phd/deadline">Deadline</a></li>
+<li class="last leaf"><a href="/admissions/phd/frequently-asked-questions">Frequently Asked Questions</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/admissions/masters" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Masters</a><ul class="dropdown-menu"><li class="first leaf"><a href="/admissions/masters/general-information">General Information</a></li>
+<li class="leaf"><a href="/admissions/masters/ms-vs-phd">MS vs PhD</a></li>
+<li class="leaf"><a href="/admissions/masters/application-requirements">Application Requirements</a></li>
+<li class="leaf"><a href="/admissions/masters/application-checklist">Application Checklist</a></li>
+<li class="leaf"><a href="/admissions/masters/deadline">Deadline</a></li>
+<li class="last leaf"><a href="/admissions/masters/frequently-asked-questions">Frequently Asked Questions</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/admissions/coterminal-program" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Coterminal Program</a><ul class="dropdown-menu"><li class="first leaf"><a href="/admissions/coterminal-program/general-information">General Information</a></li>
+<li class="leaf"><a href="/admissions/coterminal-program/application-requirements">Application Requirements</a></li>
+<li class="leaf"><a href="/admissions/coterminal-program/application-checklist">Application Checklist</a></li>
+<li class="leaf"><a href="/admissions/coterminal-program/deadline">Deadline</a></li>
+<li class="last leaf"><a href="/admissions/coterminal-program/frequently-asked-questions">Frequently Asked Questions</a></li>
+</ul></li>
+<li class="leaf"><a href="/admissionx/bachelors">Bachelors</a></li>
+<li class="expanded dropdown-submenu"><a href="/admissions/joint-degree-programs" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Joint Degree Programs</a><ul class="dropdown-menu"><li class="first leaf"><a href="/admissions/joint-degree-programs/joint-cs-ms-law-degree">Joint CS MS/ Law Degree</a></li>
+<li class="leaf"><a href="/admissions/joint-degree-programs/joint-cs-ms-mba-degree">Joint CS MS/ MBA Degree</a></li>
+<li class="last leaf"><a href="/admissions/joint-degree-programs/joint-cs-phd-law">Joint CS PhD/ Law</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/admissions/current-stanford-students" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Current Stanford Students</a><ul class="dropdown-menu"><li class="first leaf"><a href="/admissions/current-stanford-students/additionalchange-degree">Additional/Change of Degree</a></li>
+<li class="last leaf"><a href="/admissions/current-stanford-students/phd-minor">PhD minor</a></li>
+</ul></li>
+<li class="leaf"><a href="/admissions/non-degree-option">Non-Degree Option</a></li>
+<li class="leaf"><a href="/admissions/visiting-cs">Visiting CS</a></li>
+<li class="last leaf"><a href="/admissions/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="collapsed"><a href="/dei" title="Diversity, Equity, and Inclusion">Diversity</a></li>
+<li class="last expanded dropdown"><a href="/csdcf" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Computing <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/csdcf/computing-environment">Computing Environment</a></li>
+<li class="expanded dropdown-submenu"><a href="/computing-guide" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Computing Guide</a><ul class="dropdown-menu"><li class="first leaf"><a href="/computing-guide/networking">Networking</a></li>
+<li class="expanded dropdown-submenu"><a href="/computing-guide/email" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Email</a><ul class="dropdown-menu"><li class="first leaf"><a href="/computing-guide/email/client-settings">Client Settings</a></li>
+<li class="leaf"><a href="/computing-guide/email/forwarding">Forwarding</a></li>
+<li class="leaf"><a href="/computing-guide/email/headers">Headers</a></li>
+<li class="leaf"><a href="/computing-guide/email/overview">Overview</a></li>
+<li class="last leaf"><a href="/computing-guide/email/spam-filtering">Spam Filtering</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/computing-guide/afs" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">AFS</a><ul class="dropdown-menu"><li class="first leaf"><a href="/computing-guide/afs/command-reference">Command Reference</a></li>
+<li class="leaf"><a href="/computing-guide/afs/afs-client-installation">AFS client installation</a></li>
+<li class="last leaf"><a href="/computing-guide/afs/accessing-afs">Accessing AFS</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/computing-guide/access" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Access</a><ul class="dropdown-menu"><li class="first leaf"><a href="/computing-guide/access/security">Security</a></li>
+<li class="leaf"><a href="/computing-guide/access/csid">CSID</a></li>
+<li class="leaf"><a href="/computing-guide/access/sunetid">SUNetID</a></li>
+<li class="last leaf"><a href="/computing-guide/access/shell-access-ssh">Shell Access (SSH)</a></li>
+</ul></li>
+<li class="leaf"><a href="/computing-guide/overview">Overview</a></li>
+<li class="leaf"><a href="/computing-guide/security-0">Security</a></li>
+<li class="last leaf"><a href="/computing-guide/web-pages">Web Pages</a></li>
+</ul></li>
+<li class="leaf"><a href="/csdcf/about-us">About Us</a></li>
+<li class="expanded dropdown-submenu"><a href="/csdcf/help" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Help</a><ul class="dropdown-menu"><li class="first leaf"><a href="https://shib-sunetid.cs.stanford.edu/backup" title="">Backup Request</a></li>
+<li class="leaf"><a href="https://support.cs.stanford.edu/hc/en-us/requests/new" title="">General Help Request</a></li>
+<li class="leaf"><a href="/ip" title="">Register Host for Network Access</a></li>
+<li class="leaf"><a href="https://shib-sunetid.cs.stanford.edu/restore" title="">Restore Files</a></li>
+<li class="last leaf"><a href="/sc/access" title="">SC Cluster Account Request</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/csdcf/policies" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Policies</a><ul class="dropdown-menu"><li class="first leaf"><a href="/csdcf/policies/privileged-access-policy">Privileged Access Policy</a></li>
+<li class="leaf"><a href="/scusage-policy">Research Cluster Policy</a></li>
+<li class="leaf"><a href="/csdcf/policies/server-hosting">Server Hosting</a></li>
+<li class="leaf"><a href="http://adminguide.stanford.edu/ch6contents.html" title="">University Policies</a></li>
+<li class="last leaf"><a href="/csdcf/policies/xenon-student-account-policies">Xenon Student Account Policies</a></li>
+</ul></li>
+<li class="expanded dropdown-submenu"><a href="/sc" class="dropdown-toggle" data-toggle="dropdown" data-target="#">SC Compute Cluster</a><ul class="dropdown-menu"><li class="first last leaf"><a href="/sc/access" title="">SC Cluster Account Request</a></li>
+</ul></li>
+<li class="leaf"><a href="/csdcf/services">Services</a></li>
+<li class="last leaf"><a href="/csdcf/team">The Team</a></li>
+</ul></li>
+</ul> 
+                <!-- /#primary-menu -->
+                                              </nav>
+            </div>
+                                              </div>
+        </div>
+              </div>
+    </div>
+  </div>
+  <!-- /#main-menu -->
+    <div id="main" class="clearfix main" role="main">
+    <div class="container">
+                        <div id="main-content" class="row main-content">
+                <div id="content" class="mc-content span12">
+          <div id="content-wrapper" class="content-wrapper">
+            <div id="content-head" class="row-fluid content-head">
+              <div id="highlighted" class="clearfix"></div>
+                                          <h1 class="title" id="page-title"> Resource Unavailable Due to SRCF Datacenter Shutdown </h1>
+                                                        <div class="tabs">  </div>
+                                                                    </div>
+                                                <div id="content-body" class="row-fluid content-body"> <div class="region region-content clearfix">
+  <div id="block-system-main" class="clearfix block block-system">       <div class="content"> <article id="node-5532" class="node node-page clearfix" about="/srcf_404" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Resource Unavailable Due to SRCF Datacenter Shutdown" class="rdf-meta element-hidden"></span>
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The resource you are trying to reach is not available due to <a href="https://srcc.stanford.edu/srcf-shutdown" target="_blank">SRCF datacenter shutdown</a> and the corresponding servers being hosted there. The outage is expected to be between Jun 24th to July 3rd. Please contact <a href="mailto:action@cs.stanford.edu">action@cs.stanford.edu</a> if you have any question.</p>
+</div></div></div>  </div>
+
+  
+  
+</article>
+ </div>
+</div></div>
+ <!-- /.region -->
+ </div>
+                                                                                                                      </div>
+          <!-- /#content-wrap --> 
+        </div>
+        <!-- /#content -->
+              </div>
+                </div>
+  </div>
+  <!-- /#main, /#main-wrapper -->
+  <div id="push"></div>
+  <!-- /#push --> 
+</div>
+<!-- /#wrap -->
+<div id="footer" class="clearfix footer">
+  <div class="container">
+        <div id="footer-content" class="row-fluid footer-content"> <div class="region region-footer clearfix">
+  <div id="block-block-1" class="clearfix block block-block about-us-block pull-right">       <div class="content"> <p><strong>Gates Computer Science Building<br />
+353 Jane Stanford Way<br />
+Stanford, CA 94305</strong></p>
+<p><strong>Phone:</strong> (650) 723-2300</p>
+<p><strong>Admissions</strong> : <a href="mailto:admissions@cs.stanford.edu">admissions@cs.stanford.edu</a></p>
+<p><a class="icon" href="https://campus-map.stanford.edu/?id=07-450&amp;lat=37.43011014&amp;lng=-122.17341616&amp;zoom=17&amp;srch=353%20jane%20stanford%20way" target="_blank" title="Campus Map">Campus Map</a></p>
+ </div>
+</div>
+<div id="block-block-8" class="clearfix block block-block about-us-block pull-right">       <div class="content"> <p><iframe height="155" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.3011132509837!2d-122.17552434824488!3d37.42999083959339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbb2b3f50f727%3A0xfd9cc3200ee97fda!2sGates%20Computer%20Science%2C%20353%20Serra%20Mall%2C%20Stanford%2C%20CA%2094305!5e0!3m2!1sen!2sus!4v1675734477731!5m2!1sen!2sus" style="border:0;" width="350"></iframe></p>
+ </div>
+</div>
+<div id="block-block-9" class="clearfix block block-block">       <div class="content"> <a href="https://www.facebook.com/stanford.engineering/"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><path fill="#61605c" d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg></a>
+<a href="https://twitter.com/stanfordeng"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><path fill="#61605c" d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/></svg></a>
+<a href="https://www.linkedin.com/school/stanford-university-school-of-engineering/"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><path fill="#61605c" d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg></a>
+<a href="https://www.youtube.com/user/stanfordeng"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><path fill="#61605c" d="M4.652 0h1.44l.988 3.702.916-3.702h1.454l-1.665 5.505v3.757h-1.431v-3.757l-1.702-5.505zm6.594 2.373c-1.119 0-1.861.74-1.861 1.835v3.349c0 1.204.629 1.831 1.861 1.831 1.022 0 1.826-.683 1.826-1.831v-3.349c0-1.069-.797-1.835-1.826-1.835zm.531 5.127c0 .372-.19.646-.532.646-.351 0-.554-.287-.554-.646v-3.179c0-.374.172-.651.529-.651.39 0 .557.269.557.651v3.179zm4.729-5.07v5.186c-.155.194-.5.512-.747.512-.271 0-.338-.186-.338-.46v-5.238h-1.27v5.71c0 .675.206 1.22.887 1.22.384 0 .918-.2 1.468-.853v.754h1.27v-6.831h-1.27zm2.203 13.858c-.448 0-.541.315-.541.763v.659h1.069v-.66c.001-.44-.092-.762-.528-.762zm-4.703.04c-.084.043-.167.109-.25.198v4.055c.099.106.194.182.287.229.197.1.485.107.619-.067.07-.092.105-.241.105-.449v-3.359c0-.22-.043-.386-.129-.5-.147-.193-.42-.214-.632-.107zm4.827-5.195c-2.604-.177-11.066-.177-13.666 0-2.814.192-3.146 1.892-3.167 6.367.021 4.467.35 6.175 3.167 6.367 2.6.177 11.062.177 13.666 0 2.814-.192 3.146-1.893 3.167-6.367-.021-4.467-.35-6.175-3.167-6.367zm-12.324 10.686h-1.363v-7.54h-1.41v-1.28h4.182v1.28h-1.41v7.54zm4.846 0h-1.21v-.718c-.223.265-.455.467-.696.605-.652.374-1.547.365-1.547-.955v-5.438h1.209v4.988c0 .262.063.438.322.438.236 0 .564-.303.711-.487v-4.939h1.21v6.506zm4.657-1.348c0 .805-.301 1.431-1.106 1.431-.443 0-.812-.162-1.149-.583v.5h-1.221v-8.82h1.221v2.84c.273-.333.644-.608 1.076-.608.886 0 1.18.749 1.18 1.631v3.609zm4.471-1.752h-2.314v1.228c0 .488.042.91.528.91.511 0 .541-.344.541-.91v-.452h1.245v.489c0 1.253-.538 2.013-1.813 2.013-1.155 0-1.746-.842-1.746-2.013v-2.921c0-1.129.746-1.914 1.837-1.914 1.161 0 1.721.738 1.721 1.914v1.656z"/></svg></a>
+<a href="https://www.instagram.com/stanfordeng/"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><path fill="#61605c" d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a> </div>
+</div>
+</div>
+ <!-- /.region -->
+ </div>
+      </div>
+</div>
+<!-- /#footer -->
+</div>
+<!-- #su-content end -->
+</div>
+<!-- #su-wrap end -->
+<!-- <div id="global-footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div id="bottom-logo" class="span2"><a href="http://www.stanford.edu"><img src="/sites/all/themes/stanford_wilbur/images/footer-stanford-logo@2x.png" alt="Stanford University"></a></div>
+      <div id="bottom-menu" class="span10">
+        <ul>
+          <li><a href="http://www.stanford.edu">SU Home</a></li>
+          <li><a href="http://visit.stanford.edu/plan/maps.html">Maps &amp; Directions</a></li>
+          <li><a href="http://www.stanford.edu/search/">Search Stanford</a></li>
+          <li><a href="http://www.stanford.edu/site/terms.html">Terms of Use</a></li>
+          <li><a href="http://www.stanford.edu/site/copyright.html">Copyright Complaints</a></li>
+        </ul>
+      </div>
+      <div id="copyright" class="span10 offset2">
+        <p class="vcard">&copy;&nbsp;<span class="fn org">Stanford University</span>, <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span></span></p>
+      </div>
+    </div>
+  </div>
+</div> -->
+<!-- /#global-footer -->
+<!-- Global footer snippet start -->
+<div id="global-footer">
+<div class="container">
+<div class="row">
+  <div id="bottom-logo" class="span2">
+    <a href="https://www.stanford.edu">
+      <img src="https://www-media.stanford.edu/su-identity/images/footer-stanford-logo@2x.png" alt="Stanford University" width="105" height="49"/>
+    </a>
+  </div>
+  <div id="bottom-text" class="span10">
+    <ul>
+      <li class="home"><a href="https://www.stanford.edu">Stanford Home</a></li>
+      <li class="maps alt"><a href="https://visit.stanford.edu/plan/">Maps & Directions</a></li>
+      <li class="search-stanford"><a href="https://www.stanford.edu/search/">Search Stanford</a></li>
+      <li class="emergency alt"><a href="https://emergency.stanford.edu">Emergency Info</a></li>
+    </ul>
+    <ul id="policy-links">
+      <li><a href="https://www.stanford.edu/site/terms/" title="Terms of use for sites">Terms of Use</a></li>
+      <li><a href="https://www.stanford.edu/site/privacy/" title="Privacy and cookie policy">Privacy</a></li>
+      <li><a href="https://uit.stanford.edu/security/copyright-infringement" title="Report alleged copyright infringement">Copyright</a></li>
+      <li><a href="https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4" title="Ownership and use of Stanford trademarks and images">Trademarks</a></li>
+      <li><a href="http://exploredegrees.stanford.edu/nonacademicregulations/nondiscrimination/" title="Non-discrimination policy">Non-Discrimination</a></li>
+      <li><a href="https://www.stanford.edu/site/accessibility" title="Report web accessibility issues">Accessibility</a></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  <p class="copyright vcard">&copy; <span class="fn org">Stanford University</span>, <span class="adr"> <span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span></span>.
+  </p>
+</div>
+</div>
+</div>
+<!-- Global footer snippet end -->
+   <!-- /.region -->
+</body>
+
+</html>

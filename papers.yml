@@ -486,7 +486,7 @@
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page
   year: 1998
-  link: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
+  link: https://research.google/pubs/pub334.pdf
   topics: [Information Retrieval, World-Wide Web]
   related:
     - title: A Statistical Interpretation of Term Specificity in Retrieval
@@ -511,15 +511,15 @@
     - title: The Google File System
       author: Ghemawat, Gobioff, Leung
       year: 2003
-      link: https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+      link: https://research.google/pubs/pub51.pdf
     - title: "MapReduce: Simplified Data Processing on Large Clusters"
       author: Dean, Ghemawat
       year: 2004
-      link: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+      link: https://research.google/pubs/pub62.pdf
     - title: "Bigtable: A Distributed Storage System for Structured Data"
       author: Chang et al
       year: 2006
-      link: https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+      link: https://research.google/pubs/pub27898.pdf
     - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
       author: Brewer
       year: 2012

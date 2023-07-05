@@ -112,6 +112,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     <sub>Operating Systems</sub>
     * An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/).
     * The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
+    * The nucleus of a multiprogramming system. [Hansen (1970)](http://www.brinch-hansen.net/papers/1970a.pdf).
     * Reflections on Trusting Trust. [Thompson (1984)](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf).
     * The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf).
 
@@ -282,6 +283,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Von Neumann's First Computer Program. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).**
 1. Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
 1. Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
+1. The nucleus of a multiprogramming system. [Hansen (1970)](http://www.brinch-hansen.net/papers/1970a.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).**
 1. Program development by stepwise refinement. [Wirth (1971)](http://sunnyday.mit.edu/16.355/wirth-refinement.html).
 1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).

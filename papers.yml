@@ -311,6 +311,10 @@
       author: Dijkstra
       year: 1968
       link: https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf
+    - title: The nucleus of a multiprogramming system
+      author: Hansen
+      year: 1970
+      link: http://www.brinch-hansen.net/papers/1970a.pdf
     - title: An Experimental Time-Sharing System
       author: Corbató, Merwin Daggett, Daley
       year: 1962

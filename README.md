@@ -409,6 +409,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 This list was inspired by (and draws from) several books and paper collections:
 
 * [Papers We Love](https://paperswelove.org/)
+* [Synthical](https://synthical.com)
 * [Ideas That Created the Future](https://mitpress.mit.edu/books/ideas-created-future)
 * [The Innovators](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781476708706)
 * [The morning paper](https://blog.acolyer.org/)

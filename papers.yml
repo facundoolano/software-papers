@@ -112,7 +112,7 @@
     - title: Space/Time Trade-offs in Hash Coding with Allowable Errors
       author: Bloom
       year: 1970
-      link: https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/362686.362692
     - title: Making data structures persistent
       author: Driscoll et al
       year: 1986

@@ -42,7 +42,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](https://jmvidal.cse.sc.edu/library/dijkstra59a.pdf).
     * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
-    * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
+    * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://dl.acm.org/doi/pdf/10.1145/362686.362692).
     * The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
     * Programming pearls: The back of the envelope. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/357994.381168).
@@ -281,7 +281,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. How do committees invent? [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
 1. **Von Neumann's First Computer Program. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).**
-1. Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://cs.pwr.edu.pl/cichon/2021_22_a/BigData/Bloom.pdf).
+1. Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://dl.acm.org/doi/pdf/10.1145/362686.362692).
 1. Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
 1. The nucleus of a multiprogramming system. [Hansen (1970)](http://www.brinch-hansen.net/papers/1970a.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).**

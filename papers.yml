@@ -368,7 +368,7 @@
     - title: "Ethernet: Distributed packet switching for local computer networks"
       author: Metcalfe, Boggs
       year: 1978
-      link: https://ethernethistory.typepad.com/papers/EthernetPaper.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/360248.360253
     - title: End-To-End Arguments in System Design
       author: Saltzer, Reed, Clark
       year: 1984

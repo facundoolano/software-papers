@@ -104,7 +104,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     <sub>Concurrency</sub>
     * Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
     * Monitors: An operating system structuring concept. [Hoare (1974)](https://dl.acm.org/doi/pdf/10.1145/355620.361161).
-    * On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
+    * On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://dl.acm.org/doi/pdf/10.1145/850657.850658).
     * Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
 
 1. **The UNIX Time- Sharing System. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).**
@@ -306,7 +306,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
 1. Can Programming Be Liberated from the von Neumann Style? [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
 1. **Communicating sequential processes. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).**
-1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf).
+1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://dl.acm.org/doi/pdf/10.1145/850657.850658).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://dl.acm.org/doi/pdf/10.1145/360248.360253).
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).
 1. **Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).**

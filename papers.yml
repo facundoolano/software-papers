@@ -291,7 +291,7 @@
     - title: On the Duality of Operating System Structures
       author: Lauer, Needham
       year: 1978
-      link: https://courses.cs.vt.edu/~cs5204/fall07-gback/papers/p3-lauer.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/850657.850658
     - title: "Monitors: An operating system structuring concept"
       author: Hoare
       year: 1974

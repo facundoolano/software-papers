@@ -20,13 +20,6 @@ for paper in papers:
     ref = paper['author'].replace(',', '').split(' ')[0] + str(paper['year'])
     print(f'{ref}...', end='', flush=True)
 
-    if paper['link'].startswith('https://dl.acm.org/'):
-        # the acm library (which has the majority of the paper links)
-        # is now denying requests without javascript enabled
-        # I'm skipping those for now
-        print('skipping ACM')
-        continue
-
     response = requests.head(paper['link'], headers=HEADERS)
     if response.status_code == 405:
         response = requests.get(paper['link'], headers=HEADERS)

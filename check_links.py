@@ -28,6 +28,8 @@ for paper in papers:
         continue
 
     response = requests.head(paper['link'], headers=HEADERS)
+    if response.status_code == 405:
+        response = requests.get(paper['link'], headers=HEADERS)
     if response.ok:
         print('ok')
     else:

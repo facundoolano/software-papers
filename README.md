@@ -167,7 +167,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
     * Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 
-1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://research.google/pubs/pub334.pdf).**
+1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf).**
     \
     <sub>Information Retrieval; World-Wide Web</sub>
     * A Statistical Interpretation of Term Specificity in Retrieval. [Spärck Jones (1972)](http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf).
@@ -177,9 +177,9 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
     \
     <sub>Internet Scale Data Systems</sub>
-    * The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://research.google/pubs/pub51.pdf).
-    * MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://research.google/pubs/pub62.pdf).
-    * Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://research.google/pubs/pub27898.pdf).
+    * The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf).
+    * MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf).
+    * Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf).
     * ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
     * The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).
     * Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
@@ -209,8 +209,8 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
     \
     <sub>Machine Learning</sub>
-    * Statistical Modeling: The Two Cultures. [Breiman (2001)](http://www2.math.uu.se/~thulin/mm/breiman.pdf).
-    * The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://research.google/pubs/pub35179.pdf).
+    * Statistical Modeling: The Two Cultures. [Breiman (2001)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1009213726).
+    * The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf).
     * ImageNet Classification with Deep Convolutional Neural Networks. [Krizhevsky, Sutskever, Hinton (2012)](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
     * Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
     * Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
@@ -243,7 +243,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **New Directions in Cryptography. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).**
 1. **Time, Clocks, and the Ordering of Events in a Distributed System. [Lamport (1978)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf).**
 1. **Designing for Usability: Key Principles and What Designers Think. [Gould, Lewis (1985)](https://dl.acm.org/doi/pdf/10.1145/3166.3170).**
-1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://research.google/pubs/pub334.pdf).**
+1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf).**
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
 1. **Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).**
@@ -354,27 +354,27 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 1. Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
-1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://research.google/pubs/pub334.pdf).**
+1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf).**
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](http://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf).
 1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
 1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
-1. Statistical Modeling: The Two Cultures. [Breiman (2001)](http://www2.math.uu.se/~thulin/mm/breiman.pdf).
+1. Statistical Modeling: The Two Cultures. [Breiman (2001)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1009213726).
 1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
 1. A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
-1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://research.google/pubs/pub51.pdf).
+1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf).
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
 1. LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
 1. A Unified Theory of Garbage Collection. [Bacon, Cheng, Rajan (2004)](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf).
 1. TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
-1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://research.google/pubs/pub62.pdf).
+1. MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf).
 1. A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
 1. Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
 1. **An Incremental Approach to Compiler Construction. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).**
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
-1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://research.google/pubs/pub27898.pdf).
+1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf).
 1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
 1. The Salsa20 family of stream ciphers. [Bernstein (2007)](https://cr.yp.to/snuffle/salsafamily-20071225.pdf).
 1. Paxos made live - An Engineering Perspective. [Chandra, Griesemer, Redstone (2007)](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf).
@@ -382,7 +382,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
 1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
-1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://research.google/pubs/pub35179.pdf).
+1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf).
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).
 1. Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).

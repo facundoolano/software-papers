@@ -490,7 +490,7 @@
 - title: The anatomy of a large-scale hypertextual Web search engine
   author: Brin, Page
   year: 1998
-  link: https://research.google/pubs/pub334.pdf
+  link: https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf
   topics: [Information Retrieval, World-Wide Web]
   related:
     - title: A Statistical Interpretation of Term Specificity in Retrieval
@@ -515,15 +515,15 @@
     - title: The Google File System
       author: Ghemawat, Gobioff, Leung
       year: 2003
-      link: https://research.google/pubs/pub51.pdf
+      link: https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf
     - title: "MapReduce: Simplified Data Processing on Large Clusters"
       author: Dean, Ghemawat
       year: 2004
-      link: https://research.google/pubs/pub62.pdf
+      link: https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf
     - title: "Bigtable: A Distributed Storage System for Structured Data"
       author: Chang et al
       year: 2006
-      link: https://research.google/pubs/pub27898.pdf
+      link: https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf
     - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
       author: Brewer
       year: 2012
@@ -611,11 +611,12 @@
     - title: "Statistical Modeling: The Two Cultures"
       author: Breiman
       year: 2001
-      link: http://www2.math.uu.se/~thulin/mm/breiman.pdf
+      # link: http://www2.math.uu.se/~thulin/mm/breiman.pdf
+      link: https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1009213726
     - title: The Unreasonable Effectiveness of Data
       author: Halevy, Norvig, Pereira
       year: 2009
-      link: https://research.google/pubs/pub35179.pdf
+      link: https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf
     - title: Attention Is All You Need
       author: Vaswani et al
       year: 2017

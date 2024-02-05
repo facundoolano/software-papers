@@ -204,7 +204,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
     \
     <sub>Crytpocurrencies</sub>
-    * Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
+    * Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
     \
@@ -394,7 +394,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
-1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf).
+1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 1. Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
 1. Towards a Theory of Conceptual Design for Software. [Jackson (2015)](https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf).
 1. Deep Learning. [LeCun, Bengio, Hinton (2015)](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).

@@ -539,7 +539,7 @@
     - title: The Hadoop Distributed File System
       author: Shvachko et al
       year: 2010
-      link: https://storageconference.us/2010/Papers/MSST/Shvachko.pdf
+      link: https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf
     - title: "Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases"
       author: Verbitski et al
       year: 2017

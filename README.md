@@ -181,7 +181,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * MapReduce: Simplified Data Processing on Large Clusters. [Dean, Ghemawat (2004)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf).
     * Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf).
     * ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
-    * The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).
+    * The Hadoop Distributed File System. [Shvachko et al (2010)](https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf).
     * Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
     * CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
     * Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf).
@@ -384,7 +384,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
 1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf).
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
-1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf).
+1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf).
 1. Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
 1. Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
 1. CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).

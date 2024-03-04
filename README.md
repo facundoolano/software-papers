@@ -55,7 +55,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
     * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
-    * Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
+    * Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).
     * Towards a Theory of Conceptual Design for Software. [Jackson (2015)](https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf).
 
 1. **Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).**
@@ -349,7 +349,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
 1. **Engineering a Sort Function. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).**
 1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
-1. Software Aging. [Parnas (1994)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf).
+1. Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).
 1. Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
 1. Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 1. Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).

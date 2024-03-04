@@ -135,7 +135,7 @@
     - title: Software Aging
       author: Parnas
       year: 1994
-      link: https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf
+      link: https://dl.acm.org/doi/pdf/10.5555/257734.257788
     - title: Designing Software for Ease of Extension and Contraction
       author: Parnas
       year: 1979

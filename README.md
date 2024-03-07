@@ -83,7 +83,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Next 700 Programming Languages. [Landin (1966)](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf).
     * Programming pearls: little languages. [Bentley (1986)](https://dl.acm.org/doi/pdf/10.1145/6424.315691).
     * The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
-    * A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
+    * A Brief History of Just-In-Time. [Aycock (2003)](https://user.it.uu.se/~kostis/Teaching/KT2-04/jit_survey.pdf).
     * LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
     * A Unified Theory of Garbage Collection. [Bacon, Cheng, Rajan (2004)](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf).
     * A Nanopass Framework for Compiler Education. [Sarkar, Waddell, Dybvig (2005)](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf).
@@ -362,7 +362,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
 1. Statistical Modeling: The Two Cultures. [Breiman (2001)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1009213726).
 1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
-1. A Brief History of Just-In-Time. [Aycock (2003)](http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf).
+1. A Brief History of Just-In-Time. [Aycock (2003)](https://user.it.uu.se/~kostis/Teaching/KT2-04/jit_survey.pdf).
 1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf).
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
 1. LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).

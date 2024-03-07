@@ -232,7 +232,7 @@
     - title: A Brief History of Just-In-Time
       author: Aycock
       year: 2003
-      link: http://eecs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/JustInTimeCompilation.pdf
+      link: https://user.it.uu.se/~kostis/Teaching/KT2-04/jit_survey.pdf
     - title: The Essence of Compiling with Continuations
       author: Flanagan et al
       year: 1993

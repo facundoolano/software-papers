@@ -94,7 +94,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     <sub>Software Engineering; Project Management</sub>
     * How do committees invent? [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
-    * The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
+    * The Mythical Man Month. [Brooks (1975)](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf).
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
     * The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
@@ -297,7 +297,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **The UNIX Time- Sharing System. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).**
 1. **A Protocol for Packet Network Intercommunication. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).**
 1. Self-stabilizing systems in spite of distributed control. [Dijkstra (1974)](https://dl.acm.org/doi/pdf/10.1145/361179.361202).
-1. The Mythical Man Month. [Brooks (1975)](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/MythicalManMonth.pdf).
+1. The Mythical Man Month. [Brooks (1975)](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf).
 1. Granularity of Locks and Degrees of Consistency in a Shared Data Base. [Gray et al (1975)](http://web.eecs.umich.edu/~jag/eecs584/papers/lock-granularity.pdf).
 1. The Semantics of Predicate Logic as a Programming Language. [Van Emden, Kowalski (1976)](https://dl.acm.org/doi/pdf/10.1145/321978.321991).
 1. **New Directions in Cryptography. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).**

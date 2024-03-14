@@ -30,7 +30,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * ELIZA—a computer program for the study of natural language communication between man and machine. [Weizenbaum (1966)](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf).
     * A Theory of the Learnable. [Valiant (1984)](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf).
 
-1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://pzs.dstu.dp.ua/ComputerGraphics/ic/bibl/huffman.pdf).**
+1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf).**
     \
     <sub>Information Theory</sub>
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
@@ -229,7 +229,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 
 1. **Von Neumann's First Computer Program. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).**
 1. **Computing Machinery and Intelligence. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).**
-1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://pzs.dstu.dp.ua/ComputerGraphics/ic/bibl/huffman.pdf).**
+1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf).**
 1. **Engineering a Sort Function. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).**
 1. **A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).**
 1. **Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).**
@@ -262,7 +262,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
 1. **Computing Machinery and Intelligence. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).**
 1. The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
-1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://pzs.dstu.dp.ua/ComputerGraphics/ic/bibl/huffman.pdf).**
+1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf).**
 1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).
 1. Man-Computer symbiosis. [Licklider (1958)](http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf).
 1. A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](https://jmvidal.cse.sc.edu/library/dijkstra59a.pdf).

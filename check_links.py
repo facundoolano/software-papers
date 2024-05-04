@@ -4,7 +4,13 @@
 
 
 import requests
+import urllib3
 import yaml
+
+# the parnas1972 paper is throwing cert errors and I can't find another link for it.
+# so requesting with verify=False and disabling warnings for now
+urllib3.disable_warnings()
+
 
 HEADERS = {'User-Agent': 'My User Agent 1.0'}
 
@@ -28,9 +34,9 @@ for paper in papers:
         print('skipping ACM')
         continue
 
-    response = requests.head(paper['link'], headers=HEADERS)
+    response = requests.head(paper['link'], headers=HEADERS, verify=False)
     if response.status_code == 405:
-        response = requests.get(paper['link'], headers=HEADERS)
+        response = requests.get(paper['link'], headers=HEADERS, verify=False)
     if response.ok:
         print('ok')
     else:

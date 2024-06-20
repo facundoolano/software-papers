@@ -203,8 +203,14 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
     \
-    <sub>Crytpocurrencies</sub>
+    <sub>Decentralized Distributed Systems; Peer-to-peer systems</sub>
+    * Operational transformation in real-time group editors: issues, algorithms, and achievements. [Sun, Ellis (1998)](https://dl.acm.org/doi/pdf/10.1145/289444.289469).
+    * Kademlia: A Peer-to-Peer Information System Based on the XOR Metric. [Maymounkov, Mazières (2002)](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf).
+    * Incentives Build Robustness in BitTorrent. [Cohen (2003)](https://www.bittorrent.org/bittorrentecon.pdf).
+    * Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf).
+    * IPFS - Content Addressed, Versioned, P2P File System. [Benet (2014)](https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf).
     * Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf).
+    * Local-First Software: You Own Your Data, in spite of the Cloud. [Kleppmann et al (2019)](https://www.inkandswitch.com/local-first/static/local-first.pdf).
 
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
     \
@@ -356,15 +362,18 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
 1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf).**
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](http://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf).
+1. Operational transformation in real-time group editors: issues, algorithms, and achievements. [Sun, Ellis (1998)](https://dl.acm.org/doi/pdf/10.1145/289444.289469).
 1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
 1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf).
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
 1. Statistical Modeling: The Two Cultures. [Breiman (2001)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1009213726).
 1. Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
+1. Kademlia: A Peer-to-Peer Information System Based on the XOR Metric. [Maymounkov, Mazières (2002)](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf).
 1. A Brief History of Just-In-Time. [Aycock (2003)](https://user.it.uu.se/~kostis/Teaching/KT2-04/jit_survey.pdf).
 1. The Google File System. [Ghemawat, Gobioff, Leung (2003)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf).
 1. Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
+1. Incentives Build Robustness in BitTorrent. [Cohen (2003)](https://www.bittorrent.org/bittorrentecon.pdf).
 1. LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. [Lattner, Adve (2004)](https://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf).
 1. A Unified Theory of Garbage Collection. [Bacon, Cheng, Rajan (2004)](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf).
 1. TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
@@ -387,6 +396,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf).
 1. Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
 1. Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
+1. Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf).
 1. CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
 1. **Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).**
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
@@ -394,6 +404,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
 1. The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
+1. IPFS - Content Addressed, Versioned, P2P File System. [Benet (2014)](https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf).
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf).
 1. Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
 1. Towards a Theory of Conceptual Design for Software. [Jackson (2015)](https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf).
@@ -401,6 +412,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).
 1. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf).
 1. Attention Is All You Need. [Vaswani et al (2017)](https://arxiv.org/pdf/1706.03762.pdf).
+1. Local-First Software: You Own Your Data, in spite of the Cloud. [Kleppmann et al (2019)](https://www.inkandswitch.com/local-first/static/local-first.pdf).
 
 
 </details>

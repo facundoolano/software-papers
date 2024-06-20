@@ -591,8 +591,32 @@
   author: Nakamoto
   year: 2008
   link: https://bitcoin.org/bitcoin.pdf
-  topics: [Crytpocurrencies]
+  topics: [Decentralized Distributed Systems, Peer-to-peer systems]
   related:
+    - title: "Operational transformation in real-time group editors: issues, algorithms, and achievements"
+      author: Sun, Ellis
+      year: 1998
+      link: https://dl.acm.org/doi/pdf/10.1145/289444.289469
+    - title: Conflict-free Replicated Data Types
+      author: Shapiro et al
+      year: 2011
+      link: https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf
+    - title: "Incentives Build Robustness in BitTorrent"
+      author: Cohen
+      link: https://www.bittorrent.org/bittorrentecon.pdf
+      year: 2003
+    - title: "IPFS - Content Addressed, Versioned, P2P File System"
+      year: 2014
+      author: Benet
+      link: https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf
+    - title: "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric"
+      link: https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
+      year: 2002
+      author: Maymounkov, Mazières
+    - title: "Local-First Software: You Own Your Data, in spite of the Cloud"
+      year: 2019
+      author: Kleppmann et al
+      link: https://www.inkandswitch.com/local-first/static/local-first.pdf
     - title: "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform"
       author: Buterin
       year: 2014

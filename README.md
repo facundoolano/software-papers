@@ -185,6 +185,8 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
     * CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
     * Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf).
+    * Amazon EBS: Millions of Tiny Databases. [Brooker, Chen, Ping (2020)](https://assets.amazon.science/c4/11/de2606884b63bf4d95190a3c2390/millions-of-tiny-databases.pdf).
+    * Bigtable: A Distributed Storage System for Structured Data. [Elhemali, Gallagher, Gordon (2022)](https://www.usenix.org/system/files/atc22-elhemali.pdf).
 
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
     \
@@ -413,6 +415,8 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf).
 1. Attention Is All You Need. [Vaswani et al (2017)](https://arxiv.org/pdf/1706.03762.pdf).
 1. Local-First Software: You Own Your Data, in spite of the Cloud. [Kleppmann et al (2019)](https://www.inkandswitch.com/local-first/static/local-first.pdf).
+1. Amazon EBS: Millions of Tiny Databases. [Brooker, Chen, Ping (2020)](https://assets.amazon.science/c4/11/de2606884b63bf4d95190a3c2390/millions-of-tiny-databases.pdf).
+1. Bigtable: A Distributed Storage System for Structured Data. [Elhemali, Gallagher, Gordon (2022)](https://www.usenix.org/system/files/atc22-elhemali.pdf).
 
 
 </details>

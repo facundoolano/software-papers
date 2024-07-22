@@ -544,6 +544,14 @@
       author: Verbitski et al
       year: 2017
       link: https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf
+    - title: "Amazon EBS: Millions of Tiny Databases"
+      author: Brooker, Chen, Ping
+      year: 2020
+      link: https://assets.amazon.science/c4/11/de2606884b63bf4d95190a3c2390/millions-of-tiny-databases.pdf 
+    - title: "Bigtable: A Distributed Storage System for Structured Data"
+      author: Elhemali, Gallagher, Gordon
+      year: 2022
+      link: https://www.usenix.org/system/files/atc22-elhemali.pdf
 
 - title: On Designing and Deploying Internet Scale Services
   author: Hamilton

@@ -193,7 +193,7 @@
     - title: "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs"
       author: Claessen, Hughes
       year: 2000
-      link: https://www.cs.tufts.edu/~nr/cs257/archive/john-hughes/quick.pdf
+      link: https://dl.acm.org/doi/pdf/10.1145/351240.351266
     - title: The essence of functional programming
       author: Wadler
       year: 1992

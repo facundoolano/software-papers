@@ -144,12 +144,16 @@
       author: Jackson
       year: 2015
       link: https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf
+    - title: Programming with Abstract Data Types
+      author: Liskov, Zilles
+      year: 1974
+      link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
 
-- title: Programming with Abstract Data Types
-  author: Liskov, Zilles
-  year: 1974
-  link: https://dl.acm.org/doi/pdf/10.1145/942572.807045
-  topics: [Abstract Data Types, Object-Oriented Programming]
+- title: "Programming Paradigms for Dummies: What Every Programmer Should Know"
+  author: Van Roy
+  year: 2012
+  link: https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+  topics: [Programming Paradigms]
   related:
     - title: On understanding types, data abstraction, and polymorphism
       author: Cardelli, Wegner
@@ -167,13 +171,10 @@
       author: Milner
       year: 1978
       link: https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
-
-- title: Why Functional Programming Matters
-  author: Hughes
-  year: 1990
-  link: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
-  topics: [Functional Programming]
-  related:
+    - title: Why Functional Programming Matters
+      author: Hughes
+      year: 1990
+      link: https://www.cs.utexas.edu/~shmat/courses/cs345/whyfp.pdf
     - title: Can Programming Be Liberated from the von Neumann Style?
       author: Backus
       year: 1978

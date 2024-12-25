@@ -55,7 +55,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
     * Programming as Theory Building. [Naur (1985)](https://pages.cs.wisc.edu/~remzi/Naur.pdf).
-    * Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).
     * Towards a Theory of Conceptual Design for Software. [Jackson (2015)](https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf).
 
 1. **Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).**
@@ -96,6 +95,8 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
     * The Mythical Man Month. [Brooks (1975)](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf).
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
+    * Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).
+    * Laws of Software Evolution Revisited. [Lehman (1997)](https://www.rose-hulman.edu/Class/csse/csse490/cs490-const-and-evol/LawsOfSoftwareEvolutionRevisited.pdf).
     * The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 
@@ -356,6 +357,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Engineering a Sort Function. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).**
 1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
 1. Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).
+1. Laws of Software Evolution Revisited. [Lehman (1997)](https://www.rose-hulman.edu/Class/csse/csse490/cs490-const-and-evol/LawsOfSoftwareEvolutionRevisited.pdf).
 1. Software Transactional Memory. [Shavit, Touitou (1997)](https://groups.csail.mit.edu/tds/papers/Shavit/ShavitTouitou.pdf).
 1. Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 1. Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).

@@ -132,10 +132,6 @@
       author: Parnas
       year: 1972
       link: https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF
-    - title: Software Aging
-      author: Parnas
-      year: 1994
-      link: https://dl.acm.org/doi/pdf/10.5555/257734.257788
     - title: Designing Software for Ease of Extension and Contraction
       author: Parnas
       year: 1979
@@ -169,7 +165,7 @@
       link: https://dl.acm.org/doi/pdf/10.1145/512760.512762
     - title: A Theory of Type Polymorphism in Programming
       author: Milner
-      year:  1978
+      year: 1978
       link: https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
 
 - title: Why Functional Programming Matters
@@ -246,7 +242,6 @@
       year: 2004
       link: https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf
 
-
 - title: "No Silver Bullet: Essence and Accidents of Software Engineering"
   author: Brooks
   year: 1987
@@ -277,6 +272,14 @@
       author: Moseley, Marks
       year: 2006
       link: http://curtclifton.net/papers/MoseleyMarks06a.pdf
+    - title: Software Aging
+      author: Parnas
+      year: 1994
+      link: https://dl.acm.org/doi/pdf/10.5555/257734.257788
+    - title: Laws of Software Evolution Revisited
+      author: Lehman
+      year: 1997
+      link: https://www.rose-hulman.edu/Class/csse/csse490/cs490-const-and-evol/LawsOfSoftwareEvolutionRevisited.pdf
 
 - title: Communicating sequential processes
   author: Hoare
@@ -524,7 +527,7 @@
       author: Chang et al
       year: 2006
       link: https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf
-    - title: "CAP Twelve Years Later: How the \"Rules\" Have Changed"
+    - title: 'CAP Twelve Years Later: How the "Rules" Have Changed'
       author: Brewer
       year: 2012
       link: https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf

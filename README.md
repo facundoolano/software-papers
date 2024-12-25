@@ -41,7 +41,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     <sub>Data Structures; Algorithms</sub>
     * On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).
     * A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](https://jmvidal.cse.sc.edu/library/dijkstra59a.pdf).
-    * Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
+    * Quicksort. [Hoare (1962)](https://dl.acm.org/doi/pdf/10.5555/63445.C1104357).
     * Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://dl.acm.org/doi/pdf/10.1145/362686.362692).
     * The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
     * Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
@@ -277,7 +277,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Some Moral and Technical Consequences of Automation. [Wiener (1960)](https://nissenbaum.tech.cornell.edu/papers/Wiener.pdf).
 1. Steps towards Artificial Intelligence. [Minsky (1960)](http://worrydream.com/refs/Minsky%20-%20Steps%20Toward%20Artificial%20Intelligence.pdf).
 1. Recursive Functions of Symbolic Expressions and Their Computation by Machine. [McCarthy (1960)](http://jmc.stanford.edu/articles/recursive/recursive.pdf).
-1. Quicksort. [Hoare (1962)](https://academic.oup.com/comjnl/article-pdf/5/1/10/1111445/050010.pdf).
+1. Quicksort. [Hoare (1962)](https://dl.acm.org/doi/pdf/10.5555/63445.C1104357).
 1. An Experimental Time-Sharing System. [Corbató, Merwin Daggett, Daley (1962)](http://larch-www.lcs.mit.edu:8001/~corbato/sjcc62/).
 1. Programming Considered as a Human Activity. [Dijkstra (1965)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD01xx/EWD117.html).
 1. Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).

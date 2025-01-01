@@ -171,7 +171,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     <sub>Information Retrieval; World-Wide Web</sub>
     * A Statistical Interpretation of Term Specificity in Retrieval. [Spärck Jones (1972)](http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf).
     * World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
-    * The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](http://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf).
+    * The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](https://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/pagerank.pdf).
 
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
     \
@@ -360,7 +360,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).
 1. The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
 1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf).**
-1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](http://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf).
+1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](https://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/pagerank.pdf).
 1. Operational transformation in real-time group editors: issues, algorithms, and achievements. [Sun, Ellis (1998)](https://dl.acm.org/doi/pdf/10.1145/289444.289469).
 1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
 1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://pmg.csail.mit.edu/papers/osdi99.pdf).

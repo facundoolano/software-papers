@@ -504,7 +504,7 @@
     - title: "The PageRank Citation Ranking: Bringing Order to the Web"
       author: Page, Brin, Motwani
       year: 1998
-      link: http://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf
+      link: https://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/pagerank.pdf
     - title: "World-Wide Web: Information Universe"
       author: Berners-Lee et al
       year: 1992

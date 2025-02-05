@@ -505,10 +505,10 @@
       author: Page, Brin, Motwani
       year: 1998
       link: https://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/pagerank.pdf
-    - title: "World-Wide Web: Information Universe"
-      author: Berners-Lee et al
-      year: 1992
-      link: https://www.w3.org/History/1992/ENRAP/Article_9202.pdf
+    - title: "Information Management: A Proposal"
+      author: Berners-Lee
+      year: 1990
+      link: https://cds.cern.ch/record/369245/files/dd-89-001.pdf
 
 - title: Dynamo, Amazon’s Highly Available Key-value store
   author: DeCandia et al

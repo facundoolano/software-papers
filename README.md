@@ -170,7 +170,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     \
     <sub>Information Retrieval; World-Wide Web</sub>
     * A Statistical Interpretation of Term Specificity in Retrieval. [Spärck Jones (1972)](http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf).
-    * World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
+    * Information Management: A Proposal. [Berners-Lee (1990)](https://cds.cern.ch/record/369245/files/dd-89-001.pdf).
     * The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](https://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/pagerank.pdf).
 
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
@@ -346,11 +346,11 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Design Philosophy of the DARPA Internet Protocols. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
 1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.utexas.edu/~shmat/courses/cs345/whyfp.pdf).
 1. Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
+1. Information Management: A Proposal. [Berners-Lee (1990)](https://cds.cern.ch/record/369245/files/dd-89-001.pdf).
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
 1. On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
 1. The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf).
 1. The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
-1. World-Wide Web: Information Universe. [Berners-Lee et al (1992)](https://www.w3.org/History/1992/ENRAP/Article_9202.pdf).
 1. **Engineering a Sort Function. [Bentley, McIlroy (1993)](https://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).**
 1. The Essence of Compiling with Continuations. [Flanagan et al (1993)](https://dl.acm.org/doi/pdf/10.1145/173262.155113).
 1. Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).

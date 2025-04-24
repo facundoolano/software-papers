@@ -132,7 +132,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * An algorithm for distributed computation of a Spanning Tree in an Extended LAN. [Perlman (1985)](https://dl.acm.org/doi/pdf/10.1145/319056.319004).
     * The Design Philosophy of the DARPA Internet Protocols. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
     * TOR: The second generation onion router. [Dingledine et al (2004)](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf).
-    * Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
+    * Why the Internet only just works. [Handley (2006)](https://www2.cs.uh.edu/~gnawali/courses/cosc6377-f17/papers/Handley06.pdf).
     * The Network is Reliable. [Bailis,  Kingsbury (2014)](https://queue.acm.org/detail.cfm?id=2655736).
 
 1. **New Directions in Cryptography. [Diffie, Hellman (1976)](https://ee.stanford.edu/~hellman/publications/24.pdf).**
@@ -381,7 +381,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
 1. **An Incremental Approach to Compiler Construction. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).**
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
-1. Why the Internet only just works. [Handley (2006)](http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf).
+1. Why the Internet only just works. [Handley (2006)](https://www2.cs.uh.edu/~gnawali/courses/cosc6377-f17/papers/Handley06.pdf).
 1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf).
 1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
 1. The Salsa20 family of stream ciphers. [Bernstein (2007)](https://cr.yp.to/snuffle/salsafamily-20071225.pdf).

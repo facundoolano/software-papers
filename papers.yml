@@ -126,8 +126,8 @@
   related:
     - title: On the Criteria To Be Used in Decomposing Systems into Modules
       author: Parnas
-      year: 1971
-      link: https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
+      year: 1972
+      link: https://dl.acm.org/doi/pdf/10.1145/361598.361623
     - title: Information Distribution Aspects of Design Methodology
       author: Parnas
       year: 1972

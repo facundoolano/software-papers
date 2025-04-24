@@ -51,7 +51,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).**
     \
     <sub>Software Design</sub>
-    * On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
+    * On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623).
     * Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
     * Programming with Abstract Data Types. [Liskov, Zilles (1974)](https://dl.acm.org/doi/pdf/10.1145/942572.807045).
     * Designing Software for Ease of Extension and Contraction. [Parnas (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf).
@@ -290,9 +290,9 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The nucleus of a multiprogramming system. [Hansen (1970)](http://www.brinch-hansen.net/papers/1970a.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).**
 1. Program development by stepwise refinement. [Wirth (1971)](https://dl.acm.org/doi/pdf/10.1145/362575.362577).
-1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1971)](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf).
 1. The Humble Programmer. [Dijkstra (1972)](http://rkka21.ru/docs/turing-award/ed1972e.pdf).
 1. **A Design Methodology for Reliable Software Systems. [Liskov (1972)](https://dl.acm.org/doi/pdf/10.1145/1479992.1480018).**
+1. On the Criteria To Be Used in Decomposing Systems into Modules. [Parnas (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623).
 1. Information Distribution Aspects of Design Methodology. [Parnas (1972)](https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF).
 1. A Statistical Interpretation of Term Specificity in Retrieval. [Spärck Jones (1972)](http://openlib.org/home/krichel/courses/lis618/readings/spaerk-jones72.pdf).
 1. Computer Programming as an Art. [Knuth (1974)](http://www.cs.bilkent.edu.tr/~canf/knuth1974.pdf).

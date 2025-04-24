@@ -218,7 +218,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf).
     * ImageNet Classification with Deep Convolutional Neural Networks. [Krizhevsky, Sutskever, Hinton (2012)](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
     * Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).
-    * Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
+    * Generative Adversarial Nets. [Goodfellow et al (2014)](https://arxiv.org/pdf/1406.2661).
     * Deep Learning. [LeCun, Bengio, Hinton (2015)](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
     * Attention Is All You Need. [Vaswani et al (2017)](https://arxiv.org/pdf/1706.03762.pdf).
 
@@ -406,7 +406,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
 1. IPFS - Content Addressed, Versioned, P2P File System. [Benet (2014)](https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf).
 1. Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf).
-1. Generative Adversarial Nets. [Goodfellow et al (2014)](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf).
+1. Generative Adversarial Nets. [Goodfellow et al (2014)](https://arxiv.org/pdf/1406.2661).
 1. Towards a Theory of Conceptual Design for Software. [Jackson (2015)](https://groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf).
 1. Deep Learning. [LeCun, Bengio, Hinton (2015)](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
 1. Bringing the Web up to Speed with WebAssembly. [Haas (2017)](https://dl.acm.org/doi/pdf/10.1145/3062341.3062363).

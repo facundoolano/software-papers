@@ -652,7 +652,7 @@
     - title: Generative Adversarial Nets
       author: Goodfellow et al
       year: 2014
-      link: https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf
+      link: https://arxiv.org/pdf/1406.2661
     - title: ImageNet Classification with Deep Convolutional Neural Networks
       author: Krizhevsky, Sutskever, Hinton
       year: 2012

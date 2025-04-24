@@ -33,6 +33,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf).**
     \
     <sub>Information Theory</sub>
+    * Prediction and Entropy of Printed English. [Shannon (1950)](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
     * A Universal Algorithm for Sequential Data Compression. [Ziv, Lempel (1977)](https://courses.cs.duke.edu/spring03/cps296.5/papers/ziv_lempel_1977_universal_algorithm.pdf).
     * Fifty Years of Shannon Theory. [Verdú (1998)](https://monoskop.org/images/7/78/Verdu_Sergio_1998_Fifty_Years_of_Shannon_Theory.pdf).
 
@@ -265,6 +266,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 
 1. As We May Think. [Bush (1945)](https://web.mit.edu/STS.035/www/PDFs/think.pdf).
 1. **Computing Machinery and Intelligence. [Turing (1950)](https://www.csee.umbc.edu/courses/471/papers/turing.pdf).**
+1. Prediction and Entropy of Printed English. [Shannon (1950)](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
 1. The Education of a Computer. [Hopper (1952)](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/p243-hopper.pdf).
 1. **A Method for the Construction of Minimum-Redundancy Codes. [Huffman (1952)](http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf).**
 1. On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).

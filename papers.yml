@@ -70,6 +70,10 @@
   link: http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf
   topics: [Information Theory]
   related:
+    - title: Prediction and Entropy of Printed English
+      author: Shannon
+      year: 1950
+      link: https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf
     - title: Fifty Years of Shannon Theory
       author: Verdú
       year: 1998

@@ -660,7 +660,7 @@
     - title: ImageNet Classification with Deep Convolutional Neural Networks
       author: Krizhevsky, Sutskever, Hinton
       year: 2012
-      link: https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+      link: https://www.cs.cmu.edu/~epxing/Class/10715-14f/reading/imagenet.pdf
     - title: Playing Atari with Deep Reinforcement Learning
       author: Mnih et al
       year: 2013

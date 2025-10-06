@@ -195,12 +195,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
     * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
 
-1. **Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).**
-    \
-    <sub>Performance</sub>
-    * Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
-    * Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
-
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
     \
     <sub>Decentralized Distributed Systems; Peer-to-peer systems</sub>
@@ -251,7 +245,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **The anatomy of a large-scale hypertextual Web search engine. [Brin, Page (1998)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf).**
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
-1. **Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).**
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
 
@@ -385,7 +378,6 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 1. Why the Internet only just works. [Handley (2006)](https://www2.cs.uh.edu/~gnawali/courses/cosc6377-f17/papers/Handley06.pdf).
 1. Bigtable: A Distributed Storage System for Structured Data. [Chang et al (2006)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf).
-1. Performance Anti-Patterns. [Smaalders (2006)](https://queue.acm.org/detail.cfm?id=1117403).
 1. The Salsa20 family of stream ciphers. [Bernstein (2007)](https://cr.yp.to/snuffle/salsafamily-20071225.pdf).
 1. Paxos made live - An Engineering Perspective. [Chandra, Griesemer, Redstone (2007)](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf).
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
@@ -395,12 +387,10 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf).
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf).
-1. Thinking Clearly about Performance. [Millsap (2010)](https://queue.acm.org/detail.cfm?id=1854041).
 1. Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
 1. Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf).
 1. **Programming Paradigms for Dummies: What Every Programmer Should Know. [Van Roy (2012)](https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf).**
 1. CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
-1. **Thinking Methodically about Performance. [Gregg (2012)](https://queue.acm.org/detail.cfm?id=2413037).**
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**
 1. ImageNet Classification with Deep Convolutional Neural Networks. [Krizhevsky, Sutskever, Hinton (2012)](https://www.cs.cmu.edu/~epxing/Class/10715-14f/reading/imagenet.pdf).
 1. Playing Atari with Deep Reinforcement Learning. [Mnih et al (2013)](https://arxiv.org/pdf/1312.5602.pdf).

@@ -580,21 +580,6 @@
       year: 2009
       link: https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf
 
-- title: "Thinking Methodically about Performance"
-  author: Gregg
-  year: 2012
-  link: https://queue.acm.org/detail.cfm?id=2413037
-  topics: [Performance]
-  related:
-    - title: Thinking Clearly about Performance
-      author: Millsap
-      year: 2010
-      link: https://queue.acm.org/detail.cfm?id=1854041
-    - title: Performance Anti-Patterns
-      author: Smaalders
-      year: 2006
-      link: https://queue.acm.org/detail.cfm?id=1117403
-
 - title: Bitcoin, A peer-to-peer electronic cash system
   author: Nakamoto
   year: 2008

@@ -69,7 +69,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Can Programming Be Liberated from the von Neumann Style? [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
     * On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042).
-    * Why Functional Programming Matters. [Hughes (1990)](https://www.cs.utexas.edu/~shmat/courses/cs345/whyfp.pdf).
+    * Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
     * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
     * The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://dl.acm.org/doi/pdf/10.1145/351240.351266).
@@ -91,7 +91,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     \
     <sub>Software Engineering; Project Management</sub>
     * How do committees invent? [Conway (1968)](https://www.melconway.com/Home/pdf/committees.pdf).
-    * Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
+    * Managing the Development of Large Software Systems. [Royce (1970)](https://dl.acm.org/doi/pdf/10.5555/41765.41801).
     * The Mythical Man Month. [Brooks (1975)](https://www.cs.virginia.edu/~evans/greatworks/mythical.pdf).
     * On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
     * Software Aging. [Parnas (1994)](https://dl.acm.org/doi/pdf/10.5555/257734.257788).
@@ -281,7 +281,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Structure of the \"THE\"-Multiprogramming System. [Dijkstra (1968)](https://www.eecs.ucf.edu/~eurip/papers/dijkstra-the68.pdf).
 1. **Von Neumann's First Computer Program. [Knuth (1970)](https://dl.acm.org/doi/pdf/10.1145/356580.356581).**
 1. Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://dl.acm.org/doi/pdf/10.1145/362686.362692).
-1. Managing the Development of Large Software Systems. [Royce (1970)](https://www.praxisframework.org/files/royce1970.pdf).
+1. Managing the Development of Large Software Systems. [Royce (1970)](https://dl.acm.org/doi/pdf/10.5555/41765.41801).
 1. The nucleus of a multiprogramming system. [Hansen (1970)](http://www.brinch-hansen.net/papers/1970a.pdf).
 1. **A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).**
 1. Program development by stepwise refinement. [Wirth (1971)](https://dl.acm.org/doi/pdf/10.1145/362575.362577).
@@ -339,7 +339,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **No Silver Bullet: Essence and Accidents of Software Engineering. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).**
 1. A Digital Signature Based on a Conventional Encryption Function. [Merkle (1987)](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf).
 1. The Design Philosophy of the DARPA Internet Protocols. [Clark (1988)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf).
-1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.utexas.edu/~shmat/courses/cs345/whyfp.pdf).
+1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
 1. Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
 1. Information Management: A Proposal. [Berners-Lee (1990)](https://cds.cern.ch/record/369245/files/dd-89-001.pdf).
 1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).

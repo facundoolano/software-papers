@@ -178,7 +178,7 @@
     - title: Why Functional Programming Matters
       author: Hughes
       year: 1990
-      link: https://www.cs.utexas.edu/~shmat/courses/cs345/whyfp.pdf
+      link: https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
     - title: Can Programming Be Liberated from the von Neumann Style?
       author: Backus
       year: 1978
@@ -264,7 +264,7 @@
     - title: Managing the Development of Large Software Systems
       author: Royce
       year: 1970
-      link: https://www.praxisframework.org/files/royce1970.pdf
+      link: https://dl.acm.org/doi/pdf/10.5555/41765.41801
     - title: The Cathedral and the Bazaar
       author: Raymond
       year: 1998

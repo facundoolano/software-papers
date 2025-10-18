@@ -1,2 +1,41 @@
+# System files
 .DS_Store
-venv
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+.tox/
+.nox/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Claude settings
+.claude/*

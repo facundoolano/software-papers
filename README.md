@@ -163,7 +163,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Man-Computer symbiosis. [Licklider (1958)](http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf).
     * Some Thoughts About the Social Implications of Accessible Computing. [David, Fano (1965)](https://dl.acm.org/doi/pdf/10.1145/1463891.1463917).
     * Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).
-    * The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
+    * The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://dl.acm.org/doi/pdf/10.1145/1500774.1500840).
     * Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
     * Human-Computer Interaction: Psychology as a Science of Design. [Carroll (1997)](https://home.cs.colorado.edu/~martin/Csci6402/Papers/carroll97.pdf).
 
@@ -318,7 +318,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
 1. Tutorials for the First-Time Computer User. [Al-Awar, Chapanis, Ford (1981)](https://drive.google.com/file/d/1zA4LkSHoanjjhOVCwYzrkdkdzgPbKWJ9/view?usp=sharing).
 1. The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
-1. The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://www.tech-insider.org/star/research/acrobat/8206.pdf).
+1. The star user interface: an overview. [Smith, Irby, Kimball (1982)](https://dl.acm.org/doi/pdf/10.1145/1500774.1500840).
 1. Design Principles for Human-Computer Interfaces. [Norman (1983)](https://dl.acm.org/doi/pdf/10.1145/800045.801571).
 1. Ironies of Automation. [Bainbridge (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf).
 1. Literate Programming. [Knuth (1984)](http://www.literateprogramming.com/knuthweb.pdf).

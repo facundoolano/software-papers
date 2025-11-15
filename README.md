@@ -201,7 +201,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Operational transformation in real-time group editors: issues, algorithms, and achievements. [Sun, Ellis (1998)](https://dl.acm.org/doi/pdf/10.1145/289444.289469).
     * Kademlia: A Peer-to-Peer Information System Based on the XOR Metric. [Maymounkov, Mazières (2002)](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf).
     * Incentives Build Robustness in BitTorrent. [Cohen (2003)](https://www.bittorrent.org/bittorrentecon.pdf).
-    * Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf).
+    * Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://inria.hal.science/hal-00932836/file/CRDTs_SSS-2011.pdf).
     * IPFS - Content Addressed, Versioned, P2P File System. [Benet (2014)](https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf).
     * Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform. [Buterin (2014)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf).
     * Local-First Software: You Own Your Data, in spite of the Cloud. [Kleppmann et al (2019)](https://www.inkandswitch.com/local-first/static/local-first.pdf).
@@ -388,7 +388,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf).
 1. Kafka: a Distributed Messaging System for Log Processing. [Kreps, Narkhede, Rao (2011)](http://notes.stephenholiday.com/Kafka.pdf).
-1. Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf).
+1. Conflict-free Replicated Data Types. [Shapiro et al (2011)](https://inria.hal.science/hal-00932836/file/CRDTs_SSS-2011.pdf).
 1. **Programming Paradigms for Dummies: What Every Programmer Should Know. [Van Roy (2012)](https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf).**
 1. CAP Twelve Years Later: How the "Rules" Have Changed. [Brewer (2012)](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf).
 1. **A Few Useful Things to Know About Machine Learning. [Domingos (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).**

@@ -593,7 +593,7 @@
     - title: Conflict-free Replicated Data Types
       author: Shapiro et al
       year: 2011
-      link: https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf
+      link: https://inria.hal.science/hal-00932836/file/CRDTs_SSS-2011.pdf
     - title: "Incentives Build Robustness in BitTorrent"
       author: Cohen
       link: https://www.bittorrent.org/bittorrentecon.pdf

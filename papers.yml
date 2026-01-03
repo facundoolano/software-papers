@@ -458,7 +458,7 @@
     - title: Practical Byzantine Fault Tolerance
       author: Castro, Liskov
       year: 1999
-      link: http://pmg.csail.mit.edu/papers/osdi99.pdf
+      link: https://css.csail.mit.edu/6.824/2014/papers/castro-practicalbft.pdf
 
 - title: "Designing for Usability: Key Principles and What Designers Think"
   author: Gould, Lewis

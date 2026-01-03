@@ -151,7 +151,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Byzantine Generals Problem. [Lamport, Shostak, Pease (1982)](https://lamport.azurewebsites.net/pubs/byz.pdf).
     * Impossibility of Distributed Consensus With One Faulty Process. [Fisher, Lynch, Patterson (1985)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf).
     * Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
-    * Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](http://pmg.csail.mit.edu/papers/osdi99.pdf).
+    * Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://css.csail.mit.edu/6.824/2014/papers/castro-practicalbft.pdf).
     * Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
     * Paxos made live - An Engineering Perspective. [Chandra, Griesemer, Redstone (2007)](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf).
     * In Search of an Understandable Consensus Algorithm. [Ongaro, Ousterhout (2014)](https://raft.github.io/raft.pdf).
@@ -358,7 +358,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The PageRank Citation Ranking: Bringing Order to the Web. [Page, Brin, Motwani (1998)](https://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/pagerank.pdf).
 1. Operational transformation in real-time group editors: issues, algorithms, and achievements. [Sun, Ellis (1998)](https://dl.acm.org/doi/pdf/10.1145/289444.289469).
 1. Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
-1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](http://pmg.csail.mit.edu/papers/osdi99.pdf).
+1. Practical Byzantine Fault Tolerance. [Castro, Liskov (1999)](https://css.csail.mit.edu/6.824/2014/papers/castro-practicalbft.pdf).
 1. QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://dl.acm.org/doi/pdf/10.1145/351240.351266).
 1. Paxos made simple. [Lamport (2001)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf).
 1. Statistical Modeling: The Two Cultures. [Breiman (2001)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Fss%2F1009213726).

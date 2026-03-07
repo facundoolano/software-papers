@@ -193,7 +193,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * Why do computers stop and what can be done about it? [Gray (1985)](https://jimgray.azurewebsites.net/papers/TandemTR85.7_WhyDoComputersStop.pdf).
     * Recovery Oriented Computing (ROC): Motivation, Definition, Techniques, and Case Studies. [Patterson et al (2002)](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2002/CSD-02-1175.pdf).
     * Crash-Only Software. [Candea, Fox (2003)](https://research.cs.wisc.edu/areas/os/ReadingGroup/os-old/Papers/HotOSIX/Candea-CrashOnlySoftware.pdf).
-    * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
+    * Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/pdf/0909.1788).
 
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
     \
@@ -383,7 +383,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Dynamo, Amazon’s Highly Available Key-value store. [DeCandia et al (2007)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf).**
 1. **On Designing and Deploying Internet Scale Services. [Hamilton (2007)](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf).**
 1. **Bitcoin, A peer-to-peer electronic cash system. [Nakamoto (2008)](https://bitcoin.org/bitcoin.pdf).**
-1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf).
+1. Building on Quicksand. [Helland, Campbell (2009)](https://arxiv.org/pdf/0909.1788).
 1. The Unreasonable Effectiveness of Data. [Halevy, Norvig, Pereira (2009)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf).
 1. ZooKeeper: wait-free coordination for internet scale systems. [Hunt et al (2010)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf).
 1. The Hadoop Distributed File System. [Shvachko et al (2010)](https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf).

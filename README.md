@@ -99,7 +99,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Cathedral and the Bazaar. [Raymond (1998)](http://users.ece.utexas.edu/~perry/education/382v-s08/papers/raymond.pdf).
     * Out of the Tar Pit. [Moseley, Marks (2006)](http://curtclifton.net/papers/MoseleyMarks06a.pdf).
 
-1. **Communicating sequential processes. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).**
+1. **Communicating sequential processes. [Hoare (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359585).**
     \
     <sub>Concurrency</sub>
     * Solution Of a Problem in Concurrent Program Control. [Dijkstra (1965)](https://dl.acm.org/doi/pdf/10.1145/365559.365617).
@@ -235,7 +235,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. **Programming Paradigms for Dummies: What Every Programmer Should Know. [Van Roy (2012)](https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf).**
 1. **An Incremental Approach to Compiler Construction. [Ghuloum (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).**
 1. **No Silver Bullet: Essence and Accidents of Software Engineering. [Brooks (1987)](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf).**
-1. **Communicating sequential processes. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).**
+1. **Communicating sequential processes. [Hoare (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359585).**
 1. **The UNIX Time- Sharing System. [Ritchie, Thompson (1974)](https://dsf.berkeley.edu/cs262/unix.pdf).**
 1. **A Relational Model of Data for Large Shared Data Banks. [Codd (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf).**
 1. **A Protocol for Packet Network Intercommunication. [Cerf, Kahn (1974)](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf).**
@@ -304,7 +304,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. The Smalltalk-76 Programming System Design and Implementation. [Ingalls (1978)](https://dl.acm.org/doi/pdf/10.1145/512760.512762).
 1. A Theory of Type Polymorphism in Programming. [Milner (1978)](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf).
 1. Can Programming Be Liberated from the von Neumann Style? [Backus (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359579).
-1. **Communicating sequential processes. [Hoare (1978)](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf).**
+1. **Communicating sequential processes. [Hoare (1978)](https://dl.acm.org/doi/pdf/10.1145/359576.359585).**
 1. On the Duality of Operating System Structures. [Lauer, Needham (1978)](https://dl.acm.org/doi/pdf/10.1145/850657.850658).
 1. Ethernet: Distributed packet switching for local computer networks. [Metcalfe, Boggs (1978)](https://dl.acm.org/doi/pdf/10.1145/360248.360253).
 1. A Method for Obtaining Digital Signatures and Public-Key Cryptosystems. [Rivest, Shamir, Adleman (1978)](https://dl.acm.org/doi/pdf/10.1145/359340.359342).

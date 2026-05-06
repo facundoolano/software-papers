@@ -289,7 +289,7 @@
 - title: Communicating sequential processes
   author: Hoare
   year: 1978
-  link: https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+  link: https://dl.acm.org/doi/pdf/10.1145/359576.359585
   topics: [Concurrency]
   related:
     - title: Solution Of a Problem in Concurrent Program Control

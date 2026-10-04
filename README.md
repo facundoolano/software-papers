@@ -70,7 +70,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
     * The Semantic Elegance of Applicative Languages. [Turner (1981)](http://nsl.com/misc/sasl/paraffins-turner.pdf).
     * On understanding types, data abstraction, and polymorphism. [Cardelli, Wegner (1985)](https://dl.acm.org/doi/pdf/10.1145/6041.6042).
     * Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
-    * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
+    * SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://dl.acm.org/doi/pdf/10.1145/38765.38828).
     * The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).
     * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs. [Claessen, Hughes (2000)](https://dl.acm.org/doi/pdf/10.1145/351240.351266).
     * Church's Thesis and Functional Programming. [Turner (2006)](https://kar.kent.ac.uk/88944/1/ctfp.pdf_nocoversheet).
@@ -342,7 +342,7 @@ See the [sources](#sources) and [selection criteria](#selection-criteria) below.
 1. Why Functional Programming Matters. [Hughes (1990)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf).
 1. Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial. [Schneider (1990)](https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf).
 1. Information Management: A Proposal. [Berners-Lee (1990)](https://cds.cern.ch/record/369245/files/dd-89-001.pdf).
-1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps).
+1. SELF: The Power of Simplicity. [Ungar, Smith (1991)](https://dl.acm.org/doi/pdf/10.1145/38765.38828).
 1. On Building Systems That Will Fail. [Corbató (1991)](https://dl.acm.org/doi/pdf/10.1145/114669.114686).
 1. The Design and Implementation of a Log-Structured File System. [Rosenblum, Ousterhout (1991)](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf).
 1. The essence of functional programming. [Wadler (1992)](https://dl.acm.org/doi/pdf/10.1145/143165.143169).

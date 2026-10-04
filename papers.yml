@@ -166,7 +166,7 @@
     - title: "SELF: The Power of Simplicity"
       author: Ungar, Smith
       year: 1991
-      link: https://people.eecs.berkeley.edu/~fateman/264/papers/selfpower.ps
+      link: https://dl.acm.org/doi/pdf/10.1145/38765.38828
     - title: The Smalltalk-76 Programming System Design and Implementation
       author: Ingalls
       year: 1978
